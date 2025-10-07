@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jukebox Slave - Retro Music Player</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <!-- Location Permission Screen -->
+    <div id="locationScreen" class="screen">
+        <div class="location-container">
+            <div class="retro-header">
+                <h1><i class="fas fa-compact-disc"></i> JUKEBOX SLAVE</h1>
+                <p class="subtitle">Location Access Required</p>
+            </div>
+            <div class="location-content">
+                <p>This app requires location access to verify you're at the building.</p>
+                <div class="permission-note">
+                    <i class="fas fa-info-circle"></i>
+                    <strong>Important:</strong> You must allow "While using app" so you aren't asked next time you want to use the jukebox.
+                </div>
+                <button id="requestLocationBtn" class="retro-btn">
+                    <i class="fas fa-map-marker-alt"></i> ALLOW LOCATION ACCESS
+                </button>
+                <div id="locationError" class="error-message"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Login Screen -->
+    <div id="loginScreen" class="screen hidden">
+        <div class="login-container">
+            <div class="retro-header">
+                <h1><i class="fas fa-compact-disc"></i> JUKEBOX SLAVE</h1>
+                <p class="subtitle">Enter your credentials to access the music</p>
+            </div>
+            <form id="loginForm" class="auth-form">
+                <div class="input-group">
+                    <i class="fas fa-user"></i>
+                    <input type="text" id="username" placeholder="Username" required>
+                </div>
+                <div class="input-group">
+                    <i class="fas fa-lock"></i>
+                    <input type="password" id="password" placeholder="Password" required>
+                </div>
+                <button type="submit" class="retro-btn">
+                    <i class="fas fa-play"></i> ENTER JUKEBOX
+                </button>
+            </form>
+            <div id="errorMessage" class="error-message"></div>
+        </div>
+    </div>
+
+    <!-- Main App Screen -->
+    <div id="mainScreen" class="screen hidden">
+        <!-- Playlist Section (Always at top) -->
+        <section class="playlist-section">
+            <div class="playlist-header">
+                <h2><i class="fas fa-list"></i> CURRENT PLAYLIST</h2>
+                <div class="playlist-controls">
+                    <button id="logoutBtn" class="logout-btn" title="Logout">
+                        <i class="fas fa-sign-out-alt"></i>
+                    </button>
+                    <button id="refreshPlaylist" class="refresh-btn" title="Refresh playlist">
+                        <i class="fas fa-sync-alt"></i>
+                    </button>
+                    <div class="playlist-nav">
+                        <button id="prevPlaylist" class="nav-btn"><i class="fas fa-chevron-left"></i></button>
+                        <span id="playlistPage">1 of 1</span>
+                        <button id="nextPlaylist" class="nav-btn"><i class="fas fa-chevron-right"></i></button>
+                    </div>
+                </div>
+            </div>
+            <div id="playlistContainer" class="playlist-container">
+                <!-- 5 songs will be shown here -->
+            </div>
+        </section>
+
+        <!-- Home Buttons -->
+        <section class="home-buttons">
+            <button id="viewAlbumsBtn" class="home-btn">
+                <i class="fas fa-music"></i>
+                <span>View Albums</span>
+            </button>
+            <button id="searchBtn" class="home-btn">
+                <i class="fas fa-search"></i>
+                <span>Search Songs</span>
+            </button>
+        </section>
+
+        <!-- Search Section (Hidden by default) -->
+        <section id="searchSection" class="search-section hidden">
+            <div class="search-header">
+                <h2><i class="fas fa-search"></i> SEARCH SONGS</h2>
+                <button id="closeSearchBtn" class="close-btn"><i class="fas fa-times"></i></button>
+            </div>
+            <div class="search-container">
+                <div class="search-input-group">
+                    <i class="fas fa-search"></i>
+                    <input type="text" id="searchInput" placeholder="Type song name or artist...">
+                </div>
+                <div class="search-options">
+                    <label class="radio-option">
+                        <input type="radio" name="searchMode" value="instant" checked>
+                        <span>Instant search (as you type)</span>
+                    </label>
+                    <label class="radio-option">
+                        <input type="radio" name="searchMode" value="button">
+                        <span>Search on button click</span>
+                    </label>
+                </div>
+                <button id="searchSubmitBtn" class="search-submit-btn">Search</button>
+            </div>
+            <div id="searchResults" class="search-results">
+                <!-- Search results will appear here -->
+            </div>
+        </section>
+
+        <!-- Albums Section (Hidden by default) -->
+        <section id="albumsSection" class="albums-section hidden">
+            <div class="albums-header">
+                <h2><i class="fas fa-music"></i> ALBUMS</h2>
+                <button id="closeAlbumsBtn" class="close-btn"><i class="fas fa-times"></i></button>
+            </div>
+            <div id="albumsGrid" class="albums-grid">
+                <!-- Albums will be loaded here -->
+            </div>
+        </section>
+
+        <!-- Album Detail Section (Hidden by default) -->
+        <section id="albumDetailSection" class="album-detail-section hidden">
+            <div class="album-detail-header">
+                <button id="backToAlbumsBtn" class="back-btn"><i class="fas fa-arrow-left"></i> Back to Albums</button>
+                <h2 id="albumDetailTitle">Album</h2>
+            </div>
+            <div class="album-info">
+                <div class="album-cover">
+                    <img id="albumCoverImg" src="" alt="Album Cover">
+                </div>
+                <div class="album-details">
+                    <h3 id="albumName">Album Name</h3>
+                    <p id="albumArtist">Artist</p>
+                </div>
+            </div>
+            <div class="album-songs">
+                <h3><i class="fas fa-list-music"></i> Songs</h3>
+                <div id="albumSongsList" class="songs-list">
+                    <!-- Album songs will be loaded here -->
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <!-- Add to Queue Modal -->
+    <div id="addToQueueModal" class="modal hidden">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3><i class="fas fa-plus"></i> Add to Queue</h3>
+                <button class="close-btn" id="closeModal"><i class="fas fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <p>Add "<span id="songTitle"></span>" to the queue?</p>
+                <div class="priority-select">
+                    <label for="priority">Priority:</label>
+                    <select id="priority">
+                        <option value="1">High (1)</option>
+                        <option value="2" selected>Normal (2)</option>
+                        <option value="3">Low (3)</option>
+                    </select>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button class="retro-btn" id="confirmAdd">Add to Queue</button>
+                <button class="retro-btn-secondary" id="cancelAdd">Cancel</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Loading Spinner -->
+    <div id="loadingSpinner" class="loading-spinner hidden">
+        <div class="spinner"></div>
+        <p>Loading music...</p>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

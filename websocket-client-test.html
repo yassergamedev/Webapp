@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WebSocket Test Client</title>
+    <style>
+        body {
+            font-family: 'Courier New', monospace;
+            background: #1a1a2e;
+            color: #e94560;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .status {
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 5px;
+            background: #2a2a3e;
+            border: 1px solid #e94560;
+        }
+        .connected { border-color: #28a745; background: #1e3a1e; }
+        .disconnected { border-color: #dc3545; background: #3a1e1e; }
+        .message {
+            background: #0f0f1e;
+            padding: 10px;
+            margin: 5px 0;
+            border-radius: 3px;
+            border-left: 3px solid #e94560;
+        }
+        .operation-insert { border-left-color: #28a745; }
+        .operation-update { border-left-color: #ffc107; }
+        .operation-delete { border-left-color: #dc3545; }
+        .operation-initial { border-left-color: #00d4ff; }
+        button {
+            background: #e94560;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            margin: 5px;
+        }
+        button:hover { background: #ff6b7a; }
+        #messages {
+            max-height: 400px;
+            overflow-y: auto;
+            background: #0f0f1e;
+            padding: 10px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🔌 WebSocket Test Client</h1>
+        
+        <div id="status" class="status disconnected">
+            Status: Disconnected
+        </div>
+        
+        <div>
+            <button onclick="connect()">Connect</button>
+            <button onclick="disconnect()">Disconnect</button>
+            <button onclick="ping()">Ping</button>
+            <button onclick="getTracklist()">Get Tracklist</button>
+            <button onclick="clearMessages()">Clear Messages</button>
+        </div>
+        
+        <h3>📨 Messages:</h3>
+        <div id="messages"></div>
+    </div>
+
+    <script>
+        let ws = null;
+        const statusEl = document.getElementById('status');
+        const messagesEl = document.getElementById('messages');
+
+        function connect() {
+            if (ws) {
+                ws.close();
+            }
+            
+            ws = new WebSocket('ws://localhost:8080');
+            
+            ws.onopen = function() {
+                statusEl.textContent = 'Status: Connected';
+                statusEl.className = 'status connected';
+                addMessage('Connected to WebSocket server', 'info');
+            };
+            
+            ws.onmessage = function(event) {
+                const data = JSON.parse(event.data);
+                addMessage(JSON.stringify(data, null, 2), data.operationType || 'message');
+            };
+            
+            ws.onclose = function() {
+                statusEl.textContent = 'Status: Disconnected';
+                statusEl.className = 'status disconnected';
+                addMessage('Disconnected from WebSocket server', 'info');
+            };
+            
+            ws.onerror = function(error) {
+                addMessage('WebSocket error: ' + error, 'error');
+            };
+        }
+
+        function disconnect() {
+            if (ws) {
+                ws.close();
+            }
+        }
+
+        function ping() {
+            if (ws && ws.readyState === WebSocket.OPEN) {
+                ws.send(JSON.stringify({ type: 'ping' }));
+                addMessage('Sent ping', 'info');
+            }
+        }
+
+        function getTracklist() {
+            if (ws && ws.readyState === WebSocket.OPEN) {
+                ws.send(JSON.stringify({ type: 'getTracklist' }));
+                addMessage('Requested tracklist', 'info');
+            }
+        }
+
+        function addMessage(message, type = 'message') {
+            const messageEl = document.createElement('div');
+            messageEl.className = `message operation-${type}`;
+            messageEl.innerHTML = `<strong>${new Date().toLocaleTimeString()}</strong><br><pre>${message}</pre>`;
+            messagesEl.appendChild(messageEl);
+            messagesEl.scrollTop = messagesEl.scrollHeight;
+        }
+
+        function clearMessages() {
+            messagesEl.innerHTML = '';
+        }
+
+        // Auto-connect on page load
+        window.onload = function() {
+            connect();
+        };
+    </script>
+</body>
+</html>
+

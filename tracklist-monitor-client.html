@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tracklist Monitor Client</title>
+    <style>
+        body {
+            font-family: 'Courier New', monospace;
+            background: #1a1a2e;
+            color: #e94560;
+            padding: 20px;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        .status {
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 5px;
+            background: #2a2a3e;
+            border: 1px solid #e94560;
+        }
+        .connected { border-color: #28a745; background: #1e3a1e; }
+        .disconnected { border-color: #dc3545; background: #3a1e1e; }
+        .message {
+            background: #0f0f1e;
+            padding: 10px;
+            margin: 5px 0;
+            border-radius: 3px;
+            border-left: 3px solid #e94560;
+            font-size: 12px;
+        }
+        .change-insert { border-left-color: #28a745; }
+        .change-update { border-left-color: #ffc107; }
+        .change-delete { border-left-color: #dc3545; }
+        .change-replace { border-left-color: #00d4ff; }
+        .status-update { border-left-color: #6f42c1; }
+        .welcome { border-left-color: #17a2b8; }
+        button {
+            background: #e94560;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            margin: 5px;
+        }
+        button:hover { background: #ff6b7a; }
+        #messages {
+            max-height: 500px;
+            overflow-y: auto;
+            background: #0f0f1e;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 10px;
+            margin: 20px 0;
+        }
+        .stat-card {
+            background: #2a2a3e;
+            padding: 15px;
+            border-radius: 8px;
+            text-align: center;
+            border: 1px solid #e94560;
+        }
+        .stat-number {
+            font-size: 24px;
+            font-weight: bold;
+            color: #00d4ff;
+        }
+        .stat-label {
+            font-size: 12px;
+            color: #6c757d;
+            margin-top: 5px;
+        }
+        .tracklist-item {
+            background: #2a2a3e;
+            padding: 10px;
+            margin: 5px 0;
+            border-radius: 5px;
+            border-left: 3px solid #e94560;
+        }
+        .tracklist-item.queued { border-left-color: #ffc107; }
+        .tracklist-item.playing { border-left-color: #28a745; }
+        .tracklist-item.paused { border-left-color: #fd7e14; }
+        .tracklist-item.played { border-left-color: #6c757d; }
+        .tracklist-item.skipped { border-left-color: #dc3545; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>📡 Tracklist Monitor Client</h1>
+        
+        <div id="status" class="status disconnected">
+            Status: Disconnected
+        </div>
+        
+        <div>
+            <button onclick="connect()">Connect</button>
+            <button onclick="disconnect()">Disconnect</button>
+            <button onclick="ping()">Ping</button>
+            <button onclick="getStatus()">Get Status</button>
+            <button onclick="clearMessages()">Clear Messages</button>
+        </div>
+        
+        <div class="stats" id="stats">
+            <div class="stat-card">
+                <div class="stat-number" id="totalSongs">0</div>
+                <div class="stat-label">Total Songs</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number" id="queuedSongs">0</div>
+                <div class="stat-label">Queued</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number" id="playingSongs">0</div>
+                <div class="stat-label">Playing</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number" id="pausedSongs">0</div>
+                <div class="stat-label">Paused</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number" id="playedSongs">0</div>
+                <div class="stat-label">Played</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number" id="skippedSongs">0</div>
+                <div class="stat-label">Skipped</div>
+            </div>
+        </div>
+        
+        <h3>🎵 Current Tracklist:</h3>
+        <div id="tracklist"></div>
+        
+        <h3>📨 Live Messages:</h3>
+        <div id="messages"></div>
+    </div>
+
+    <script>
+        let ws = null;
+        let clientId = null;
+        const statusEl = document.getElementById('status');
+        const messagesEl = document.getElementById('messages');
+        const tracklistEl = document.getElementById('tracklist');
+
+        function connect() {
+            if (ws) {
+                ws.close();
+            }
+            
+            ws = new WebSocket('ws://localhost:8082');
+            
+            ws.onopen = function() {
+                statusEl.textContent = 'Status: Connected';
+                statusEl.className = 'status connected';
+                addMessage('Connected to tracklist monitor', 'welcome');
+            };
+            
+            ws.onmessage = function(event) {
+                const data = JSON.parse(event.data);
+                handleMessage(data);
+            };
+            
+            ws.onclose = function() {
+                statusEl.textContent = 'Status: Disconnected';
+                statusEl.className = 'status disconnected';
+                addMessage('Disconnected from tracklist monitor', 'welcome');
+            };
+            
+            ws.onerror = function(error) {
+                addMessage('WebSocket error: ' + error, 'error');
+            };
+        }
+
+        function handleMessage(data) {
+            switch (data.type) {
+                case 'welcome':
+                    clientId = data.clientId;
+                    addMessage(`Welcome! Client ID: ${clientId}`, 'welcome');
+                    break;
+                    
+                case 'initial_status':
+                case 'status_update':
+                    updateStats(data.data);
+                    updateTracklist(data.data.tracklist);
+                    addMessage(`Status update: ${data.data.totalSongs} songs`, 'status-update');
+                    break;
+                    
+                case 'tracklist_change':
+                    addMessage(`Change detected: ${data.operationType}`, `change-${data.operationType}`);
+                    // Request updated status
+                    if (ws && ws.readyState === WebSocket.OPEN) {
+                        ws.send(JSON.stringify({ type: 'get_status' }));
+                    }
+                    break;
+                    
+                case 'pong':
+                    addMessage(`Pong from server`, 'welcome');
+                    break;
+                    
+                default:
+                    addMessage(`Unknown message: ${data.type}`, 'welcome');
+            }
+        }
+
+        function updateStats(data) {
+            document.getElementById('totalSongs').textContent = data.totalSongs || 0;
+            document.getElementById('queuedSongs').textContent = data.queuedSongs || 0;
+            document.getElementById('playingSongs').textContent = data.playingSongs || 0;
+            document.getElementById('pausedSongs').textContent = data.pausedSongs || 0;
+            document.getElementById('playedSongs').textContent = data.playedSongs || 0;
+            document.getElementById('skippedSongs').textContent = data.skippedSongs || 0;
+        }
+
+        function updateTracklist(tracklist) {
+            if (!tracklist || tracklist.length === 0) {
+                tracklistEl.innerHTML = '<p>No songs in tracklist</p>';
+                return;
+            }
+            
+            tracklistEl.innerHTML = tracklist.map(song => `
+                <div class="tracklist-item ${song.status}">
+                    <strong>${song.title}</strong> by ${song.artist}
+                    <br>
+                    <small>
+                        Status: ${song.status} | 
+                        Priority: ${song.priority} | 
+                        Album: ${song.album} |
+                        Requested by: ${song.requestedBy}
+                    </small>
+                </div>
+            `).join('');
+        }
+
+        function disconnect() {
+            if (ws) {
+                ws.close();
+            }
+        }
+
+        function ping() {
+            if (ws && ws.readyState === WebSocket.OPEN) {
+                ws.send(JSON.stringify({ type: 'ping' }));
+                addMessage('Sent ping', 'welcome');
+            }
+        }
+
+        function getStatus() {
+            if (ws && ws.readyState === WebSocket.OPEN) {
+                ws.send(JSON.stringify({ type: 'get_status' }));
+                addMessage('Requested status update', 'welcome');
+            }
+        }
+
+        function addMessage(message, type = 'welcome') {
+            const messageEl = document.createElement('div');
+            messageEl.className = `message ${type}`;
+            messageEl.innerHTML = `<strong>${new Date().toLocaleTimeString()}</strong> - ${message}`;
+            messagesEl.appendChild(messageEl);
+            messagesEl.scrollTop = messagesEl.scrollHeight;
+        }
+
+        function clearMessages() {
+            messagesEl.innerHTML = '';
+        }
+
+        // Auto-connect on page load
+        window.onload = function() {
+            connect();
+        };
+    </script>
+</body>
+</html>
+

@@ -1,0 +1,24 @@
+{
+  "name": "jukebox-webapp",
+  "version": "1.0.0",
+  "description": "Jukebox Slave Web Application",
+  "main": "api-server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node api-server.js",
+    "dev": "node api-server.js",
+    "build": "echo 'No build step needed for static files'",
+    "serve": "node server-static.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "mongodb": "^6.3.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": ["jukebox", "music", "webapp", "slave"],
+  "author": "Your Name",
+  "license": "MIT"
+}

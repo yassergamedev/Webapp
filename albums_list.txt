@@ -1,0 +1,524 @@
+Album: AC-DC Best Of CD1
+    01 - Thunderstruck - ACDC.mp3
+    02 - Live Wire - ACDC.mp3
+    03 - The Furor - ACDC.mp3
+    04 - The Razors Edge - ACDC.mp3
+    05 - Beating Around The Bush - ACDC.mp3
+    06 - Rocker - ACDC.mp3
+    07 - Love Song - ACDC.mp3
+    08 - Baptism By Fire - ACDC.mp3
+    09 - School Days - ACDC.mp3
+    10 - Brain Shake - ACDC.mp3
+    11 - Baby, Please Don't Go - ACDC.mp3
+    12 - Hells Bells - ACDC.mp3
+    13 - It's A Long Way To The Top (If You Wanna Rock 'N' Roll) - ACDC.mp3
+    14 - Kicked In The Teeth - ACDC.mp3
+    15 - Stiff Upper Lip - ACDC.mp3
+    16 - Shoot To Thrill - ACDC.mp3
+    17 - That's The Way I Wanna Rock 'N' Roll - ACDC.mp3
+    cover.jpg
+
+Album: AC-DC Best Of CD2
+    01 - Big Gun - ACDC.mp3
+    02 - She's Got Balls - ACDC.mp3
+    03 - Walk All Over You - ACDC.mp3
+    04 - Touch Too Much - ACDC.mp3
+    05 - Landslide - ACDC.mp3
+    06 - You Ain't Got A Hold On Me - ACDC.mp3
+    07 - You Shook Me All Night Long - ACDC.mp3
+    08 - Whole Lotta Rosie - ACDC.mp3
+    09 - Shake A Leg - ACDC.mp3
+    10 - This Means War - ACDC.mp3
+    11 - Heatseeker - ACDC.mp3
+    12 - Highway To Hell - ACDC.mp3
+    13 - Riff Raff - ACDC.mp3
+    14 - Can I Sit Next To You Girl - ACDC.mp3
+    15 - Safe In New York City - ACDC.mp3
+    16 - Fire Your Guns - ACDC.mp3
+    17 - Can't Stand Still - ACDC.mp3
+    cover.jpg
+
+Album: Billy Idol - Best Of
+    01 - Dancing With Myself - Billy Idol.mp3
+    02 - Hot In The City - Billy Idol.mp3
+    03 - White Wedding, Part 1 - Billy Idol.mp3
+    04 - Rebel Yell - Billy Idol.mp3
+    05 - Eyes Without A Face - Billy Idol.mp3
+    06 - Flesh For Fantasy - Billy Idol.mp3
+    07 - Catch My Fall - Billy Idol.mp3
+    08 - To Be A Lover - Billy Idol.mp3
+    09 - Don’t Need A Gun - Billy Idol.mp3
+    10 - Sweet Sixteen - Billy Idol.mp3
+    11 - Mony, Mony - Billy Idol.mp3
+    12 - Cradle Of Love - Billy Idol.mp3
+    13 - L.A. Woman - Billy Idol.mp3
+    14 - Shock To The System - Billy Idol.mp3
+    15 - Speed - Billy Idol.mp3
+    16 - World Comin’ Down - Billy Idol.mp3
+    17 - John Wayne - Billy Idol.mp3
+    18 - New Future Weapon - Billy Idol.mp3
+    folder.jpg
+
+Album: Billy Joel - Very Best Of
+    01 - Tell Her About It - Billy Joel.mp3
+    02 - Uptown Girl - Billy Joel.mp3
+    03 - Piano Man (Radio Edit) - Billy Joel.mp3
+    04 - New York State Of Mind - Billy Joel.mp3
+    05 - The River Of Dreams - Billy Joel.mp3
+    06 - It's Still Rock And Roll To Me - Billy Joel.mp3
+    07 - We Didn't Start The Fire - Billy Joel.mp3
+    08 - Goodnight Saigon - Billy Joel.mp3
+    09 - My Life - Billy Joel.mp3
+    10 - She's Always A Woman - Billy Joel.mp3
+    11 - She's Got A Way (Live) - Billy Joel.mp3
+    12 - Scenes From An Italian Restaurant - Billy Joel.mp3
+    13 - An Innocent Man - Billy Joel.mp3
+    14 - Movin' Out (Anthony's Song) - Billy Joel.mp3
+    15 - Only The Good Die Young (Single Version) - Billy Joel.mp3
+    16 - All About Soul (Radio Edit) - Billy Joel.mp3
+    17 - Honesty - Billy Joel.mp3
+    18 - Just The Way You Are (Radio Edit) - Billy Joel.mp3
+    front.jpg
+
+Album: Blondie - Best Of Blondie
+    01 - Atomic - Blondie.mp3
+    02 - Heart Of Glass - Blondie.mp3
+    03 - Sunday Girl - Blondie.mp3
+    04 - Call Me (Theme From 'American Gigolo') - Blondie.mp3
+    05 - The Tide Is High - Blondie.mp3
+    06 - Denis - Blondie.mp3
+    07 - Hanging On The Telephone - Blondie.mp3
+    08 - One Way Or Another - Blondie.mp3
+    09 - Fade Away & Radiate - Blondie.mp3
+    10 - Atomic '98 (Tall Paul Remix) - Blondie.mp3
+    cover.jpg
+
+Album: Blur - Greatest Hits
+    01 - Beetlebum - Blur.mp3
+    02 - Song 2 - Blur.mp3
+    03 - There's No Other Way - Blur.mp3
+    04 - The Universal - Blur.mp3
+    05 - Coffee & TV - Blur.mp3
+    06 - Parklife - Blur.mp3
+    07 - End Of A Century - Blur.mp3
+    08 - No Distance Left To Run - Blur.mp3
+    09 - Tender - Blur.mp3
+    10 - Girls & Boys - Blur.mp3
+    11 - Charmless Man - Blur.mp3
+    12 - She's So High - Blur.mp3
+    13 - Country House - Blur.mp3
+    cover.jpg
+
+Album: Bon Jovi - Cross Road
+    01 - Livin' On A Prayer - Bon Jovi.mp3
+    02 - Keep The Faith - Bon Jovi.mp3
+    03 - Someday I'll Be Saturday Night - Bon Jovi.mp3
+    04 - Always - Bon Jovi.mp3
+    05 - Wanted Dead Or Alive - Bon Jovi.mp3
+    06 - Lay Your Hands On Me - Bon Jovi.mp3
+    07 - You Give Love A Bad Name - Bon Jovi.mp3
+    08 - Beds Of Roses - Bon Jovi.mp3
+    09 - Blaze Of Glory - Bon Jovi.mp3
+    10 - Prayer '94 - Bon Jovi.mp3
+    11 - Bad Medicine - Bon Jovi.mp3
+    12 - I'll Be There For You - Bon Jovi.mp3
+    13 - Runaway - Bon Jovi.mp3
+    folder.jpg
+
+Album: Bruce Springsteen - Best of
+    01 - Growin' Up - Bruce Springsteen.mp3
+    02 - Rosalita (Come Out Tonight) - Bruce Springsteen.mp3
+    03 - 4th of July, Asbury Park (Sandy) - Bruce Springsteen.mp3
+    04 - Born to Run - Bruce Springsteen.mp3
+    05 - Badlands - Bruce Springsteen.mp3
+    06 - Prove It All Night - Bruce Springsteen.mp3
+    07 - The River - Bruce Springsteen.mp3
+    08 - Hungry Heart - Bruce Springsteen.mp3
+    09 - Atlantic City - Bruce Springsteen.mp3
+    10 - Glory Days - Bruce Springsteen.mp3
+    11 - Dancing In the Dark - Bruce Springsteen.mp3
+    12 - Born in the U.S.A. - Bruce Springsteen.mp3
+    13 - Human Touch - Bruce Springsteen.mp3
+    14 - Streets of Philadelphia - Bruce Springsteen.mp3
+    cover.jpg
+
+Album: Bryan Adams - The Best Of Me
+    01 - The Best Of Me - Bryan Adams.mp3
+    02 - Can't Stop This Thing We Started - Bryan Adams.mp3
+    03 - I'm Ready - Bryan Adams.mp3
+    04 - Summer Of '69 - Bryan Adams.mp3
+    05 - Let's Make A Night To Remember - Bryan Adams.mp3
+    06 - All For Love - Bryan Adams, Rod Stewart & Sting.mp3
+    07 - Have You Ever Really Loved A Woman - Bryan Adams.mp3
+    08 - Run To You - Bryan Adams.mp3
+    09 - (Everything I Do) I Do It For You - Bryan Adams.mp3
+    10 - When You're Gone - Bryan Adams Feat. Melanie C.mp3
+    11 - Please Forgive Me - Bryan Adams.mp3
+    12 - The Only Thing That Looks Good On Me Is You - Bryan Adams.mp3
+    13 - Don't Give Up - Chicane Feat. Bryan Adams.mp3
+    Bryan Adams - The Best of Me Front.jpg
+
+Album: Creedence Clearwater Revival - Best Of
+    01 - Who'll Stop The Rain - Creedence Clearwater Revival.mp3
+    02 - Proud Mary - Creedence Clearwater Revival.mp3
+    03 - Lodi - Creedence Clearwater Revival.mp3
+    04 - Bad Moon Rising - Creedence Clearwater Revival.mp3
+    05 - Ooby Dooby - Creedence Clearwater Revival.mp3
+    06 - Down On The Corner - Creedence Clearwater Revival.mp3
+    07 - Travellin' Band - Creedence Clearwater Revival.mp3
+    08 - Hey Tonight - Creedence Clearwater Revival.mp3
+    09 - Good Golly Miss Molly - Creedence Clearwater Revival.mp3
+    10 - Sweet Hitch-Hiker - Creedence Clearwater Revival.mp3
+    11 - Hello Mary Lou - Creedence Clearwater Revival.mp3
+    12 - Lookin' Out My Back Door - Creedence Clearwater Revival.mp3
+    13 - Have You Ever Seen The Rain - Creedence Clearwater Revival.mp3
+    cover.jpg
+
+Album: Crowded House - Very Best Of
+    01 - Weather With You - Crowded House.mp3
+    02 - World Where You Live - Crowded House.mp3
+    03 - Fall At Your Feet - Crowded House.mp3
+    04 - Locked Out - Crowded House.mp3
+    05 - Don't Dream It's Over - Crowded House.mp3
+    06 - Into Temptation - Crowded House.mp3
+    07 - Pineapple Head - Crowded House.mp3
+    08 - Instinct - Crowded House.mp3
+    09 - Four Seasons In One Day - Crowded House.mp3
+    10 - Something So Strong - Crowded House.mp3
+    11 - Better Be Home Soon - Crowded House.mp3
+    cover.jpg
+
+Album: David Bowie - Bowie Legacy
+    01 - Space Oddity (Remastered) - David Bowie.mp3
+    02 - Life On Mars (2016 Mix) - David Bowie.mp3
+    03 - Ziggy Stardust (Remastered) - David Bowie.mp3
+    04 - Rebel Rebel (Remastered) - David Bowie.mp3
+    05 - Fame (Remastered) - David Bowie.mp3
+    06 - Golden Years (Single Version [Remastered]) - David Bowie.mp3
+    07 - Heroes (Single Version [Remastered]) - David Bowie.mp3
+    08 - Fashion (Single Version [Remastered]) - David Bowie.mp3
+    09 - Ashes to Ashes (Single Version [Remastered]) - David Bowie.mp3
+    10 - Under Pressure (Remastered) - David Bowie.mp3
+    11 - Let's Dance (Single Version [Remastered]) - David Bowie.mp3
+    12 - China Girl (Single Version [Remastered]) - David Bowie.mp3
+    13 - Blue Jean (Remastered) - David Bowie.mp3
+    14 - Dancing in the Street (Remastered) - David Bowie.mp3
+    15 - Lazarus (Radio Edit) - David Bowie.mp3
+    cover.jpg
+
+Album: Dire Straits - The Very Best
+    01 - Sultans Of Swing - Dire Straits.mp3
+    02 - My Parties - Dire Straits.mp3
+    03 - Brothers In Arms - Dire Straits.mp3
+    04 - Heavy Fuel - Dire Straits.mp3
+    05 - Romeo And Juliet - Dire Straits.mp3
+    06 - Walk Of Life - Dire Straits.mp3
+    07 - Where Do You Think You're Going - Dire Straits.mp3
+    08 - Money For Nothing - Dire Straits.mp3
+    09 - So Far Away - Dire Straits.mp3
+    Front.PNG
+
+Album: Elvis Presley - Elvis Forever
+    00-elvis_presley-elvis_forever_the_best_of_elvis_presley-web-2017.jpg
+    01 - Heartbreak Hotel - Elvis Presley.mp3
+    02 - Burning Love - Elvis Presley.mp3
+    03 - It's Now or Never - Elvis Presley.mp3
+    04 - All Shook Up - Elvis Presley.mp3
+    05 - Hound Dog - Elvis Presley.mp3
+    06 - Can't Help Falling in Love - Elvis Presley.mp3
+    07 - Jailhouse Rock - Elvis Presley.mp3
+    08 - A Little Less Conversation (JXL Radio Edit Remix) - Elvis Presley.mp3
+    09 - Suspicious Minds - Elvis Presley.mp3
+    10 - (Let Me Be Your) Teddy Bear - Elvis Presley.mp3
+    11 - Don't Be Cruel - Elvis Presley.mp3
+    12 - (You're The) Devil In Disguise - Elvis Presley.mp3
+    13 - In the Ghetto - Elvis Presley.mp3
+    14 - Stuck on You - Elvis Presley.mp3
+
+Album: Madness - Full House
+    01 - One Step Beyond - Madness.mp3
+    02 - My Girl - Madness.mp3
+    03 - Madness - Madness.mp3
+    04 - Baggy Trousers - Madness.mp3
+    05 - Embarrassment - Madness.mp3
+    06 - Grey Day - Madness.mp3
+    07 - It Must Be Love - Madness.mp3
+    08 - House of Fun - Madness.mp3
+    09 - Driving In My Car - Madness.mp3
+    10 - Our House - Madness.mp3
+    11 - Tomorrow's (Just Another Day) - Madness.mp3
+    12 - Wings of a Dove - Madness.mp3
+    13 - Michael Caine - Madness.mp3
+    14 - (Waiting For The) Ghost Train - Madness.mp3
+    cover.jpg
+
+Album: Metallica - Best Of The Best
+    01 - Battery - Metallica.mp3
+    02 - Fuel - Metallica.mp3
+    03 - Hit The Lights - Metallica.mp3
+    04 - Enter Sandman - Metallica.mp3
+    05 - Master Of Puppets - Metallica.mp3
+    06 - One - Metallica.mp3
+    07 - The Unforgiven - Metallica.mp3
+    08 - Fade To Black - Metallica.mp3
+    09 - Nothing Else Matters - Metallica.mp3
+    10 - Whiskey In The Jar - Metallica.mp3
+    bobfront.jpg
+
+Album: Nirvana - The Best
+    01 - You Know You're Right - Nirvana.mp3
+    02 - About A Girl - Nirvana.mp3
+    03 - Been A Son - Nirvana.mp3
+    04 - Sliver - Nirvana.mp3
+    05 - Smells Like Teen Spirit - Nirvana.mp3
+    06 - Come As You Are - Nirvana.mp3
+    07 - Lithium - Nirvana.mp3
+    09 - Heart-Shaped Box - Nirvana.mp3
+    10 - Rape Me - Nirvana.mp3
+    cover.jpg
+
+Album: Pophits 00-24 Vol1
+    Ava Max - Sweet but Psycho.mp3
+    Benson Boone - Beautiful Things.mp3
+    Bruno Mars - Marry You.mp3
+    Chappell Roan - School Nights.mp3
+    Charli XCX - Apple.mp3
+    Coldplay - Yellow.mp3
+    cover.jpg
+    Ed Sheeran - Shape of You.mp3
+    Flo Rida - Wild Ones (feat. Sia).mp3
+    fun. - We Are Young (feat. Janelle Monáe).mp3
+    Lizzo - About Damn Time.mp3
+    Michael Bublé - It’s a Beautiful Day.mp3
+    New Order - Crystal (Radio Edit).mp3
+    Panic! At The Disco - High Hopes.mp3
+    Rose - APT..mp3
+    Teddy Swims - Lose Control.mp3
+
+Album: Pophits 00-24 Vol2
+    Anne-Marie - 2002.mp3
+    Birdy - Skinny Love.mp3
+    Clean Bandit - Symphony (feat. Zara Larsson).mp3
+    cover.jpg
+    Dan + Shay - 10,000 Hours.mp3
+    Disturbed - The Sound of Silence.mp3
+    gnash - i hate u, i love u (feat. Olivia O'Brien).mp3
+    Jason Mraz - I Won’t Give Up.mp3
+    Jaymes Young - Infinity.mp3
+    Kehlani - Gangsta.mp3
+    Kelly Clarkson - Broken & Beautiful (From Uglydolls).mp3
+    Lykke Li - I Follow Rivers (The Magician Remix).mp3
+    Nico & Vinz - Am I Wrong.mp3
+    Rudimental - These Days (feat. Jess Glynne, Macklemore & Dan Caplen).mp3
+    Surf Curse - Disco.mp3
+    Travie McCoy - Billionaire (feat. Bruno Mars).mp3
+    twenty one pilots - Stressed Out.mp3
+
+Album: Pophits 00-24 Vol3
+    A R I Z O N A - Oceans Away.mp3
+    Adam Lambert - Ghost Town.mp3
+    Ali Gatie - It’s You.mp3
+    Briston Maroney - Freakin' Out on the Interstate.mp3
+    Chase Atlantic - Swim.mp3
+    Chromeo - Jealous (I Ain't with It).mp3
+    cover.jpg
+    Ella Henderson - Friends.mp3
+    Fitz and The Tantrums - Out of My League.mp3
+    Grouplove - Tongue Tied.mp3
+    Jamie Lawson - Wasn’t Expecting That.mp3
+    Jess Glynne - I'll Be There.mp3
+    Melanie Martinez - Pacify Her.mp3
+    Rainbow Kitten Surprise - It’s Called Freefall.mp3
+    Ricky Montgomery - Line Without a Hook.mp3
+    Wallows - Are You Bored Yet (feat. Clairo).mp3
+
+Album: Pophits 00-24 Vol4
+    All Saints - Pure Shores.mp3
+    Catie Turner - God Must Hate Me.mp3
+    cover.jpg
+    Echosmith - Cool Kids.mp3
+    Gayle - abcdefu.mp3
+    Gym Class Heroes - Cupid’s Chokehold  Breakfast in America.mp3
+    Honne - no song without you.mp3
+    James Blunt - You’re Beautiful.mp3
+    Jamie Miller - Here’s Your Perfect.mp3
+    Jason DeRulo - Whatcha Say.mp3
+    Lennon Stella - Summer Feelings (feat. Charlie Puth).mp3
+    Lily Allen - Smile.mp3
+    Nessa Barrett - la di die (feat. Jaden Hossler).mp3
+    Paolo Nutini - Last Request.mp3
+    Portugal. The Man - Feel It Still.mp3
+    Sam Ryder - SPACE MAN.mp3
+
+Album: Pophits 00-24 Vol5
+    Charlie Puth - Left and Right.mp3
+    cover.jpg
+    Eliza Rose - B.O.T.A. (Baddest of Them All) (Edit).mp3
+    Fall Out Boy - We Didn’t Start the Fire.mp3
+    Fred again.. - adore u.mp3
+    illenium - All That Really Matters.mp3
+    Jax - Victoria’s Secret.mp3
+    Kenya Grace - Strangers.mp3
+    Knox - Not the 1975.mp3
+    LF System - Afraid to Feel.mp3
+    Madeline The Person - MEAN! (feat. Noah Kahan) (Remix).mp3
+    Maisie Peters - Lost the Breakup.mp3
+    Marina - Man's World.mp3
+    Nathan Dawe - 21 Reasons (feat. Ella Henderson).mp3
+    Oliver Tree - Miss You.mp3
+    Pink Sweat$ - At My Worst (feat. Kehlani).mp3
+
+Album: Pophits 00-24 Vol6
+    Alanis Morissette - Hands Clean.mp3
+    Alec Benjamin - Ways To Go (feat. Khalid).mp3
+    Alex Warren - Before You Leave Me.mp3
+    Bebe Rexha - Chase It (Mmm Da Da Da).mp3
+    Cassie - Me & U.mp3
+    cover.jpg
+    Dasha - Austin.mp3
+    Kevin Lyttle - Turn Me On.mp3
+    Max - STUPID IN LOVE (feat. HUH YUHNJIN).mp3
+    Michael Marcagi - Scared to Start.mp3
+    Michelle Branch - Everywhere.mp3
+    Regina Spektor - Samson.mp3
+    Ryan Cabrera - True.mp3
+    RÜFÜS DU SOL - Levitating.mp3
+    Sia - Dance Alone.mp3
+    The Blessed Madonna - Happier (feat. Clementine Douglas).mp3
+    The Corrs - Breathless.mp3
+
+Album: Pophits 00-24 Vol7
+    Cobra Starship - Good Girls Go Bad.mp3
+    cover.jpg
+    David Guetta - I’m Good (Blue).mp3
+    Dua Lipa - Dance The Night (From Barbie The Album).mp3
+    Hard-Fi - Hard to Beat.mp3
+    Iyaz - Replay.mp3
+    Jaheim - Put That Woman First.mp3
+    Rupee - Tempted to Touch.mp3
+    The Veronicas - Untouched.mp3
+
+Album: Queen - The Ultimate Best Of
+    01 - A Kind Of Magic - Queen.mp3
+    02 - Bohemian Rhapsody - Queen.mp3
+    03 - Another One Bites The Dust - Queen.mp3
+    04 - Under Pressure - Queen.mp3
+    05 - Killer Queen - Queen.mp3
+    06 - Radio Ga Ga - Queen.mp3
+    07 - Fat Bottomed Girls - Queen.mp3
+    08 - I Want It All - Queen.mp3
+    09 - Bicycle Race - Queen.mp3
+    10 - I Want To Break Free - Queen.mp3
+    11 - You're My Best Friend - Queen.mp3
+    12 - Don't Stop Me Now - Queen.mp3
+    13 - We Will Rock You - Queen.mp3
+    14 - Somebody To Love - Queen.mp3
+    15 - The Invisible Man - Queen.mp3
+    cover.jpg
+
+Album: R.E.M. - In Time
+    01 - Man On The Moon - R.E.M..mp3
+    02 - Bad Day - R.E.M..mp3
+    03 - What's The Frequency, Kenneth - R.E.M..mp3
+    04 - All The Way To Reno - R.E.M..mp3
+    05 - Losing My Religion - R.E.M..mp3
+    06 - E-Bow The Letter - R.E.M..mp3
+    07 - Daysleeper - R.E.M..mp3
+    08 - Animal - R.E.M..mp3
+    09 - The Sidewinder Sleeps Tonite - R.E.M..mp3
+    10 - Everybody Hurts - R.E.M..mp3
+    11 - Nightswimming - R.E.M..mp3
+    cover.jpg
+
+Album: Radiohead - The Best Of
+    01 - Just - Radiohead.mp3
+    02 - Paranoid Android - Radiohead.mp3
+    03 - Karma Police - Radiohead.mp3
+    04 - Creep - Radiohead.mp3
+    05 - No Surprises - Radiohead.mp3
+    06 - High And Dry - Radiohead.mp3
+    07 - My Iron Lung - Radiohead.mp3
+    08 - Lucky - Radiohead.mp3
+    09 - Idioteque - Radiohead.mp3
+    10 - The Bends - Radiohead.mp3
+    11 - Pyramid Song - Radiohead.mp3
+    12 - Street Spirit (Fade Out) - Radiohead.mp3
+    cover.jpg
+
+Album: Rolling Stones - Best Of
+    01 - I Can't Get No - Satisfaction - Rolling Stones.mp3
+    02 - Paint It Black - Rolling Stones.mp3
+    03 - Mother's Little Helper - Rolling Stones.mp3
+    04 - Heart Of Stone - Rolling Stones.mp3
+    05 - Get Off Of My Cloud - Rolling Stones.mp3
+    06 - Under My Thumb - Rolling Stones.mp3
+    07 - Honky Tonk Woman - Rolling Stones.mp3
+    08 - Jumpin' Jack Flash - Rolling Stones.mp3
+    09 - Wild Horses - Rolling Stones.mp3
+    10 - You Can't Always Get What You Want - Rolling Stones.mp3
+    11 - Brown Sugar - Rolling Stones.mp3
+    cover.jpg
+
+Album: Shaggy - The Boombastic Collection Best Of Shaggy (2008) {FLAC} vtwin88cube
+    01.Boombastic.flac
+    02.Strength Of A Woman.flac
+    03.Angel.flac
+    04.Hey Sexy Lady.flac
+    05.Feel The Rush.flac
+    06.Those Days.flac
+    07.Don't Ask Her That.flac
+    08.It Wasn't Me.flac
+    09.Hope.flac
+    10.In The Summertime.flac
+    11.Luv Me, Luv Me.flac
+    12.Oh Carolina.flac
+    13.Ready Fi Di Ride.flac
+    14.Church Heathen.flac
+    15.Leave It To Me.flac
+    16.Would You Be.flac
+    17.Wild 2Nite.flac
+    18.Gone With Angels.flac
+    cover.jpg
+
+Album: Snoop Dogg - The Best Of
+    01 - Beautiful - Snoop Dogg.mp3
+    02 - Snoop Dogg (What's My Name, Part 2) - Snoop Dogg.mp3
+    03 - Woof! - Snoop Dogg.mp3
+    04 - Lay Low - Snoop Dogg.mp3
+    05 - Bitch Please - Snoop Dogg.mp3
+    06 - Still A G Thang - Snoop Dogg.mp3
+    07 - Snoopafella - Snoop Dogg.mp3
+    08 - Loosen' Control - Snoop Dogg.mp3
+    09 - Gin & Juice II - Snoop Dogg.mp3
+    10 - Ride OnCaught Up! - Snoop Dogg.mp3
+    cover.jpg
+
+Album: Sting & The Police - The Very Best Of
+    01 - Message In A Bottle - The Police.mp3
+    02 - Can't Stand Losing You - The Police.mp3
+    03 - Englishman In New York - Sting.mp3
+    04 - Every Breath You Take - The Police.mp3
+    05 - Walking On The Moon - The Police.mp3
+    06 - Fields Of Gold - Sting.mp3
+    07 - Every Little Thing She Does Is Magic - The Police.mp3
+    08 - De Do Do Do, De Da Da Da - The Police.mp3
+    09 - Don't Stand So Close To Me - The Police.mp3
+    10 - Roxanne - The Police.mp3
+    11 - So Lonely - The Police.mp3
+    cover.jpg
+
+Album: The Smiths - Sound Of The  Smiths
+    01 - Hand In Glove - The Smiths.mp3
+    02 - This Charming Man - The Smiths.mp3
+    03 - What Difference Does It Make (Peel Session Version) - The Smiths.mp3
+    04 - Still Ill - The Smiths.mp3
+    05 - Heaven Knows I'm Miserable Now - The Smiths.mp3
+    06 - William It Was Really Nothing - The Smiths.mp3
+    07 - How Soon Is Now (12 Version) - The Smiths.mp3
+    08 - Nowhere Fast - The Smiths.mp3
+    09 - Shakespeare's Sister - The Smiths.mp3
+    10 - Barbarism Begins At Home (7 Version) - The Smiths.mp3
+    11 - That Joke Isn't Funny Anymore - The Smiths.mp3
+    12 - The Headmaster Ritual - The Smiths.mp3
+    cover.jpg
+

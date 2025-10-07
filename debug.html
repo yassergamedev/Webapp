@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Debug Jukebox</title>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 20px; }
+        .debug-section { margin: 20px 0; padding: 10px; border: 1px solid #ccc; }
+        .error { color: red; }
+        .success { color: green; }
+        button { padding: 10px; margin: 5px; }
+    </style>
+</head>
+<body>
+    <h1>Jukebox Debug Page</h1>
+    
+    <div class="debug-section">
+        <h3>API Tests</h3>
+        <button onclick="testAlbumsAPI()">Test Albums API</button>
+        <button onclick="testSongsAPI()">Test Songs API</button>
+        <button onclick="testTracklistAPI()">Test Tracklist API</button>
+        <div id="apiResults"></div>
+    </div>
+    
+    <div class="debug-section">
+        <h3>Frontend Tests</h3>
+        <button onclick="testFrontend()">Test Frontend Loading</button>
+        <div id="frontendResults"></div>
+    </div>
+    
+    <div class="debug-section">
+        <h3>Console Logs</h3>
+        <div id="consoleLogs"></div>
+    </div>
+
+    <script>
+        const API_BASE = 'http://localhost:3001/api';
+        
+        // Capture console logs
+        const originalLog = console.log;
+        const originalError = console.error;
+        const logContainer = document.getElementById('consoleLogs');
+        
+        function addLog(message, type = 'log') {
+            const div = document.createElement('div');
+            div.className = type;
+            div.textContent = `[${new Date().toLocaleTimeString()}] ${message}`;
+            logContainer.appendChild(div);
+        }
+        
+        console.log = function(...args) {
+            originalLog.apply(console, args);
+            addLog(args.join(' '), 'log');
+        };
+        
+        console.error = function(...args) {
+            originalError.apply(console, args);
+            addLog(args.join(' '), 'error');
+        };
+        
+        async function testAlbumsAPI() {
+            const results = document.getElementById('apiResults');
+            try {
+                console.log('Testing albums API...');
+                const response = await fetch(`${API_BASE}/albums`);
+                const data = await response.json();
+                results.innerHTML = `<div class="success">✅ Albums API: ${data.length} albums loaded</div>`;
+                console.log('Albums data:', data.slice(0, 3)); // Show first 3 albums
+            } catch (error) {
+                results.innerHTML = `<div class="error">❌ Albums API Error: ${error.message}</div>`;
+                console.error('Albums API error:', error);
+            }
+        }
+        
+        async function testSongsAPI() {
+            const results = document.getElementById('apiResults');
+            try {
+                console.log('Testing songs API...');
+                const response = await fetch(`${API_BASE}/songs`);
+                const data = await response.json();
+                results.innerHTML = `<div class="success">✅ Songs API: ${data.length} songs loaded</div>`;
+                console.log('Songs data:', data.slice(0, 3)); // Show first 3 songs
+            } catch (error) {
+                results.innerHTML = `<div class="error">❌ Songs API Error: ${error.message}</div>`;
+                console.error('Songs API error:', error);
+            }
+        }
+        
+        async function testTracklistAPI() {
+            const results = document.getElementById('apiResults');
+            try {
+                console.log('Testing tracklist API...');
+                const response = await fetch(`${API_BASE}/tracklist`);
+                const data = await response.json();
+                results.innerHTML = `<div class="success">✅ Tracklist API: ${data.length} entries loaded</div>`;
+                console.log('Tracklist data:', data);
+            } catch (error) {
+                results.innerHTML = `<div class="error">❌ Tracklist API Error: ${error.message}</div>`;
+                console.error('Tracklist API error:', error);
+            }
+        }
+        
+        async function testFrontend() {
+            const results = document.getElementById('frontendResults');
+            try {
+                console.log('Testing frontend loading...');
+                
+                // Test if we can create a JukeboxSlave instance
+                const script = document.createElement('script');
+                script.src = 'script.js';
+                script.onload = () => {
+                    try {
+                        const jukebox = new JukeboxSlave();
+                        results.innerHTML = `<div class="success">✅ Frontend loaded successfully</div>`;
+                        console.log('JukeboxSlave instance created:', jukebox);
+                    } catch (error) {
+                        results.innerHTML = `<div class="error">❌ Frontend Error: ${error.message}</div>`;
+                        console.error('Frontend error:', error);
+                    }
+                };
+                script.onerror = () => {
+                    results.innerHTML = `<div class="error">❌ Failed to load script.js</div>`;
+                };
+                document.head.appendChild(script);
+                
+            } catch (error) {
+                results.innerHTML = `<div class="error">❌ Frontend Test Error: ${error.message}</div>`;
+                console.error('Frontend test error:', error);
+            }
+        }
+        
+        // Auto-run tests on load
+        window.addEventListener('load', () => {
+            console.log('Debug page loaded');
+            testAlbumsAPI();
+        });
+    </script>
+</body>
+</html>
