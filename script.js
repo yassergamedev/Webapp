@@ -11,7 +11,7 @@ class JukeboxSlave {
         this.searchMode = 'instant';
         this.searchTimeout = null;
         this.refreshInterval = null;
-        this.apiBaseUrl = '/api';
+        this.apiBaseUrl = 'https://jukebox-api-3dlr.onrender.com/api';
         
         console.log('JukeboxSlave properties initialized, calling init()');
         this.init();
@@ -42,8 +42,8 @@ class JukeboxSlave {
         // Location screen
         addListener('requestLocationBtn', 'click', () => this.requestLocation());
         
-        // Login screen
-        addListener('loginForm', 'submit', (e) => this.handleLogin(e));
+        // Login screen - commented out (no longer needed)
+        // addListener('loginForm', 'submit', (e) => this.handleLogin(e));
         
         // Main app
         addListener('logoutBtn', 'click', () => this.logout());
@@ -123,15 +123,21 @@ class JukeboxSlave {
             const position = await this.getCurrentPosition(options);
             const { latitude, longitude } = position.coords;
             
-            // For now, allow access from anywhere
-            console.log('Location obtained:', latitude, longitude);
-            this.showScreen('login');
+            // Check if location is allowed (you can add your location bounds here)
+            if (this.isLocationAllowed(latitude, longitude)) {
+                console.log('Location allowed:', latitude, longitude);
+                this.showScreen('main');
+                await this.loadData();
+                this.startAutoRefresh();
+            } else {
+                console.log('Location not allowed:', latitude, longitude);
+                this.showError('Location not within allowed area. Please contact administrator.');
+            }
             
         } catch (error) {
             console.error('Location error:', error);
-            // Even if location fails, allow access for now
-            console.log('Location access failed, but allowing access anyway');
-            this.showScreen('login');
+            // If location fails, show error but don't proceed
+            this.showError('Unable to access location. Please enable location services and try again.');
         }
     }
 
@@ -141,34 +147,52 @@ class JukeboxSlave {
         });
     }
 
+    isLocationAllowed(lat, lng) {
+        // For now, allow access from anywhere
+        // You can add specific location bounds here later
+        return true;
+        
+        // Example of location restriction (commented out):
+        // const allowedBounds = {
+        //     north: 40.7589,  // Example: New York area
+        //     south: 40.4774,
+        //     east: -73.7004,
+        //     west: -74.2591
+        // };
+        // return this.isWithinBounds(lat, lng, allowedBounds);
+    }
+
     isWithinBounds(lat, lng, bounds) {
         return lat >= bounds.south && lat <= bounds.north && 
                lng >= bounds.west && lng <= bounds.east;
     }
 
-    async handleLogin(e) {
-        e.preventDefault();
-        
-        const username = document.getElementById('username').value;
-        const password = document.getElementById('password').value;
-        
-        if (this.validateCredentials(username, password)) {
-            this.showScreen('main');
-            await this.loadData();
-            this.startAutoRefresh();
-        } else {
-            this.showError('Invalid credentials. Please try again.');
-        }
-    }
+    // Login functions commented out - no longer needed
+    // async handleLogin(e) {
+    //     e.preventDefault();
+    //     
+    //     const username = document.getElementById('username').value;
+    //     const password = document.getElementById('password').value;
+    //     
+    //     if (this.validateCredentials(username, password)) {
+    //         this.showScreen('main');
+    //         await this.loadData();
+    //         this.startAutoRefresh();
+    //     } else {
+    //         this.showError('Invalid credentials. Please try again.');
+    //     }
+    // }
 
-    validateCredentials(username, password) {
-        // Accept any non-empty credentials for now
-        return username.trim() !== '' && password.trim() !== '';
-    }
+    // validateCredentials(username, password) {
+    //     // Accept any non-empty credentials for now
+    //     return username.trim() !== '' && password.trim() !== '';
+    // }
 
     logout() {
         this.showScreen('location');
         this.stopAutoRefresh();
+        // Reload the page to restart the location check
+        window.location.reload();
     }
 
     // Clean song title by removing track numbers and file extensions
@@ -656,8 +680,6 @@ class JukeboxSlave {
         let errorContainer;
         if (this.currentScreen === 'location') {
             errorContainer = document.getElementById('locationError');
-        } else if (this.currentScreen === 'login') {
-            errorContainer = document.getElementById('errorMessage');
         } else {
             // Create a temporary error display for main screen
             this.showTemporaryMessage(message, 'error');
