@@ -11,7 +11,7 @@ class JukeboxSlave {
         this.searchMode = 'instant';
         this.searchTimeout = null;
         this.refreshInterval = null;
-        this.apiBaseUrl = 'https://jukebox-api-3dlr.onrender.com/api';
+        this.apiBaseUrl = '/api';
         
         console.log('JukeboxSlave properties initialized, calling init()');
         this.init();
