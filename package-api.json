@@ -1,0 +1,28 @@
+{
+  "name": "jukebox-api-server",
+  "version": "1.0.0",
+  "description": "Jukebox API Server - MongoDB backend for jukebox webapp",
+  "main": "api-only-server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node api-only-server.js",
+    "dev": "node api-only-server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "mongodb": "^6.3.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "jukebox",
+    "api",
+    "mongodb",
+    "music",
+    "tracklist"
+  ],
+  "author": "Jukebox Team",
+  "license": "MIT"
+}
