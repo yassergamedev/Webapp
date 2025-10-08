@@ -34,32 +34,48 @@ const mimeTypes = {
 app.use(cors());
 app.use(express.json());
 
+// Debug middleware to log all requests
+app.use((req, res, next) => {
+    console.log(`${new Date().toISOString()} - ${req.method} ${req.path}`);
+    next();
+});
+
 // Serve static files (HTML, CSS, JS)
 app.get('/', (req, res) => {
     try {
         const content = readFileSync(join(__dirname, 'index.html'), 'utf8');
         res.setHeader('Content-Type', 'text/html');
+        res.setHeader('Cache-Control', 'no-cache');
         res.send(content);
     } catch (error) {
+        console.error('Error serving index.html:', error);
         res.status(404).send('File not found');
     }
 });
 
-app.get('/*', (req, res) => {
-    const filePath = join(__dirname, req.path);
-    const ext = extname(filePath).toLowerCase();
-    const contentType = mimeTypes[ext] || 'application/octet-stream';
-    
-    if (existsSync(filePath)) {
-        try {
-            const content = readFileSync(filePath);
-            res.setHeader('Content-Type', contentType);
-            res.send(content);
-        } catch (error) {
-            res.status(500).send('Error reading file');
-        }
-    } else {
-        res.status(404).send('File not found');
+// Serve CSS files
+app.get('/styles.css', (req, res) => {
+    try {
+        const content = readFileSync(join(__dirname, 'styles.css'), 'utf8');
+        res.setHeader('Content-Type', 'text/css');
+        res.setHeader('Cache-Control', 'public, max-age=3600');
+        res.send(content);
+    } catch (error) {
+        console.error('Error serving styles.css:', error);
+        res.status(404).send('CSS file not found');
+    }
+});
+
+// Serve JS files
+app.get('/script.js', (req, res) => {
+    try {
+        const content = readFileSync(join(__dirname, 'script.js'), 'utf8');
+        res.setHeader('Content-Type', 'application/javascript');
+        res.setHeader('Cache-Control', 'public, max-age=3600');
+        res.send(content);
+    } catch (error) {
+        console.error('Error serving script.js:', error);
+        res.status(404).send('JS file not found');
     }
 });
 
@@ -77,6 +93,11 @@ async function connectToMongoDB() {
 }
 
 // API Routes
+
+// Debug route to test if API is working
+app.get('/api/test', (req, res) => {
+    res.json({ message: 'API is working!', timestamp: new Date().toISOString() });
+});
 
 // Get all albums
 app.get('/api/albums', async (req, res) => {
@@ -197,6 +218,30 @@ app.get('/api/health', (req, res) => {
         timestamp: new Date().toISOString(),
         mongodb: db ? 'connected' : 'disconnected'
     });
+});
+
+// Serve other static files (must be after API routes)
+app.get('/*', (req, res) => {
+    const filePath = join(__dirname, req.path);
+    const ext = extname(filePath).toLowerCase();
+    const contentType = mimeTypes[ext] || 'application/octet-stream';
+    
+    console.log('Serving static file:', req.path, '->', filePath);
+    
+    if (existsSync(filePath)) {
+        try {
+            const content = readFileSync(filePath);
+            res.setHeader('Content-Type', contentType);
+            res.setHeader('Cache-Control', 'public, max-age=3600');
+            res.send(content);
+        } catch (error) {
+            console.error('Error reading file:', filePath, error);
+            res.status(500).send('Error reading file');
+        }
+    } else {
+        console.log('File not found:', filePath);
+        res.status(404).send('File not found');
+    }
 });
 
 // Start server
