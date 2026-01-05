@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fix Location Configuration</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <style>
+        .fix-container {
+            max-width: 600px;
+            margin: 50px auto;
+            padding: 20px;
+            text-align: center;
+        }
+        
+        .fix-section {
+            background: rgba(245, 166, 35, 0.1);
+            border: 2px solid var(--secondary);
+            border-radius: 15px;
+            padding: 20px;
+            margin: 20px 0;
+        }
+        
+        .success {
+            background: rgba(40, 167, 69, 0.1);
+            border-color: var(--success);
+            color: var(--success);
+        }
+        
+        .error {
+            background: rgba(220, 53, 69, 0.1);
+            border-color: var(--danger);
+            color: var(--danger);
+        }
+    </style>
+</head>
+<body>
+    <div class="fix-container">
+        <div class="retro-header">
+            <h1><i class="fas fa-tools"></i> FIX LOCATION CONFIG</h1>
+            <p class="subtitle">Correct the venue coordinates</p>
+        </div>
+        
+        <div class="fix-section">
+            <h3><i class="fas fa-map-marker-alt"></i> Current Issue</h3>
+            <p>The jukebox was configured with incorrect coordinates (various wrong locations).</p>
+            <p>This caused the bar's PC to show it's 80,000m away from the venue.</p>
+        </div>
+        
+        <div class="fix-section">
+            <h3><i class="fas fa-wrench"></i> Fix Applied</h3>
+            <p><strong>Old Coordinates:</strong> Various incorrect locations</p>
+            <p><strong>New Coordinates:</strong> -25.2842214° S, 152.8552310° E (Queensland, Australia)</p>
+            <p><strong>Allowed Distance:</strong> 50 meters</p>
+        </div>
+        
+        <div id="fixStatus" class="fix-section">
+            <h3><i class="fas fa-cog fa-spin"></i> Applying Fix...</h3>
+            <p>Please wait while we update the configuration...</p>
+        </div>
+        
+        <div style="margin-top: 30px;">
+            <a href="index.html" class="retro-btn">
+                <i class="fas fa-arrow-left"></i> Back to Jukebox
+            </a>
+            <a href="test-location.html" class="retro-btn" style="margin-left: 10px;">
+                <i class="fas fa-crosshairs"></i> Test Location
+            </a>
+        </div>
+    </div>
+
+    <script>
+        // Fix the location configuration
+        function fixLocationConfig() {
+            console.log('🔧 Fixing location configuration...');
+            
+            try {
+                // Clear any existing configuration
+                localStorage.removeItem('jukeboxLocationConfig');
+                
+                // Set the correct configuration for Queensland, Australia
+                const correctConfig = {
+                    venueName: "8-Bit Bar",
+                    address: "Queensland, Australia",
+                    latitude: -25.2842214,
+                    longitude: 152.8552310,
+                    allowedDistance: 50
+                };
+                
+                // Save the correct configuration
+                localStorage.setItem('jukeboxLocationConfig', JSON.stringify(correctConfig));
+                
+                // Verify the configuration was saved
+                const savedConfig = localStorage.getItem('jukeboxLocationConfig');
+                if (savedConfig) {
+                    const config = JSON.parse(savedConfig);
+                    console.log('✅ Configuration fixed:', config);
+                    
+                    // Update the status display
+                    const statusDiv = document.getElementById('fixStatus');
+                    statusDiv.innerHTML = `
+                        <h3><i class="fas fa-check-circle"></i> Fix Applied Successfully!</h3>
+                        <p>✅ Location configuration has been corrected</p>
+                        <p>📍 Venue: ${config.venueName}</p>
+                        <p>📍 Address: ${config.address}</p>
+                        <p>📍 Coordinates: ${config.latitude}° S, ${config.longitude}° E</p>
+                        <p>📍 Allowed Distance: ${config.allowedDistance} meters</p>
+                        <p style="margin-top: 15px; font-weight: bold; color: var(--success);">
+                            The jukebox should now work correctly from the bar!
+                        </p>
+                    `;
+                    statusDiv.className = 'fix-section success';
+                } else {
+                    throw new Error('Failed to save configuration');
+                }
+                
+            } catch (error) {
+                console.error('❌ Error fixing configuration:', error);
+                
+                const statusDiv = document.getElementById('fixStatus');
+                statusDiv.innerHTML = `
+                    <h3><i class="fas fa-exclamation-triangle"></i> Fix Failed</h3>
+                    <p>❌ Error: ${error.message}</p>
+                    <p>Please try refreshing the page and running the fix again.</p>
+                `;
+                statusDiv.className = 'fix-section error';
+            }
+        }
+        
+        // Run the fix when the page loads
+        document.addEventListener('DOMContentLoaded', () => {
+            setTimeout(fixLocationConfig, 1000); // Small delay for visual effect
+        });
+    </script>
+</body>
+</html>

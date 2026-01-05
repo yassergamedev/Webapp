@@ -1,0 +1,3320 @@
+================================================================================
+ALBUM METADATA EXTRACTION REPORT
+Generated: 2025-11-18T04:12:20.007Z
+Total Albums: 39
+================================================================================
+
+
+📀 ALBUM: AC-DC Best Of CD1
+--------------------------------------------------------------------------------
+Total Songs: 17
+
+1. AC - Baby, Please Don't Go
+   (Album tag: Are You Ready: The Very Best Of AC/DC [CD1])
+   Track #11
+   Year: 2016
+   File: ACDC - Baby, Please Don't Go.mp3
+
+2. AC - Baptism By Fire
+   (Album tag: Are You Ready: The Very Best Of AC/DC [CD1])
+   Track #8
+   Year: 2016
+   File: ACDC - Baptism By Fire.mp3
+
+3. AC - Beating Around The Bush
+   (Album tag: Are You Ready: The Very Best Of AC/DC [CD1])
+   Track #5
+   Year: 2016
+   File: ACDC - Beating Around The Bush.mp3
+
+4. AC - Brain Shake
+   (Album tag: Are You Ready: The Very Best Of AC/DC [CD1])
+   Track #10
+   Year: 2016
+   File: ACDC - Brain Shake.mp3
+
+5. AC - Hells Bells
+   (Album tag: Are You Ready: The Very Best Of AC/DC [CD1])
+   Track #12
+   Year: 2016
+   File: ACDC - Hells Bells.mp3
+
+6. AC - It's A Long Way To The Top (If You Wanna Rock 'N' Roll)
+   (Album tag: Are You Ready: The Very Best Of AC/DC [CD1])
+   Track #13
+   Year: 2016
+   File: ACDC - It's A Long Way To The Top (If You Wanna Rock 'N' Roll).mp3
+
+7. AC - Kicked In The Teeth
+   (Album tag: Are You Ready: The Very Best Of AC/DC [CD1])
+   Track #14
+   Year: 2016
+   File: ACDC - Kicked In The Teeth.mp3
+
+8. AC - Live Wire
+   (Album tag: Are You Ready: The Very Best Of AC/DC [CD1])
+   Track #2
+   Year: 2016
+   File: ACDC - Live Wire.mp3
+
+9. AC - Love Song
+   (Album tag: Are You Ready: The Very Best Of AC/DC [CD1])
+   Track #7
+   Year: 2016
+   File: ACDC - Love Song.mp3
+
+10. AC - Rocker
+   (Album tag: Are You Ready: The Very Best Of AC/DC [CD1])
+   Track #6
+   Year: 2016
+   File: ACDC - Rocker.mp3
+
+11. AC - School Days
+   (Album tag: Are You Ready: The Very Best Of AC/DC [CD1])
+   Track #9
+   Year: 2016
+   File: ACDC - School Days.mp3
+
+12. AC - Shoot To Thrill
+   (Album tag: Are You Ready: The Very Best Of AC/DC [CD1])
+   Track #16
+   Year: 2016
+   File: ACDC - Shoot To Thrill.mp3
+
+13. AC - Stiff Upper Lip
+   (Album tag: Are You Ready: The Very Best Of AC/DC [CD1])
+   Track #15
+   Year: 2016
+   File: ACDC - Stiff Upper Lip.mp3
+
+14. AC - That's The Way I Wanna Rock 'N' Roll
+   (Album tag: Are You Ready: The Very Best Of AC/DC [CD1])
+   Track #17
+   Year: 2016
+   File: ACDC - That's The Way I Wanna Rock 'N' Roll.mp3
+
+15. AC - The Furor
+   (Album tag: Are You Ready: The Very Best Of AC/DC [CD1])
+   Track #3
+   Year: 2016
+   File: ACDC - The Furor.mp3
+
+16. AC - The Razors Edge
+   (Album tag: Are You Ready: The Very Best Of AC/DC [CD1])
+   Track #4
+   Year: 2016
+   File: ACDC - The Razors Edge.mp3
+
+17. AC - Thunderstruck
+   (Album tag: Are You Ready: The Very Best Of AC/DC [CD1])
+   Track #1
+   Year: 2016
+   File: ACDC - Thunderstruck.mp3
+
+
+
+📀 ALBUM: AC-DC Best Of CD2
+--------------------------------------------------------------------------------
+Total Songs: 17
+
+1. AC - Big Gun
+   (Album tag: Are You Ready: The Very Best Of AC/DC [CD2])
+   Track #1
+   Year: 2016
+   File: ACDC - Big Gun.mp3
+
+2. AC - Can I Sit Next To You Girl
+   (Album tag: Are You Ready: The Very Best Of AC/DC [CD2])
+   Track #14
+   Year: 2016
+   File: ACDC - Can I Sit Next To You Girl.mp3
+
+3. AC - Can't Stand Still
+   (Album tag: Are You Ready: The Very Best Of AC/DC [CD2])
+   Track #17
+   Year: 2016
+   File: ACDC - Can't Stand Still.mp3
+
+4. AC - Fire Your Guns
+   (Album tag: Are You Ready: The Very Best Of AC/DC [CD2])
+   Track #16
+   Year: 2016
+   File: ACDC - Fire Your Guns.mp3
+
+5. AC - Heatseeker
+   (Album tag: Are You Ready: The Very Best Of AC/DC [CD2])
+   Track #11
+   Year: 2016
+   File: ACDC - Heatseeker.mp3
+
+6. AC - Highway To Hell
+   (Album tag: Are You Ready: The Very Best Of AC/DC [CD2])
+   Track #12
+   Year: 2016
+   File: ACDC - Highway To Hell.mp3
+
+7. AC - Landslide
+   (Album tag: Are You Ready: The Very Best Of AC/DC [CD2])
+   Track #5
+   Year: 2016
+   File: ACDC - Landslide.mp3
+
+8. AC - Riff Raff
+   (Album tag: Are You Ready: The Very Best Of AC/DC [CD2])
+   Track #13
+   Year: 2016
+   File: ACDC - Riff Raff.mp3
+
+9. AC - Safe In New York City
+   (Album tag: Are You Ready: The Very Best Of AC/DC [CD2])
+   Track #15
+   Year: 2016
+   File: ACDC - Safe In New York City.mp3
+
+10. AC - Shake A Leg
+   (Album tag: Are You Ready: The Very Best Of AC/DC [CD2])
+   Track #9
+   Year: 2016
+   File: ACDC - Shake A Leg.mp3
+
+11. AC - She's Got Balls
+   (Album tag: Are You Ready: The Very Best Of AC/DC [CD2])
+   Track #2
+   Year: 2016
+   File: ACDC - She's Got Balls.mp3
+
+12. AC - This Means War
+   (Album tag: Are You Ready: The Very Best Of AC/DC [CD2])
+   Track #10
+   Year: 2016
+   File: ACDC - This Means War.mp3
+
+13. AC - Touch Too Much
+   (Album tag: Are You Ready: The Very Best Of AC/DC [CD2])
+   Track #4
+   Year: 2016
+   File: ACDC - Touch Too Much.mp3
+
+14. AC - Walk All Over You
+   (Album tag: Are You Ready: The Very Best Of AC/DC [CD2])
+   Track #3
+   Year: 2016
+   File: ACDC - Walk All Over You.mp3
+
+15. AC - Whole Lotta Rosie
+   (Album tag: Are You Ready: The Very Best Of AC/DC [CD2])
+   Track #8
+   Year: 2016
+   File: ACDC - Whole Lotta Rosie.mp3
+
+16. AC - You Ain't Got A Hold On Me
+   (Album tag: Are You Ready: The Very Best Of AC/DC [CD2])
+   Track #6
+   Year: 2016
+   File: ACDC - You Ain't Got A Hold On Me.mp3
+
+17. AC - You Shook Me All Night Long
+   (Album tag: Are You Ready: The Very Best Of AC/DC [CD2])
+   Track #7
+   Year: 2016
+   File: ACDC - You Shook Me All Night Long.mp3
+
+
+
+📀 ALBUM: Billy Idol - Best Of
+--------------------------------------------------------------------------------
+Total Songs: 18
+
+1. Billy Idol - Catch My Fall
+   (Album tag: The Very Best Of Billy Idol)
+   Track #7
+   Year: 2008
+   File: Billy Idol - Catch My Fall.mp3
+
+2. Billy Idol - Cradle Of Love
+   (Album tag: The Very Best Of Billy Idol)
+   Track #12
+   Year: 2008
+   File: Billy Idol - Cradle Of Love.mp3
+
+3. Billy Idol - Dancing With Myself
+   (Album tag: The Very Best Of Billy Idol)
+   Track #1
+   Year: 2008
+   File: Billy Idol - Dancing With Myself.mp3
+
+4. Billy Idol - Dont Need A Gun
+   (Album tag: The Very Best Of Billy Idol)
+   Track #9
+   Year: 2008
+   File: Billy Idol - Don’t Need A Gun.mp3
+
+5. Billy Idol - Eyes Without A Face
+   (Album tag: The Very Best Of Billy Idol)
+   Track #5
+   Year: 2008
+   File: Billy Idol - Eyes Without A Face.mp3
+
+6. Billy Idol - Flesh For Fantasy
+   (Album tag: The Very Best Of Billy Idol)
+   Track #6
+   Year: 2008
+   File: Billy Idol - Flesh For Fantasy.mp3
+
+7. Billy Idol - Hot In The City
+   (Album tag: The Very Best Of Billy Idol)
+   Track #2
+   Year: 2008
+   File: Billy Idol - Hot In The City.mp3
+
+8. Billy Idol - John Wayne
+   (Album tag: The Very Best Of Billy Idol)
+   Track #17
+   Year: 2008
+   File: Billy Idol - John Wayne.mp3
+
+9. Billy Idol - L.A. Woman
+   (Album tag: The Very Best Of Billy Idol)
+   Track #13
+   Year: 2008
+   File: Billy Idol - L.A. Woman.mp3
+
+10. Billy Idol - Mony, Mony
+   (Album tag: The Very Best Of Billy Idol)
+   Track #11
+   Year: 2008
+   File: Billy Idol - Mony, Mony.mp3
+
+11. Billy Idol - New Future Weapon
+   (Album tag: The Very Best Of Billy Idol)
+   Track #18
+   Year: 2008
+   File: Billy Idol - New Future Weapon.mp3
+
+12. Billy Idol - Rebel Yell
+   (Album tag: The Very Best Of Billy Idol)
+   Track #4
+   Year: 2008
+   File: Billy Idol - Rebel Yell.mp3
+
+13. Billy Idol - Shock To The System
+   (Album tag: The Very Best Of Billy Idol)
+   Track #14
+   Year: 2008
+   File: Billy Idol - Shock To The System.mp3
+
+14. Billy Idol - Speed
+   (Album tag: The Very Best Of Billy Idol)
+   Track #15
+   Year: 2008
+   File: Billy Idol - Speed.mp3
+
+15. Billy Idol - Sweet Sixteen
+   (Album tag: The Very Best Of Billy Idol)
+   Track #10
+   Year: 2008
+   File: Billy Idol - Sweet Sixteen.mp3
+
+16. Billy Idol - To Be A Lover
+   (Album tag: The Very Best Of Billy Idol)
+   Track #8
+   Year: 2008
+   File: Billy Idol - To Be A Lover.mp3
+
+17. Billy Idol - White Wedding, Part 1
+   (Album tag: The Very Best Of Billy Idol)
+   Track #3
+   Year: 2008
+   File: Billy Idol - White Wedding, Part 1.mp3
+
+18. Billy Idol - World Comin Down
+   (Album tag: The Very Best Of Billy Idol)
+   Track #16
+   Year: 2008
+   File: Billy Idol - World Comin’ Down.mp3
+
+
+
+📀 ALBUM: Billy Joel - Very Best Of
+--------------------------------------------------------------------------------
+Total Songs: 18
+
+1. Billy Joel - All About Soul (Radio Edit)
+   (Album tag: Piano Man: The Very Best Of Billy Joel)
+   Track #16
+   Year: 2004
+   File: Billy Joel - All About Soul (Radio Edit).mp3
+
+2. Billy Joel - An Innocent Man
+   (Album tag: Piano Man: The Very Best Of Billy Joel)
+   Track #13
+   Year: 2004
+   File: Billy Joel - An Innocent Man.mp3
+
+3. Billy Joel - Goodnight Saigon
+   (Album tag: Piano Man: The Very Best Of Billy Joel)
+   Track #8
+   Year: 2004
+   File: Billy Joel - Goodnight Saigon.mp3
+
+4. Billy Joel - Honesty
+   (Album tag: Piano Man: The Very Best Of Billy Joel)
+   Track #17
+   Year: 2004
+   File: Billy Joel - Honesty.mp3
+
+5. Billy Joel - It's Still Rock And Roll To Me
+   (Album tag: Piano Man: The Very Best Of Billy Joel)
+   Track #6
+   Year: 2004
+   File: Billy Joel - It's Still Rock And Roll To Me.mp3
+
+6. Billy Joel - Just The Way You Are (Radio Edit)
+   (Album tag: Piano Man: The Very Best Of Billy Joel)
+   Track #18
+   Year: 2004
+   File: Billy Joel - Just The Way You Are (Radio Edit).mp3
+
+7. Billy Joel - Movin' Out (Anthony's Song)
+   (Album tag: Piano Man: The Very Best Of Billy Joel)
+   Track #14
+   Year: 2004
+   File: Billy Joel - Movin' Out (Anthony's Song).mp3
+
+8. Billy Joel - My Life
+   (Album tag: Piano Man: The Very Best Of Billy Joel)
+   Track #9
+   Year: 2004
+   File: Billy Joel - My Life.mp3
+
+9. Billy Joel - New York State Of Mind
+   (Album tag: Piano Man: The Very Best Of Billy Joel)
+   Track #4
+   Year: 2004
+   File: Billy Joel - New York State Of Mind.mp3
+
+10. Billy Joel - Only The Good Die Young (Single Version)
+   (Album tag: Piano Man: The Very Best Of Billy Joel)
+   Track #15
+   Year: 2004
+   File: Billy Joel - Only The Good Die Young (Single Version).mp3
+
+11. Billy Joel - Piano Man (Radio Edit)
+   (Album tag: Piano Man: The Very Best Of Billy Joel)
+   Track #3
+   Year: 2004
+   File: Billy Joel - Piano Man (Radio Edit).mp3
+
+12. Billy Joel - Scenes From An Italian Restaurant
+   (Album tag: Piano Man: The Very Best Of Billy Joel)
+   Track #12
+   Year: 2004
+   File: Billy Joel - Scenes From An Italian Restaurant.mp3
+
+13. Billy Joel - She's Always A Woman
+   (Album tag: Piano Man: The Very Best Of Billy Joel)
+   Track #10
+   Year: 2004
+   File: Billy Joel - She's Always A Woman.mp3
+
+14. Billy Joel - She's Got A Way (Live)
+   (Album tag: Piano Man: The Very Best Of Billy Joel)
+   Track #11
+   Year: 2004
+   File: Billy Joel - She's Got A Way (Live).mp3
+
+15. Billy Joel - Tell Her About It
+   (Album tag: Piano Man: The Very Best Of Billy Joel)
+   Track #1
+   Year: 2004
+   File: Billy Joel - Tell Her About It.mp3
+
+16. Billy Joel - The River Of Dreams
+   (Album tag: Piano Man: The Very Best Of Billy Joel)
+   Track #5
+   Year: 2004
+   File: Billy Joel - The River Of Dreams.mp3
+
+17. Billy Joel - Uptown Girl
+   (Album tag: Piano Man: The Very Best Of Billy Joel)
+   Track #2
+   Year: 2004
+   File: Billy Joel - Uptown Girl.mp3
+
+18. Billy Joel - We Didn't Start The Fire
+   (Album tag: Piano Man: The Very Best Of Billy Joel)
+   Track #7
+   Year: 2004
+   File: Billy Joel - We Didn't Start The Fire.mp3
+
+
+
+📀 ALBUM: Blondie - Best Of Blondie
+--------------------------------------------------------------------------------
+Total Songs: 10
+
+1. Blondie - Atomic '98 (Tall Paul Remix)
+   (Album tag: Atomic: The Very Best Of Blondie)
+   Track #10
+   Year: 1998
+   File: Blondie - Atomic '98 (Tall Paul Remix).mp3
+
+2. Blondie - Atomic
+   (Album tag: Atomic: The Very Best Of Blondie)
+   Track #1
+   Year: 1998
+   File: Blondie - Atomic.mp3
+
+3. Blondie - Call Me (Theme From 'American Gigolo')
+   (Album tag: Atomic: The Very Best Of Blondie)
+   Track #4
+   Year: 1998
+   File: Blondie - Call Me (Theme From 'American Gigolo').mp3
+
+4. Blondie - Denis
+   (Album tag: Atomic: The Very Best Of Blondie)
+   Track #6
+   Year: 1998
+   File: Blondie - Denis.mp3
+
+5. Blondie - Fade Away & Radiate
+   (Album tag: Atomic: The Very Best Of Blondie)
+   Track #9
+   Year: 1998
+   File: Blondie - Fade Away & Radiate.mp3
+
+6. Blondie - Hanging On The Telephone
+   (Album tag: Atomic: The Very Best Of Blondie)
+   Track #7
+   Year: 1998
+   File: Blondie - Hanging On The Telephone.mp3
+
+7. Blondie - Heart Of Glass
+   (Album tag: Atomic: The Very Best Of Blondie)
+   Track #2
+   Year: 1998
+   File: Blondie - Heart Of Glass.mp3
+
+8. Blondie - One Way Or Another
+   (Album tag: Atomic: The Very Best Of Blondie)
+   Track #8
+   Year: 1998
+   File: Blondie - One Way Or Another.mp3
+
+9. Blondie - Sunday Girl
+   (Album tag: Atomic: The Very Best Of Blondie)
+   Track #3
+   Year: 1998
+   File: Blondie - Sunday Girl.mp3
+
+10. Blondie - The Tide Is High
+   (Album tag: Atomic: The Very Best Of Blondie)
+   Track #5
+   Year: 1998
+   File: Blondie - The Tide Is High.mp3
+
+
+
+📀 ALBUM: Blur - Greatest Hits
+--------------------------------------------------------------------------------
+Total Songs: 13
+
+1. Blur - Beetlebum
+   (Album tag: Blur - The Best Of )
+   Track #1
+   Year: 2000
+   File: Blur - Beetlebum.mp3
+
+2. Blur - Charmless Man
+   (Album tag: Blur - The Best Of )
+   Track #11
+   Year: 2000
+   File: Blur - Charmless Man.mp3
+
+3. Blur - Coffee & TV
+   (Album tag: Blur - The Best Of )
+   Track #5
+   Year: 2000
+   File: Blur - Coffee & TV.mp3
+
+4. Blur - Country House
+   (Album tag: Blur - The Best Of )
+   Track #13
+   Year: 2000
+   File: Blur - Country House.mp3
+
+5. Blur - End Of A Century
+   (Album tag: Blur - The Best Of )
+   Track #7
+   Year: 2000
+   File: Blur - End Of A Century.mp3
+
+6. Blur - Girls & Boys
+   (Album tag: Blur - The Best Of )
+   Track #10
+   Year: 2000
+   File: Blur - Girls & Boys.mp3
+
+7. Blur - No Distance Left To Run
+   (Album tag: Blur - The Best Of )
+   Track #8
+   Year: 2000
+   File: Blur - No Distance Left To Run.mp3
+
+8. Blur - Parklife
+   (Album tag: Blur - The Best Of )
+   Track #6
+   Year: 2000
+   File: Blur - Parklife.mp3
+
+9. Blur - She's So High
+   (Album tag: Blur - The Best Of )
+   Track #12
+   Year: 2000
+   File: Blur - She's So High.mp3
+
+10. Blur - Song 2
+   (Album tag: Blur - The Best Of )
+   Track #2
+   Year: 2000
+   File: Blur - Song 2.mp3
+
+11. Blur - Tender
+   (Album tag: Blur - The Best Of )
+   Track #9
+   Year: 2000
+   File: Blur - Tender.mp3
+
+12. Blur - The Universal
+   (Album tag: Blur - The Best Of )
+   Track #4
+   Year: 2000
+   File: Blur - The Universal.mp3
+
+13. Blur - There's No Other Way
+   (Album tag: Blur - The Best Of )
+   Track #3
+   Year: 2000
+   File: Blur - There's No Other Way.mp3
+
+
+
+📀 ALBUM: Bon Jovi - Cross Road
+--------------------------------------------------------------------------------
+Total Songs: 13
+
+1. Bon Jovi - Always
+   (Album tag: Cross Road: The Best Of Bon Jovi)
+   Track #4
+   Year: 1994
+   File: Bon Jovi - Always.mp3
+
+2. Bon Jovi - Bad Medicine
+   (Album tag: Cross Road: The Best Of Bon Jovi)
+   Track #11
+   Year: 1994
+   File: Bon Jovi - Bad Medicine.mp3
+
+3. Bon Jovi - Beds Of Roses
+   (Album tag: Cross Road: The Best Of Bon Jovi)
+   Track #8
+   Year: 1994
+   File: Bon Jovi - Beds Of Roses.mp3
+
+4. Bon Jovi - Blaze Of Glory
+   (Album tag: Cross Road: The Best Of Bon Jovi)
+   Track #9
+   Year: 1994
+   File: Bon Jovi - Blaze Of Glory.mp3
+
+5. Bon Jovi - I'll Be There For You
+   (Album tag: Cross Road: The Best Of Bon Jovi)
+   Track #12
+   Year: 1994
+   File: Bon Jovi - I'll Be There For You.mp3
+
+6. Bon Jovi - Keep The Faith
+   (Album tag: Cross Road: The Best Of Bon Jovi)
+   Track #2
+   Year: 1994
+   File: Bon Jovi - Keep The Faith.mp3
+
+7. Bon Jovi - Lay Your Hands On Me
+   (Album tag: Cross Road: The Best Of Bon Jovi)
+   Track #6
+   Year: 1994
+   File: Bon Jovi - Lay Your Hands On Me.mp3
+
+8. Bon Jovi - Livin' On A Prayer
+   (Album tag: Cross Road: The Best Of Bon Jovi)
+   Track #1
+   Year: 1994
+   File: Bon Jovi - Livin' On A Prayer.mp3
+
+9. Bon Jovi - Prayer '94
+   (Album tag: Cross Road: The Best Of Bon Jovi)
+   Track #10
+   Year: 1994
+   File: Bon Jovi - Prayer '94.mp3
+
+10. Bon Jovi - Runaway
+   (Album tag: Cross Road: The Best Of Bon Jovi)
+   Track #13
+   Year: 1994
+   File: Bon Jovi - Runaway.mp3
+
+11. Bon Jovi - Someday I'll Be Saturday Night
+   (Album tag: Cross Road: The Best Of Bon Jovi)
+   Track #3
+   Year: 1994
+   File: Bon Jovi - Someday I'll Be Saturday Night.mp3
+
+12. Bon Jovi - Wanted Dead Or Alive
+   (Album tag: Cross Road: The Best Of Bon Jovi)
+   Track #5
+   Year: 1994
+   File: Bon Jovi - Wanted Dead Or Alive.mp3
+
+13. Bon Jovi - You Give Love A Bad Name
+   (Album tag: Cross Road: The Best Of Bon Jovi)
+   Track #7
+   Year: 1994
+   File: Bon Jovi - You Give Love A Bad Name.mp3
+
+
+
+📀 ALBUM: Bruce Springsteen - Best of
+--------------------------------------------------------------------------------
+Total Songs: 14
+
+1. Bruce Springsteen - 4th of July, Asbury Park (Sandy)
+   (Album tag: Best of Bruce Springsteen )
+   Track #3
+   Year: 2024
+   File: Bruce Springsteen - 4th of July, Asbury Park (Sandy).mp3
+
+2. Bruce Springsteen - Atlantic City
+   (Album tag: Best of Bruce Springsteen )
+   Track #9
+   Year: 2024
+   File: Bruce Springsteen - Atlantic City.mp3
+
+3. Bruce Springsteen - Badlands
+   (Album tag: Best of Bruce Springsteen )
+   Track #5
+   Year: 2024
+   File: Bruce Springsteen - Badlands.mp3
+
+4. Bruce Springsteen - Born in the U.S.A.
+   (Album tag: Best of Bruce Springsteen )
+   Track #12
+   Year: 2024
+   File: Bruce Springsteen - Born in the U.S.A..mp3
+
+5. Bruce Springsteen - Born to Run
+   (Album tag: Best of Bruce Springsteen )
+   Track #4
+   Year: 2024
+   File: Bruce Springsteen - Born to Run.mp3
+
+6. Bruce Springsteen - Dancing In the Dark
+   (Album tag: Best of Bruce Springsteen )
+   Track #11
+   Year: 2024
+   File: Bruce Springsteen - Dancing In the Dark.mp3
+
+7. Bruce Springsteen - Glory Days
+   (Album tag: Best of Bruce Springsteen )
+   Track #10
+   Year: 2024
+   File: Bruce Springsteen - Glory Days.mp3
+
+8. Bruce Springsteen - Growin' Up
+   (Album tag: Best of Bruce Springsteen )
+   Track #1
+   Year: 2024
+   File: Bruce Springsteen - Growin' Up.mp3
+
+9. Bruce Springsteen - Human Touch
+   (Album tag: Best of Bruce Springsteen )
+   Track #13
+   Year: 2024
+   File: Bruce Springsteen - Human Touch.mp3
+
+10. Bruce Springsteen - Hungry Heart
+   (Album tag: Best of Bruce Springsteen )
+   Track #8
+   Year: 2024
+   File: Bruce Springsteen - Hungry Heart.mp3
+
+11. Bruce Springsteen - Prove It All Night
+   (Album tag: Best of Bruce Springsteen )
+   Track #6
+   Year: 2024
+   File: Bruce Springsteen - Prove It All Night.mp3
+
+12. Bruce Springsteen - Rosalita (Come Out Tonight)
+   (Album tag: Best of Bruce Springsteen )
+   Track #2
+   Year: 2024
+   File: Bruce Springsteen - Rosalita (Come Out Tonight).mp3
+
+13. Bruce Springsteen - Streets of Philadelphia
+   (Album tag: Best of Bruce Springsteen )
+   Track #14
+   Year: 2024
+   File: Bruce Springsteen - Streets of Philadelphia.mp3
+
+14. Bruce Springsteen - The River
+   (Album tag: Best of Bruce Springsteen )
+   Track #7
+   Year: 2024
+   File: Bruce Springsteen - The River.mp3
+
+
+
+📀 ALBUM: Bryan Adams - The Best Of Me
+--------------------------------------------------------------------------------
+Total Songs: 13
+
+1. Bryan Adams - (Everything I Do) I Do It For You
+   (Album tag: The Best Of Me)
+   Track #9
+   Year: 1999
+   File: Bryan Adams - (Everything I Do) I Do It For You.mp3
+
+2. Bryan Adams - Can't Stop This Thing We Started
+   (Album tag: The Best Of Me)
+   Track #2
+   Year: 1999
+   File: Bryan Adams - Can't Stop This Thing We Started.mp3
+
+3. Bryan Adams - Have You Ever Really Loved A Woman?
+   (Album tag: The Best Of Me)
+   Track #7
+   Year: 1999
+   File: Bryan Adams - Have You Ever Really Loved A Woman.mp3
+
+4. Bryan Adams - I'm Ready
+   (Album tag: The Best Of Me)
+   Track #3
+   Year: 1999
+   File: Bryan Adams - I'm Ready.mp3
+
+5. Bryan Adams - Let's Make A Night To Remember
+   (Album tag: The Best Of Me)
+   Track #5
+   Year: 1999
+   File: Bryan Adams - Let's Make A Night To Remember.mp3
+
+6. Bryan Adams - Please Forgive Me
+   (Album tag: The Best Of Me)
+   Track #11
+   Year: 1999
+   File: Bryan Adams - Please Forgive Me.mp3
+
+7. Bryan Adams - Run To You
+   (Album tag: The Best Of Me)
+   Track #8
+   Year: 1999
+   File: Bryan Adams - Run To You.mp3
+
+8. Bryan Adams - Summer Of '69
+   (Album tag: The Best Of Me)
+   Track #4
+   Year: 1999
+   File: Bryan Adams - Summer Of '69.mp3
+
+9. Bryan Adams - The Best Of Me
+   (Album tag: The Best Of Me)
+   Track #1
+   Year: 1999
+   File: Bryan Adams - The Best Of Me.mp3
+
+10. Bryan Adams - The Only Thing That Looks Good On Me Is You
+   (Album tag: The Best Of Me)
+   Track #12
+   Year: 1999
+   File: Bryan Adams - The Only Thing That Looks Good On Me Is You.mp3
+
+11. Bryan Adams Feat. Melanie C - When You're Gone
+   (Album tag: The Best Of Me)
+   Track #10
+   Year: 1999
+   File: Bryan Adams Feat. Melanie C - When You're Gone.mp3
+
+12. Bryan Adams, Rod Stewart & Sting - All For Love
+   (Album tag: The Best Of Me)
+   Track #6
+   Year: 1999
+   File: Bryan Adams, Rod Stewart & Sting - All For Love.mp3
+
+13. Chicane Feat. Bryan Adams - Don't Give Up
+   (Album tag: The Best Of Me)
+   Track #13
+   Year: 1999
+   File: Chicane Feat. Bryan Adams - Don't Give Up.mp3
+
+
+
+📀 ALBUM: Creedence Clearwater Revival - Best Of
+--------------------------------------------------------------------------------
+Total Songs: 13
+
+1. Creedence Clearwater Revival - Bad Moon Rising
+   (Album tag: Best Of)
+   Track #4
+   Year: 1998
+   File: Creedence Clearwater Revival - Bad Moon Rising.mp3
+
+2. Creedence Clearwater Revival - Down On The Corner
+   (Album tag: Best Of)
+   Track #6
+   Year: 1998
+   File: Creedence Clearwater Revival - Down On The Corner.mp3
+
+3. Creedence Clearwater Revival - Good Golly Miss Molly
+   (Album tag: Best Of)
+   Track #9
+   Year: 1998
+   File: Creedence Clearwater Revival - Good Golly Miss Molly.mp3
+
+4. Creedence Clearwater Revival - Have You Ever Seen The Rain
+   (Album tag: Best Of)
+   Track #13
+   Year: 1998
+   File: Creedence Clearwater Revival - Have You Ever Seen The Rain.mp3
+
+5. Creedence Clearwater Revival - Hello Mary Lou
+   (Album tag: Best Of)
+   Track #11
+   Year: 1998
+   File: Creedence Clearwater Revival - Hello Mary Lou.mp3
+
+6. Creedence Clearwater Revival - Hey Tonight
+   (Album tag: Best Of)
+   Track #8
+   Year: 1998
+   File: Creedence Clearwater Revival - Hey Tonight.mp3
+
+7. Creedence Clearwater Revival - Lodi
+   (Album tag: Best Of)
+   Track #3
+   Year: 1998
+   File: Creedence Clearwater Revival - Lodi.mp3
+
+8. Creedence Clearwater Revival - Lookin' Out My Back Door
+   (Album tag: Best Of)
+   Track #12
+   Year: 1998
+   File: Creedence Clearwater Revival - Lookin' Out My Back Door.mp3
+
+9. Creedence Clearwater Revival - Ooby Dooby
+   (Album tag: Best Of)
+   Track #5
+   Year: 1998
+   File: Creedence Clearwater Revival - Ooby Dooby.mp3
+
+10. Creedence Clearwater Revival - Proud Mary
+   (Album tag: Best Of)
+   Track #2
+   Year: 1998
+   File: Creedence Clearwater Revival - Proud Mary.mp3
+
+11. Creedence Clearwater Revival - Sweet Hitch-Hiker
+   (Album tag: Best Of)
+   Track #10
+   Year: 1998
+   File: Creedence Clearwater Revival - Sweet Hitch-Hiker.mp3
+
+12. Creedence Clearwater Revival - Travellin' Band
+   (Album tag: Best Of)
+   Track #7
+   Year: 1998
+   File: Creedence Clearwater Revival - Travellin' Band.mp3
+
+13. Creedence Clearwater Revival - Who'll Stop The Rain
+   (Album tag: Best Of)
+   Track #1
+   Year: 1998
+   File: Creedence Clearwater Revival - Who'll Stop The Rain.mp3
+
+
+
+📀 ALBUM: Crowded House - Very Best Of
+--------------------------------------------------------------------------------
+Total Songs: 11
+
+1. Crowded House - Better Be Home Soon
+   (Album tag: Recurring Dream: The Very Best Of Crowded House)
+   Track #11
+   Year: 1996
+   File: Crowded House - Better Be Home Soon.mp3
+
+2. Crowded House - Don't Dream It's Over
+   (Album tag: Recurring Dream: The Very Best Of Crowded House)
+   Track #5
+   Year: 1996
+   File: Crowded House - Don't Dream It's Over.mp3
+
+3. Crowded House - Fall At Your Feet
+   (Album tag: Recurring Dream: The Very Best Of Crowded House)
+   Track #3
+   Year: 1996
+   File: Crowded House - Fall At Your Feet.mp3
+
+4. Crowded House - Four Seasons In One Day
+   (Album tag: Recurring Dream: The Very Best Of Crowded House)
+   Track #9
+   Year: 1996
+   File: Crowded House - Four Seasons In One Day.mp3
+
+5. Crowded House - Instinct
+   (Album tag: Recurring Dream: The Very Best Of Crowded House)
+   Track #8
+   Year: 1996
+   File: Crowded House - Instinct.mp3
+
+6. Crowded House - Into Temptation
+   (Album tag: Recurring Dream: The Very Best Of Crowded House)
+   Track #6
+   Year: 1996
+   File: Crowded House - Into Temptation.mp3
+
+7. Crowded House - Locked Out
+   (Album tag: Recurring Dream: The Very Best Of Crowded House)
+   Track #4
+   Year: 1996
+   File: Crowded House - Locked Out.mp3
+
+8. Crowded House - Pineapple Head
+   (Album tag: Recurring Dream: The Very Best Of Crowded House)
+   Track #7
+   Year: 1996
+   File: Crowded House - Pineapple Head.mp3
+
+9. Crowded House - Something So Strong
+   (Album tag: Recurring Dream: The Very Best Of Crowded House)
+   Track #10
+   Year: 1996
+   File: Crowded House - Something So Strong.mp3
+
+10. Crowded House - Weather With You
+   (Album tag: Recurring Dream: The Very Best Of Crowded House)
+   Track #1
+   Year: 1996
+   File: Crowded House - Weather With You.mp3
+
+11. Crowded House - World Where You Live
+   (Album tag: Recurring Dream: The Very Best Of Crowded House)
+   Track #2
+   Year: 1996
+   File: Crowded House - World Where You Live.mp3
+
+
+
+📀 ALBUM: David Bowie - Bowie Legacy
+--------------------------------------------------------------------------------
+Total Songs: 15
+
+1. David Bowie - Ashes to Ashes (Single Version [Remastered])
+   (Album tag: Legacy)
+   Track #9
+   Year: 2016
+   File: David Bowie - Ashes to Ashes (Single Version [Remastered]).mp3
+
+2. David Bowie - Blue Jean (Remastered)
+   (Album tag: Legacy)
+   Track #13
+   Year: 2016
+   File: David Bowie - Blue Jean (Remastered).mp3
+
+3. David Bowie - China Girl (Single Version [Remastered])
+   (Album tag: Legacy)
+   Track #12
+   Year: 2016
+   File: David Bowie - China Girl (Single Version [Remastered]).mp3
+
+4. David Bowie - Dancing in the Street (Remastered)
+   (Album tag: Legacy)
+   Track #14
+   Year: 2016
+   File: David Bowie - Dancing in the Street (Remastered).mp3
+
+5. David Bowie - Fame (Remastered)
+   (Album tag: Legacy)
+   Track #5
+   Year: 2016
+   File: David Bowie - Fame (Remastered).mp3
+
+6. David Bowie - Fashion (Single Version [Remastered])
+   (Album tag: Legacy)
+   Track #8
+   Year: 2016
+   File: David Bowie - Fashion (Single Version [Remastered]).mp3
+
+7. David Bowie - Golden Years (Single Version [Remastered])
+   (Album tag: Legacy)
+   Track #6
+   Year: 2016
+   File: David Bowie - Golden Years (Single Version [Remastered]).mp3
+
+8. David Bowie - Heroes (Single Version [Remastered])
+   (Album tag: Legacy)
+   Track #7
+   Year: 2016
+   File: David Bowie - Heroes (Single Version [Remastered]).mp3
+
+9. David Bowie - Lazarus (Radio Edit)
+   (Album tag: Legacy)
+   Track #15
+   Year: 2016
+   File: David Bowie - Lazarus (Radio Edit).mp3
+
+10. David Bowie - Let's Dance (Single Version [Remastered])
+   (Album tag: Legacy)
+   Track #11
+   Year: 2016
+   File: David Bowie - Let's Dance (Single Version [Remastered]).mp3
+
+11. David Bowie - Life On Mars? (2016 Mix)
+   (Album tag: Legacy)
+   Track #2
+   Year: 2016
+   File: David Bowie - Life On Mars (2016 Mix).mp3
+
+12. David Bowie - Rebel Rebel (Remastered)
+   (Album tag: Legacy)
+   Track #4
+   Year: 2016
+   File: David Bowie - Rebel Rebel (Remastered).mp3
+
+13. David Bowie - Space Oddity (Remastered)
+   (Album tag: Legacy)
+   Track #1
+   Year: 2016
+   File: David Bowie - Space Oddity (Remastered).mp3
+
+14. David Bowie - Under Pressure (Remastered)
+   (Album tag: Legacy)
+   Track #10
+   Year: 2016
+   File: David Bowie - Under Pressure (Remastered).mp3
+
+15. David Bowie - Ziggy Stardust (Remastered)
+   (Album tag: Legacy)
+   Track #3
+   Year: 2016
+   File: David Bowie - Ziggy Stardust (Remastered).mp3
+
+
+
+📀 ALBUM: Dire Straits - The Very Best
+--------------------------------------------------------------------------------
+Total Songs: 9
+
+1. Dire Straits - Brothers In Arms
+   (Album tag: The Very Best Of Dire Straits)
+   Track #3
+   Year: 1995
+   File: Dire Straits - Brothers In Arms.mp3
+
+2. Dire Straits - Heavy Fuel
+   (Album tag: The Very Best Of Dire Straits)
+   Track #4
+   Year: 1995
+   File: Dire Straits - Heavy Fuel.mp3
+
+3. Dire Straits - Money For Nothing
+   (Album tag: The Very Best Of Dire Straits)
+   Track #8
+   Year: 1995
+   File: Dire Straits - Money For Nothing.mp3
+
+4. Dire Straits - My Parties
+   (Album tag: The Very Best Of Dire Straits)
+   Track #2
+   Year: 1995
+   File: Dire Straits - My Parties.mp3
+
+5. Dire Straits - Romeo And Juliet
+   (Album tag: The Very Best Of Dire Straits)
+   Track #5
+   Year: 1995
+   File: Dire Straits - Romeo And Juliet.mp3
+
+6. Dire Straits - So Far Away
+   (Album tag: The Very Best Of Dire Straits)
+   Track #9
+   Year: 1995
+   File: Dire Straits - So Far Away.mp3
+
+7. Dire Straits - Sultans Of Swing
+   (Album tag: The Very Best Of Dire Straits)
+   Track #1
+   Year: 1995
+   File: Dire Straits - Sultans Of Swing.mp3
+
+8. Dire Straits - Walk Of Life
+   (Album tag: The Very Best Of Dire Straits)
+   Track #6
+   Year: 1995
+   File: Dire Straits - Walk Of Life.mp3
+
+9. Dire Straits - Where Do You Think You're Going
+   (Album tag: The Very Best Of Dire Straits)
+   Track #7
+   Year: 1995
+   File: Dire Straits - Where Do You Think You're Going.mp3
+
+
+
+📀 ALBUM: Elvis Presley - Elvis Forever
+--------------------------------------------------------------------------------
+Total Songs: 14
+
+1. Elvis Presley - (Let Me Be Your) Teddy Bear
+   (Album tag: Elvis Forever: The Best of Elvis Presley)
+   Track #10
+   Year: 2017
+   File: Elvis Presley - (Let Me Be Your) Teddy Bear.mp3
+
+2. Elvis Presley - (You're The) Devil In Disguise
+   (Album tag: Elvis Forever: The Best of Elvis Presley)
+   Track #12
+   Year: 2017
+   File: Elvis Presley - (You're The) Devil In Disguise.mp3
+
+3. Elvis Presley - A Little Less Conversation (JXL Radio Edit Remix)
+   (Album tag: Elvis Forever: The Best of Elvis Presley)
+   Track #8
+   Year: 2017
+   File: Elvis Presley - A Little Less Conversation (JXL Radio Edit Remix).mp3
+
+4. Elvis Presley - All Shook Up
+   (Album tag: Elvis Forever: The Best of Elvis Presley)
+   Track #4
+   Year: 2017
+   File: Elvis Presley - All Shook Up.mp3
+
+5. Elvis Presley - Burning Love
+   (Album tag: Elvis Forever: The Best of Elvis Presley)
+   Track #2
+   Year: 2017
+   File: Elvis Presley - Burning Love.mp3
+
+6. Elvis Presley - Can't Help Falling in Love
+   (Album tag: Elvis Forever: The Best of Elvis Presley)
+   Track #6
+   Year: 2017
+   File: Elvis Presley - Can't Help Falling in Love.mp3
+
+7. Elvis Presley - Don't Be Cruel
+   (Album tag: Elvis Forever: The Best of Elvis Presley)
+   Track #11
+   Year: 2017
+   File: Elvis Presley - Don't Be Cruel.mp3
+
+8. Elvis Presley - Heartbreak Hotel
+   (Album tag: Elvis Forever: The Best of Elvis Presley)
+   Track #1
+   Year: 2017
+   File: Elvis Presley - Heartbreak Hotel.mp3
+
+9. Elvis Presley - Hound Dog
+   (Album tag: Elvis Forever: The Best of Elvis Presley)
+   Track #5
+   Year: 2017
+   File: Elvis Presley - Hound Dog.mp3
+
+10. Elvis Presley - In the Ghetto
+   (Album tag: Elvis Forever: The Best of Elvis Presley)
+   Track #13
+   Year: 2017
+   File: Elvis Presley - In the Ghetto.mp3
+
+11. Elvis Presley - It's Now or Never
+   (Album tag: Elvis Forever: The Best of Elvis Presley)
+   Track #3
+   Year: 2017
+   File: Elvis Presley - It's Now or Never.mp3
+
+12. Elvis Presley - Jailhouse Rock
+   (Album tag: Elvis Forever: The Best of Elvis Presley)
+   Track #7
+   Year: 2017
+   File: Elvis Presley - Jailhouse Rock.mp3
+
+13. Elvis Presley - Stuck on You
+   (Album tag: Elvis Forever: The Best of Elvis Presley)
+   Track #14
+   Year: 2017
+   File: Elvis Presley - Stuck on You.mp3
+
+14. Elvis Presley - Suspicious Minds
+   (Album tag: Elvis Forever: The Best of Elvis Presley)
+   Track #9
+   Year: 2017
+   File: Elvis Presley - Suspicious Minds.mp3
+
+
+
+📀 ALBUM: HotHits Aus CD1
+--------------------------------------------------------------------------------
+Total Songs: 16
+
+1. Ariana Grande - twilight zone
+   (Album tag: VA)
+   Year: 2025
+   File: Ariana Grande - twilight zone.mp3
+
+2. Ariana Grande - yes, and?
+   (Album tag: VA)
+   Year: 2024
+   File: Ariana Grande - yes, and.mp3
+
+3. Billie Eilish - BIRDS OF A FEATHER
+   (Album tag: VA)
+   Year: 2024
+   File: Billie Eilish - BIRDS OF A FEATHER.mp3
+
+4. CYRIL - Still Into You
+   (Album tag: VA)
+   Year: 2024
+   File: CYRILmaryjo - Still Into You.mp3
+
+5. Cj Pandit - Wouldn't It Be Cool
+   (Album tag: VA)
+   Year: 2025
+   File: Cj Pandit - Wouldn't It Be Cool.mp3
+
+6. Doechii - Anxiety
+   (Album tag: VA)
+   Year: 2025
+   File: Doechii - Anxiety.mp3
+
+7. Jordan Parker - Dancing To The Moon
+   (Album tag: VA)
+   Year: 2025
+   File: Jordan Parker - Dancing To The Moon.mp3
+
+8. Lola Young - One Thing
+   (Album tag: VA)
+   Year: 2025
+   File: Lola Young - One Thing.mp3
+
+9. Madi Rindge - San Francisco
+   (Album tag: VA)
+   Year: 2025
+   File: Madi Rindge - San Francisco.mp3
+
+10. Morgan Wallen - Love Somebody
+   (Album tag: VA)
+   Year: 2024
+   File: Morgan Wallen - Love Somebody.mp3
+
+11. NIKI - You'll Be in My Heart
+   (Album tag: VA)
+   Year: 2022
+   File: NIKI - You'll Be in My Heart.mp3
+
+12. Olivia Rodrigo - vampire
+   (Album tag: VA)
+   Year: 2023
+   File: Olivia Rodrigo - vampire.mp3
+
+13. Royel Otis - who’s your boyfriend
+   (Album tag: VA)
+   Year: 2025
+   File: Royel Otis - who’s your boyfriend.mp3
+
+14. Sam Plourd - Prove It!
+   (Album tag: VA)
+   Year: 2025
+   File: Sam Plourd - Prove It!.mp3
+
+15. Tate McRae - Sports car
+   (Album tag: VA)
+   Year: 2025
+   File: Tate McRae - Sports car.mp3
+
+16. Xander Ward - Golden Hour
+   (Album tag: VA)
+   Year: 2025
+   File: Xander WardThe Paper Brigade - Golden Hour.mp3
+
+
+
+📀 ALBUM: HotHits Aus CD2
+--------------------------------------------------------------------------------
+Total Songs: 16
+
+1. Benson Boone - Beautiful Things
+   (Album tag: VA)
+   Year: 2024
+   File: Benson Boone - Beautiful Things.mp3
+
+2. Billie Eilish - WILDFLOWER
+   (Album tag: VA)
+   Year: 2024
+   File: Billie Eilish - WILDFLOWER.mp3
+
+3. Harry Styles - As It Was
+   (Album tag: VA)
+   Year: 2022
+   File: Harry Styles - As It Was.mp3
+
+4. Joji - PIXELATED KISSES
+   (Album tag: VA)
+   Year: 2025
+   File: Joji - PIXELATED KISSES.mp3
+
+5. KATSEYE - Gabriela
+   (Album tag: VA)
+   Year: 2025
+   File: KATSEYE - Gabriela.mp3
+
+6. Keli Holiday - Dancing2
+   (Album tag: VA)
+   Year: 2025
+   File: Keli Holiday - Dancing2.mp3
+
+7. PinkPantheress - Illegal
+   (Album tag: VA)
+   Year: 2025
+   File: PinkPantheress - Illegal.mp3
+
+8. RAYE - WHERE IS MY HUSBAND!
+   (Album tag: VA)
+   Year: 2025
+   File: RAYE - WHERE IS MY HUSBAND!.mp3
+
+9. Ravyn Lenae - Love Me Not
+   (Album tag: VA)
+   Year: 2024
+   File: Ravyn Lenae - Love Me Not.mp3
+
+10. Sabrina Carpenter - Taste
+   (Album tag: VA)
+   Year: 2024
+   File: Sabrina Carpenter - Taste.mp3
+
+11. Saja Boys - Soda Pop
+   (Album tag: VA)
+   Year: 2025
+   File: Saja BoysAndrew ChoiNeckwavDanny ChungKEVIN WOOsamUIL LeeKPop Demon Hunters Cast - Soda Pop.mp3
+
+12. Snt - Marry You
+   (Album tag: VA)
+   Year: 2025
+   File: Snt - Marry You.mp3
+
+13. Tate McRae - greedy
+   (Album tag: VA)
+   Year: 2023
+   File: Tate McRae - greedy.mp3
+
+14. The Weeknd - Cry For Me
+   (Album tag: VA)
+   Year: 2025
+   File: The Weeknd - Cry For Me.mp3
+
+15. sombr - 12 to 12
+   (Album tag: VA)
+   Year: 2025
+   File: sombr - 12 to 12.mp3
+
+16. sombr - undressed
+   (Album tag: VA)
+   Year: 2025
+   File: sombr - undressed.mp3
+
+
+
+📀 ALBUM: HotHits Aus CD3
+--------------------------------------------------------------------------------
+Total Songs: 16
+
+1. Ava Beathard - Head
+   (Album tag: VA)
+   Year: 2025
+   File: Ava Beathard - Head.mp3
+
+2. Fred again.. - Victory Lap
+   (Album tag: VA)
+   Year: 2025
+   File: Fred again..SkeptaPlaqueBoyMax - Victory Lap.mp3
+
+3. Hilltop Hoods - Rage Against The Fatigue
+   (Album tag: VA)
+   Year: 2025
+   File: Hilltop Hoods - Rage Against The Fatigue.mp3
+
+4. JISOO - EYES CLOSED (with ZAYN)
+   (Album tag: VA)
+   Year: 2025
+   File: JISOOZAYN - EYES CLOSED (with ZAYN).mp3
+
+5. Jessie Murph - Blue Strips
+   (Album tag: VA)
+   Year: 2025
+   File: Jessie Murph - Blue Strips.mp3
+
+6. Lady Gaga - Abracadabra
+   (Album tag: VA)
+   Year: 2025
+   File: Lady Gaga - Abracadabra.mp3
+
+7. Lady Gaga - Die With A Smile
+   (Album tag: VA)
+   Year: 2024
+   File: Lady GagaBruno Mars - Die With A Smile.mp3
+
+8. Olivia Dean - Man I Need
+   (Album tag: VA)
+   Year: 2025
+   File: Olivia Dean - Man I Need.mp3
+
+9. Reneé Rapp - I Think I Like You Better When You’re Gone
+   (Album tag: VA)
+   Year: 2025
+   File: Reneé Rapp - I Think I Like You Better When You’re Gone.mp3
+
+10. Sabrina Carpenter - When Did You Get Hot?
+   (Album tag: VA)
+   Year: 2025
+   File: Sabrina Carpenter - When Did You Get Hot.mp3
+
+11. Tate McRae - Just Keep Watching (From F1® The Movie)
+   (Album tag: VA)
+   Year: 2025
+   File: Tate McRaeF1 The Album - Just Keep Watching (From F1® The Movie).mp3
+
+12. The Kid LAROI - A COLD PLAY
+   (Album tag: VA)
+   Year: 2025
+   File: The Kid LAROI - A COLD PLAY.mp3
+
+13. Tyla - PUSH 2 START
+   (Album tag: VA)
+   Year: 2024
+   File: Tyla - PUSH 2 START.mp3
+
+14. Tyler - Sugar On My Tongue
+   (Album tag: VA)
+   Year: 2025
+   File: Tyler The Creator - Sugar On My Tongue.mp3
+
+15. Vance Joy - Divine Feelings
+   (Album tag: VA)
+   Year: 2025
+   File: Vance Joy - Divine Feelings.mp3
+
+16. oskar med k - nobody (make me feel)
+   (Album tag: VA)
+   Year: 2025
+   File: oskar med kKhalid - nobody (make me feel).mp3
+
+
+
+📀 ALBUM: HotHits Aus CD4
+--------------------------------------------------------------------------------
+Total Songs: 16
+
+1. Disco Lines - No Broke Boys
+   (Album tag: VA)
+   Year: 2025
+   File: Disco LinesTinashe - No Broke Boys.mp3
+
+2. Dua Lipa - Houdini
+   (Album tag: VA)
+   Year: 2023
+   File: Dua Lipa - Houdini.mp3
+
+3. Lady Gaga - The Dead Dance
+   (Album tag: VA)
+   Year: 2025
+   File: Lady Gaga - The Dead Dance.mp3
+
+4. Mark Ambor - Belong Together
+   (Album tag: VA)
+   Year: 2024
+   File: Mark Ambor - Belong Together.mp3
+
+5. Ninajirachi - iPod Touch
+   (Album tag: VA)
+   Year: 2025
+   File: Ninajirachi - iPod Touch.mp3
+
+6. Noah Kahan - Stick Season
+   (Album tag: VA)
+   Year: 2022
+   File: Noah Kahan - Stick Season.mp3
+
+7. Sabrina Carpenter - Manchild
+   (Album tag: VA)
+   Year: 2025
+   File: Sabrina Carpenter - Manchild.mp3
+
+8. Sabrina Carpenter - Tears
+   (Album tag: VA)
+   Year: 2025
+   File: Sabrina Carpenter - Tears.mp3
+
+9. Shaboozey - A Bar Song (Tipsy)
+   (Album tag: VA)
+   Year: 2024
+   File: Shaboozey - A Bar Song (Tipsy).mp3
+
+10. Stephen Sanchez - Until I Found You
+   (Album tag: VA)
+   Year: 2022
+   File: Stephen Sanchez - Until I Found You.mp3
+
+11. Tate McRae - TIT FOR TAT
+   (Album tag: VA)
+   Year: 2025
+   File: Tate McRae - TIT FOR TAT.mp3
+
+12. Taylor Swift - Fortnight (feat. Post Malone)
+   (Album tag: VA)
+   Year: 2024
+   File: Taylor SwiftPost Malone - Fortnight (feat. Post Malone).mp3
+
+13. The Temper Trap - Giving Up Air
+   (Album tag: VA)
+   Year: 2025
+   File: The Temper Trap - Giving Up Air.mp3
+
+14. WizTheMc - Show Me Love
+   (Album tag: VA)
+   Year: 2025
+   File: WizTheMcbees & honey - Show Me Love.mp3
+
+15. Xander Ward - Deeply Still
+   (Album tag: VA)
+   Year: 2025
+   File: Xander Ward - Deeply Still.mp3
+
+16. sombr - back to friends
+   (Album tag: VA)
+   Year: 2024
+   File: sombr - back to friends.mp3
+
+
+
+📀 ALBUM: HotHits Aus CD5
+--------------------------------------------------------------------------------
+Total Songs: 16
+
+1. 5 Seconds of Summer - NOT OK
+   (Album tag: VA)
+   Year: 2025
+   File: 5 Seconds of Summer - NOT OK.mp3
+
+2. Alex Warren - Eternity
+   (Album tag: VA)
+   Year: 2025
+   File: Alex Warren - Eternity.mp3
+
+3. Chappell Roan - Pink Pony Club
+   (Album tag: VA)
+   Year: 2023
+   File: Chappell Roan - Pink Pony Club.mp3
+
+4. Charli xcx - party 4 u
+   (Album tag: VA)
+   Year: 2020
+   File: Charli xcx - party 4 u.mp3
+
+5. Chelan - undertones (therapy on my wishlist)
+   (Album tag: VA)
+   Year: 2025
+   File: Chelan - undertones (therapy on my wishlist).mp3
+
+6. Dean Lewis - I Hate That It's True
+   (Album tag: VA)
+   Year: 2025
+   File: Dean Lewis - I Hate That It's True.mp3
+
+7. FISHER - Blackberries
+   (Album tag: VA)
+   Year: 2025
+   File: FISHERbbyclose - Blackberries.mp3
+
+8. Justin Bieber - DAISIES
+   (Album tag: VA)
+   Year: 2025
+   File: Justin Bieber - DAISIES.mp3
+
+9. Lorde - What Was That
+   (Album tag: VA)
+   Year: 2025
+   File: Lorde - What Was That.mp3
+
+10. Miley Cyrus - Flowers
+   (Album tag: VA)
+   Year: 2023
+   File: Miley Cyrus - Flowers.mp3
+
+11. Olivia Dean - So Easy (To Fall In Love)
+   (Album tag: VA)
+   Year: 2025
+   File: Olivia Dean - So Easy (To Fall In Love).mp3
+
+12. Post Malone - I Had Some Help (Feat. Morgan Wallen)
+   (Album tag: VA)
+   Year: 2024
+   File: Post MaloneMorgan Wallen - I Had Some Help (Feat. Morgan Wallen).mp3
+
+13. ROSÉ - APT.
+   (Album tag: VA)
+   Year: 2024
+   File: ROSÉBruno Mars - APT..mp3
+
+14. Rihanna - Breakin' Dishes
+   (Album tag: VA)
+   Year: 2008
+   File: Rihanna - Breakin' Dishes.mp3
+
+15. Tame Impala - Dracula
+   (Album tag: VA)
+   Year: 2025
+   File: Tame Impala - Dracula.mp3
+
+16. Teddy Swims - The Door
+   (Album tag: VA)
+   Year: 2023
+   File: Teddy Swims - The Door.mp3
+
+
+
+📀 ALBUM: HotHits Aus CD6
+--------------------------------------------------------------------------------
+Total Songs: 16
+
+1. Benson Boone - Mystical Magical
+   (Album tag: VA)
+   Year: 2025
+   File: Benson Boone - Mystical Magical.mp3
+
+2. Calvin Harris - Blessings
+   (Album tag: VA)
+   Year: 2025
+   File: Calvin HarrisClementine Douglas - Blessings.mp3
+
+3. Chappell Roan - The Subway
+   (Album tag: VA)
+   Year: 2025
+   File: Chappell Roan - The Subway.mp3
+
+4. Doja Cat - Jealous Type
+   (Album tag: VA)
+   Year: 2025
+   File: Doja Cat - Jealous Type.mp3
+
+5. Drake - Which One (feat. Central Cee)
+   (Album tag: VA)
+   Year: 2025
+   File: DrakeCentral Cee - Which One (feat. Central Cee).mp3
+
+6. Ed Sheeran - Azizam
+   (Album tag: VA)
+   Year: 2025
+   File: Ed Sheeran - Azizam.mp3
+
+7. Ed Sheeran - Sapphire
+   (Album tag: VA)
+   Year: 2025
+   File: Ed Sheeran - Sapphire.mp3
+
+8. Eighty Ninety - Hollywood Dream
+   (Album tag: VA)
+   Year: 2025
+   File: Eighty Ninety - Hollywood Dream.mp3
+
+9. Guy Sebastian - Maybe
+   (Album tag: VA)
+   Year: 2025
+   File: Guy Sebastian - Maybe.mp3
+
+10. Jung Kook - Seven (feat. Latto)
+   (Album tag: VA)
+   Year: 2023
+   File: Jung KookLatto - Seven (feat. Latto).mp3
+
+11. Lola Young - Messy
+   (Album tag: VA)
+   Year: 2024
+   File: Lola Young - Messy.mp3
+
+12. Morgan Wallen - What I Want (feat. Tate McRae)
+   (Album tag: VA)
+   Year: 2025
+   File: Morgan WallenTate McRae - What I Want (feat. Tate McRae).mp3
+
+13. Spacey Jane - Whateverrrr
+   (Album tag: VA)
+   Year: 2025
+   File: Spacey Jane - Whateverrrr.mp3
+
+14. Taylor Swift - Opalite
+   (Album tag: VA)
+   Year: 2025
+   File: Taylor Swift - Opalite.mp3
+
+15. Taylor Swift - The Fate of Ophelia
+   (Album tag: VA)
+   Year: 2025
+   File: Taylor Swift - The Fate of Ophelia.mp3
+
+16. Will Sparks - HUSTLR
+   (Album tag: VA)
+   Year: 2025
+   File: Will SparksJoel FletcherLuciana - HUSTLR.mp3
+
+
+
+📀 ALBUM: HotHits Aus CD7
+--------------------------------------------------------------------------------
+Total Songs: 16
+
+1. Addison Rae - Fame is a Gun
+   (Album tag: VA)
+   Year: 2025
+   File: Addison Rae - Fame is a Gun.mp3
+
+2. Alex Warren - Ordinary
+   (Album tag: VA)
+   Year: 2025
+   File: Alex Warren - Ordinary.mp3
+
+3. Chappell Roan - Good Luck, Babe!
+   (Album tag: VA)
+   Year: 2024
+   File: Chappell Roan - Good Luck, Babe!.mp3
+
+4. Dom Dolla - Dreamin (feat. Daya)
+   (Album tag: VA)
+   Year: 2025
+   File: Dom DollaDaya - Dreamin (feat. Daya).mp3
+
+5. G Flip - Disco Cowgirl
+   (Album tag: VA)
+   Year: 2025
+   File: G Flip - Disco Cowgirl.mp3
+
+6. Gigi Perez - Sailor Song
+   (Album tag: VA)
+   Year: 2024
+   File: Gigi Perez - Sailor Song.mp3
+
+7. Jordan Parker - Couldn't Wait For You
+   (Album tag: VA)
+   Year: 2025
+   File: Jordan Parker - Couldn't Wait For You.mp3
+
+8. Justin Bieber - LOVE SONG
+   (Album tag: VA)
+   Year: 2025
+   File: Justin Bieber - LOVE SONG.mp3
+
+9. Kehlani - Folded
+   (Album tag: VA)
+   Year: 2025
+   File: Kehlani - Folded.mp3
+
+10. Lithe - Cannonball (feat. Don Toliver)
+   (Album tag: VA)
+   Year: 2025
+   File: LitheDon Toliver - Cannonball (feat. Don Toliver).mp3
+
+11. ONEFOUR - Distant Strangers (feat. The Kid LAROI & Imogen Heap)
+   (Album tag: VA)
+   Year: 2025
+   File: ONEFOURThe Kid LAROIImogen Heap - Distant Strangers (feat. The Kid LAROI & Imogen Heap).mp3
+
+12. Ocean Alley - Love Balloon
+   (Album tag: VA)
+   Year: 2025
+   File: Ocean Alley - Love Balloon.mp3
+
+13. Ruel - I Can Die Now
+   (Album tag: VA)
+   Year: 2025
+   File: Ruel - I Can Die Now.mp3
+
+14. Sabrina Carpenter - Espresso
+   (Album tag: VA)
+   Year: 2024
+   File: Sabrina Carpenter - Espresso.mp3
+
+15. Taylor Swift - Cruel Summer
+   (Album tag: VA)
+   Year: 2019
+   File: Taylor Swift - Cruel Summer.mp3
+
+16. Xander Ward - Beach Babe
+   (Album tag: VA)
+   Year: 2025
+   File: Xander Ward - Beach Babe.mp3
+
+
+
+📀 ALBUM: Madness - Full House
+--------------------------------------------------------------------------------
+Total Songs: 14
+
+1. Madness - (Waiting For The) Ghost Train
+   (Album tag: Full House-The Very Best of Madness)
+   Track #14
+   Year: 2017
+   File: Madness - (Waiting For The) Ghost Train.mp3
+
+2. Madness - Baggy Trousers
+   (Album tag: Full House-The Very Best of Madness)
+   Track #4
+   Year: 2017
+   File: Madness - Baggy Trousers.mp3
+
+3. Madness - Driving In My Car
+   (Album tag: Full House-The Very Best of Madness)
+   Track #9
+   Year: 2017
+   File: Madness - Driving In My Car.mp3
+
+4. Madness - Embarrassment
+   (Album tag: Full House-The Very Best of Madness)
+   Track #5
+   Year: 2017
+   File: Madness - Embarrassment.mp3
+
+5. Madness - Grey Day
+   (Album tag: Full House-The Very Best of Madness)
+   Track #6
+   Year: 2017
+   File: Madness - Grey Day.mp3
+
+6. Madness - House of Fun
+   (Album tag: Full House-The Very Best of Madness)
+   Track #8
+   Year: 2017
+   File: Madness - House of Fun.mp3
+
+7. Madness - It Must Be Love
+   (Album tag: Full House-The Very Best of Madness)
+   Track #7
+   Year: 2017
+   File: Madness - It Must Be Love.mp3
+
+8. Madness - Madness
+   (Album tag: Full House-The Very Best of Madness)
+   Track #3
+   Year: 2017
+   File: Madness - Madness.mp3
+
+9. Madness - Michael Caine
+   (Album tag: Full House-The Very Best of Madness)
+   Track #13
+   Year: 2017
+   File: Madness - Michael Caine.mp3
+
+10. Madness - My Girl
+   (Album tag: Full House-The Very Best of Madness)
+   Track #2
+   Year: 2017
+   File: Madness - My Girl.mp3
+
+11. Madness - One Step Beyond
+   (Album tag: Full House-The Very Best of Madness)
+   Track #1
+   Year: 2017
+   File: Madness - One Step Beyond.mp3
+
+12. Madness - Our House
+   (Album tag: Full House-The Very Best of Madness)
+   Track #10
+   Year: 2017
+   File: Madness - Our House.mp3
+
+13. Madness - Tomorrow's (Just Another Day)
+   (Album tag: Full House-The Very Best of Madness)
+   Track #11
+   Year: 2017
+   File: Madness - Tomorrow's (Just Another Day).mp3
+
+14. Madness - Wings of a Dove
+   (Album tag: Full House-The Very Best of Madness)
+   Track #12
+   Year: 2017
+   File: Madness - Wings of a Dove.mp3
+
+
+
+📀 ALBUM: Metallica - Best Of The Best
+--------------------------------------------------------------------------------
+Total Songs: 10
+
+1. Metallica - Battery
+   (Album tag: Master Of Puppets)
+   Track #1
+   Year: 1986
+   File: Metallica - Battery.mp3
+
+2. Metallica - Enter Sandman
+   (Album tag: Black Album)
+   Track #4
+   Year: 1991
+   File: Metallica - Enter Sandman.mp3
+
+3. Metallica - Fade To Black
+   (Album tag: Ride The Lightning)
+   Track #8
+   Year: 1984
+   File: Metallica - Fade To Black.mp3
+
+4. Metallica - Fuel
+   (Album tag: ReLoad)
+   Track #2
+   Year: 1997
+   File: Metallica - Fuel.mp3
+
+5. Metallica - Hit The Lights
+   (Album tag: Kill 'Em All)
+   Track #3
+   Year: 1983
+   File: Metallica - Hit The Lights.mp3
+
+6. Metallica - Master Of Puppets
+   (Album tag: Master Of Puppets)
+   Track #5
+   Year: 1986
+   File: Metallica - Master Of Puppets.mp3
+
+7. Metallica - Nothing Else Matters
+   (Album tag: Black Album)
+   Track #9
+   Year: 1991
+   File: Metallica - Nothing Else Matters.mp3
+
+8. Metallica - One
+   (Album tag: ...And Justice For All)
+   Track #6
+   Year: 1988
+   File: Metallica - One.mp3
+
+9. Metallica - The Unforgiven
+   (Album tag: Black Album)
+   Track #7
+   Year: 1991
+   File: Metallica - The Unforgiven.mp3
+
+10. Metallica - Whiskey In The Jar
+   (Album tag: Garage Inc. [Disc 1])
+   Track #10
+   Year: 1998
+   File: Metallica - Whiskey In The Jar.mp3
+
+
+
+📀 ALBUM: Nirvana - The Best
+--------------------------------------------------------------------------------
+Total Songs: 9
+
+1. Nirvana - About A Girl
+   (Album tag: Best Of The Best)
+   Track #2
+   Year: 2002
+   File: Nirvana - About A Girl.mp3
+
+2. Nirvana - Been A Son
+   (Album tag: Best Of The Best)
+   Track #3
+   Year: 2002
+   File: Nirvana - Been A Son.mp3
+
+3. Nirvana - Come As You Are
+   (Album tag: Best Of The Best)
+   Track #6
+   Year: 2002
+   File: Nirvana - Come As You Are.mp3
+
+4. Nirvana - Heart-Shaped Box
+   (Album tag: Best Of The Best)
+   Track #9
+   Year: 2002
+   File: Nirvana - Heart-Shaped Box.mp3
+
+5. Nirvana - Lithium
+   (Album tag: Best Of The Best)
+   Track #7
+   Year: 2002
+   File: Nirvana - Lithium.mp3
+
+6. Nirvana - Rape Me
+   (Album tag: Best Of The Best)
+   Track #10
+   Year: 2002
+   File: Nirvana - Rape Me.mp3
+
+7. Nirvana - Sliver
+   (Album tag: Best Of The Best)
+   Track #4
+   Year: 2002
+   File: Nirvana - Sliver.mp3
+
+8. Nirvana - Smells Like Teen Spirit
+   (Album tag: Best Of The Best)
+   Track #5
+   Year: 2002
+   File: Nirvana - Smells Like Teen Spirit.mp3
+
+9. Nirvana - You Know You're Right
+   (Album tag: Best Of The Best)
+   Track #1
+   Year: 2002
+   File: Nirvana - You Know You're Right.mp3
+
+
+
+📀 ALBUM: Pophits 00-24 Vol1
+--------------------------------------------------------------------------------
+Total Songs: 15
+
+1. Ava Max - Sweet but Psycho
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #15
+   Year: 2025
+   File: Ava Max - Sweet but Psycho.mp3
+
+2. Benson Boone - Beautiful Things
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #5
+   Year: 2025
+   File: Benson Boone - Beautiful Things.mp3
+
+3. Bruno Mars - Marry You
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #4
+   Year: 2025
+   File: Bruno Mars - Marry You.mp3
+
+4. Chappell Roan - School Nights
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #8
+   Year: 2025
+   File: Chappell Roan - School Nights.mp3
+
+5. Charli XCX - Apple
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #13
+   Year: 2025
+   File: Charli XCX - Apple.mp3
+
+6. Coldplay - Yellow
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #10
+   Year: 2025
+   File: Coldplay - Yellow.mp3
+
+7. Ed Sheeran - Shape of You
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #1
+   Year: 2025
+   File: Ed Sheeran - Shape of You.mp3
+
+8. Flo Rida - Wild Ones (feat. Sia)
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #6
+   Year: 2025
+   File: Flo Rida - Wild Ones (feat. Sia).mp3
+
+9. Lizzo - About Damn Time
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #11
+   Year: 2025
+   File: Lizzo - About Damn Time.mp3
+
+10. Michael Bublé - It’s a Beautiful Day
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #7
+   Year: 2025
+   File: Michael Bublé - It’s a Beautiful Day.mp3
+
+11. New Order - Crystal (Radio Edit)
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #100
+   Year: 2025
+   File: New Order - Crystal (Radio Edit).mp3
+
+12. Panic! At The Disco - High Hopes
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #16
+   Year: 2025
+   File: Panic! At The Disco - High Hopes.mp3
+
+13. Rose - APT.
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #12
+   Year: 2025
+   File: Rose - APT..mp3
+
+14. Teddy Swims - Lose Control
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #9
+   Year: 2025
+   File: Teddy Swims - Lose Control.mp3
+
+15. fun. - We Are Young (feat. Janelle Monáe)
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #14
+   Year: 2025
+   File: fun. - We Are Young (feat. Janelle Monáe).mp3
+
+
+
+📀 ALBUM: Pophits 00-24 Vol2
+--------------------------------------------------------------------------------
+Total Songs: 16
+
+1. Anne-Marie - 2002
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #23
+   Year: 2025
+   File: Anne-Marie - 2002.mp3
+
+2. Birdy - Skinny Love
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #32
+   Year: 2025
+   File: Birdy - Skinny Love.mp3
+
+3. Clean Bandit - Symphony (feat. Zara Larsson)
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #19
+   Year: 2025
+   File: Clean Bandit - Symphony (feat. Zara Larsson).mp3
+
+4. Dan + Shay - 10,000 Hours
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #27
+   Year: 2025
+   File: Dan + Shay - 10,000 Hours.mp3
+
+5. Disturbed - The Sound of Silence
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #17
+   Year: 2025
+   File: Disturbed - The Sound of Silence.mp3
+
+6. Jason Mraz - I Won’t Give Up
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #26
+   Year: 2025
+   File: Jason Mraz - I Won’t Give Up.mp3
+
+7. Jaymes Young - Infinity
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #28
+   Year: 2025
+   File: Jaymes Young - Infinity.mp3
+
+8. Kehlani - Gangsta
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #21
+   Year: 2025
+   File: Kehlani - Gangsta.mp3
+
+9. Kelly Clarkson - Broken & Beautiful (From "Uglydolls")
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #31
+   Year: 2025
+   File: Kelly Clarkson - Broken & Beautiful (From Uglydolls).mp3
+
+10. Lykke Li - I Follow Rivers (The Magician Remix)
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #30
+   Year: 2025
+   File: Lykke Li - I Follow Rivers (The Magician Remix).mp3
+
+11. Nico & Vinz - Am I Wrong
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #20
+   Year: 2025
+   File: Nico & Vinz - Am I Wrong.mp3
+
+12. Rudimental - These Days (feat. Jess Glynne, Macklemore & Dan Caplen)
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #18
+   Year: 2025
+   File: Rudimental - These Days (feat. Jess Glynne, Macklemore & Dan Caplen).mp3
+
+13. Surf Curse - Disco
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #24
+   Year: 2025
+   File: Surf Curse - Disco.mp3
+
+14. Travie McCoy - Billionaire (feat. Bruno Mars)
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #22
+   Year: 2025
+   File: Travie McCoy - Billionaire (feat. Bruno Mars).mp3
+
+15. gnash - i hate u, i love u (feat. Olivia O'Brien)
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #29
+   Year: 2025
+   File: gnash - i hate u, i love u (feat. Olivia O'Brien).mp3
+
+16. twenty one pilots - Stressed Out
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #25
+   Year: 2025
+   File: twenty one pilots - Stressed Out.mp3
+
+
+
+📀 ALBUM: Pophits 00-24 Vol3
+--------------------------------------------------------------------------------
+Total Songs: 15
+
+1. A R I Z O N A - Oceans Away
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #44
+   Year: 2025
+   File: A R I Z O N A - Oceans Away.mp3
+
+2. Adam Lambert - Ghost Town
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #43
+   Year: 2025
+   File: Adam Lambert - Ghost Town.mp3
+
+3. Ali Gatie - It’s You
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #36
+   Year: 2025
+   File: Ali Gatie - It’s You.mp3
+
+4. Briston Maroney - Freakin' Out on the Interstate
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #40
+   Year: 2025
+   File: Briston Maroney - Freakin' Out on the Interstate.mp3
+
+5. Chase Atlantic - Swim
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #45
+   Year: 2025
+   File: Chase Atlantic - Swim.mp3
+
+6. Chromeo - Jealous (I Ain't with It)
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #41
+   Year: 2025
+   File: Chromeo - Jealous (I Ain't with It).mp3
+
+7. Ella Henderson - Friends
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #47
+   Year: 2025
+   File: Ella Henderson - Friends.mp3
+
+8. Fitz and The Tantrums - Out of My League
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #35
+   Year: 2025
+   File: Fitz and The Tantrums - Out of My League.mp3
+
+9. Grouplove - Tongue Tied
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #37
+   Year: 2025
+   File: Grouplove - Tongue Tied.mp3
+
+10. Jamie Lawson - Wasn’t Expecting That
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #34
+   Year: 2025
+   File: Jamie Lawson - Wasn’t Expecting That.mp3
+
+11. Jess Glynne - I'll Be There
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #39
+   Year: 2025
+   File: Jess Glynne - I'll Be There.mp3
+
+12. Melanie Martinez - Pacify Her
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #42
+   Year: 2025
+   File: Melanie Martinez - Pacify Her.mp3
+
+13. Rainbow Kitten Surprise - It’s Called: Freefall
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #33
+   Year: 2025
+   File: Rainbow Kitten Surprise - It’s Called Freefall.mp3
+
+14. Ricky Montgomery - Line Without a Hook
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #46
+   Year: 2025
+   File: Ricky Montgomery - Line Without a Hook.mp3
+
+15. Wallows - Are You Bored Yet? (feat. Clairo)
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #38
+   Year: 2025
+   File: Wallows - Are You Bored Yet (feat. Clairo).mp3
+
+
+
+📀 ALBUM: Pophits 00-24 Vol4
+--------------------------------------------------------------------------------
+Total Songs: 15
+
+1. All Saints - Pure Shores
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #54
+   Year: 2025
+   File: All Saints - Pure Shores.mp3
+
+2. Catie Turner - God Must Hate Me
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #61
+   Year: 2025
+   File: Catie Turner - God Must Hate Me.mp3
+
+3. Echosmith - Cool Kids
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #50
+   Year: 2025
+   File: Echosmith - Cool Kids.mp3
+
+4. Gayle - abcdefu
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #60
+   Year: 2025
+   File: Gayle - abcdefu.mp3
+
+5. Gym Class Heroes - Cupid’s Chokehold / Breakfast in America
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #52
+   Year: 2025
+   File: Gym Class Heroes - Cupid’s Chokehold  Breakfast in America.mp3
+
+6. Honne - no song without you
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #56
+   Year: 2025
+   File: Honne - no song without you.mp3
+
+7. James Blunt - You’re Beautiful
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #51
+   Year: 2025
+   File: James Blunt - You’re Beautiful.mp3
+
+8. Jamie Miller - Here’s Your Perfect
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #59
+   Year: 2025
+   File: Jamie Miller - Here’s Your Perfect.mp3
+
+9. Jason DeRulo - Whatcha Say
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #53
+   Year: 2025
+   File: Jason DeRulo - Whatcha Say.mp3
+
+10. Lennon Stella - Summer Feelings (feat. Charlie Puth)
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #57
+   Year: 2025
+   File: Lennon Stella - Summer Feelings (feat. Charlie Puth).mp3
+
+11. Lily Allen - Smile
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #48
+   Year: 2025
+   File: Lily Allen - Smile.mp3
+
+12. Nessa Barrett - la di die (feat. Jaden Hossler)
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #58
+   Year: 2025
+   File: Nessa Barrett - la di die (feat. Jaden Hossler).mp3
+
+13. Paolo Nutini - Last Request
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #55
+   Year: 2025
+   File: Paolo Nutini - Last Request.mp3
+
+14. Portugal. The Man - Feel It Still
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #49
+   Year: 2025
+   File: Portugal. The Man - Feel It Still.mp3
+
+15. Sam Ryder - SPACE MAN
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #62
+   Year: 2025
+   File: Sam Ryder - SPACE MAN.mp3
+
+
+
+📀 ALBUM: Pophits 00-24 Vol5
+--------------------------------------------------------------------------------
+Total Songs: 15
+
+1. Charlie Puth - Left and Right
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #65
+   Year: 2025
+   File: Charlie Puth - Left and Right.mp3
+
+2. Eliza Rose - B.O.T.A. (Baddest of Them All) (Edit)
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #70
+   Year: 2025
+   File: Eliza Rose - B.O.T.A. (Baddest of Them All) (Edit).mp3
+
+3. Fall Out Boy - We Didn’t Start the Fire
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #74
+   Year: 2025
+   File: Fall Out Boy - We Didn’t Start the Fire.mp3
+
+4. Fred again.. - adore u
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #77
+   Year: 2025
+   File: Fred again.. - adore u.mp3
+
+5. Jax - Victoria’s Secret
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #67
+   Year: 2025
+   File: Jax - Victoria’s Secret.mp3
+
+6. Kenya Grace - Strangers
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #76
+   Year: 2025
+   File: Kenya Grace - Strangers.mp3
+
+7. Knox - Not the 1975
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #75
+   Year: 2025
+   File: Knox - Not the 1975.mp3
+
+8. LF System - Afraid to Feel
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #64
+   Year: 2025
+   File: LF System - Afraid to Feel.mp3
+
+9. Madeline The Person - MEAN! (feat. Noah Kahan) (Remix)
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #66
+   Year: 2025
+   File: Madeline The Person - MEAN! (feat. Noah Kahan) (Remix).mp3
+
+10. Maisie Peters - Lost the Breakup
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #73
+   Year: 2025
+   File: Maisie Peters - Lost the Breakup.mp3
+
+11. Marina - Man's World
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #72
+   Year: 2025
+   File: Marina - Man's World.mp3
+
+12. Nathan Dawe - 21 Reasons (feat. Ella Henderson)
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #63
+   Year: 2025
+   File: Nathan Dawe - 21 Reasons (feat. Ella Henderson).mp3
+
+13. Oliver Tree - Miss You
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #69
+   Year: 2025
+   File: Oliver Tree - Miss You.mp3
+
+14. Pink Sweat$ - At My Worst (feat. Kehlani)
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #71
+   Year: 2025
+   File: Pink Sweat$ - At My Worst (feat. Kehlani).mp3
+
+15. illenium - All That Really Matters
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #68
+   Year: 2025
+   File: illenium - All That Really Matters.mp3
+
+
+
+📀 ALBUM: Pophits 00-24 Vol6
+--------------------------------------------------------------------------------
+Total Songs: 16
+
+1. Alanis Morissette - Hands Clean
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #91
+   Year: 2025
+   File: Alanis Morissette - Hands Clean.mp3
+
+2. Alec Benjamin - Ways To Go (feat. Khalid)
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #84
+   Year: 2025
+   File: Alec Benjamin - Ways To Go (feat. Khalid).mp3
+
+3. Alex Warren - Before You Leave Me
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #81
+   Year: 2025
+   File: Alex Warren - Before You Leave Me.mp3
+
+4. Bebe Rexha - Chase It (Mmm Da Da Da)
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #85
+   Year: 2025
+   File: Bebe Rexha - Chase It (Mmm Da Da Da).mp3
+
+5. Cassie - Me & U
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #88
+   Year: 2025
+   File: Cassie - Me & U.mp3
+
+6. Dasha - Austin
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #82
+   Year: 2025
+   File: Dasha - Austin.mp3
+
+7. Kevin Lyttle - Turn Me On
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #92
+   Year: 2025
+   File: Kevin Lyttle - Turn Me On.mp3
+
+8. Max - STUPID IN LOVE (feat. HUH YUHNJIN)
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #80
+   Year: 2025
+   File: Max - STUPID IN LOVE (feat. HUH YUHNJIN).mp3
+
+9. Michael Marcagi - Scared to Start
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #78
+   Year: 2025
+   File: Michael Marcagi - Scared to Start.mp3
+
+10. Michelle Branch - Everywhere
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #90
+   Year: 2025
+   File: Michelle Branch - Everywhere.mp3
+
+11. Regina Spektor - Samson
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #89
+   Year: 2025
+   File: Regina Spektor - Samson.mp3
+
+12. Ryan Cabrera - True
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #93
+   Year: 2025
+   File: Ryan Cabrera - True.mp3
+
+13. RÜFÜS DU SOL - Levitating
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #86
+   Year: 2025
+   File: RÜFÜS DU SOL - Levitating.mp3
+
+14. Sia - Dance Alone
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #79
+   Year: 2025
+   File: Sia - Dance Alone.mp3
+
+15. The Blessed Madonna - Happier (feat. Clementine Douglas)
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #83
+   Year: 2025
+   File: The Blessed Madonna - Happier (feat. Clementine Douglas).mp3
+
+16. The Corrs - Breathless
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #87
+   Year: 2025
+   File: The Corrs - Breathless.mp3
+
+
+
+📀 ALBUM: Pophits 00-24 Vol7
+--------------------------------------------------------------------------------
+Total Songs: 8
+
+1. Cobra Starship - Good Girls Go Bad
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #98
+   Year: 2025
+   File: Cobra Starship - Good Girls Go Bad.mp3
+
+2. David Guetta - I’m Good (Blue)
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #3
+   Year: 2025
+   File: David Guetta - I’m Good (Blue).mp3
+
+3. Dua Lipa - Dance The Night (From Barbie The Album)
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #2
+   Year: 2025
+   File: Dua Lipa - Dance The Night (From Barbie The Album).mp3
+
+4. Hard-Fi - Hard to Beat
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #97
+   Year: 2025
+   File: Hard-Fi - Hard to Beat.mp3
+
+5. Iyaz - Replay
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #94
+   Year: 2025
+   File: Iyaz - Replay.mp3
+
+6. Jaheim - Put That Woman First
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #96
+   Year: 2025
+   File: Jaheim - Put That Woman First.mp3
+
+7. Rupee - Tempted to Touch
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #99
+   Year: 2025
+   File: Rupee - Tempted to Touch.mp3
+
+8. The Veronicas - Untouched
+   (Album tag: Pop Hits 2000 - 2024 - 100 Best Songs)
+   Track #95
+   Year: 2025
+   File: The Veronicas - Untouched.mp3
+
+
+
+📀 ALBUM: Queen - The Ultimate Best Of
+--------------------------------------------------------------------------------
+Total Songs: 15
+
+1. Queen - A Kind Of Magic
+   (Album tag: The Ultimate Best Of Queen)
+   Track #1
+   Year: 2011
+   File: Queen - A Kind Of Magic.mp3
+
+2. Queen - Another One Bites The Dust
+   (Album tag: The Ultimate Best Of Queen)
+   Track #3
+   Year: 2011
+   File: Queen - Another One Bites The Dust.mp3
+
+3. Queen - Bicycle Race
+   (Album tag: The Ultimate Best Of Queen)
+   Track #9
+   Year: 2011
+   File: Queen - Bicycle Race.mp3
+
+4. Queen - Bohemian Rhapsody
+   (Album tag: The Ultimate Best Of Queen)
+   Track #2
+   Year: 2011
+   File: Queen - Bohemian Rhapsody.mp3
+
+5. Queen - Don't Stop Me Now
+   (Album tag: The Ultimate Best Of Queen)
+   Track #12
+   Year: 2011
+   File: Queen - Don't Stop Me Now.mp3
+
+6. Queen - Fat Bottomed Girls
+   (Album tag: The Ultimate Best Of Queen)
+   Track #7
+   Year: 2011
+   File: Queen - Fat Bottomed Girls.mp3
+
+7. Queen - I Want It All
+   (Album tag: The Ultimate Best Of Queen)
+   Track #8
+   Year: 2011
+   File: Queen - I Want It All.mp3
+
+8. Queen - I Want To Break Free
+   (Album tag: The Ultimate Best Of Queen)
+   Track #10
+   Year: 2011
+   File: Queen - I Want To Break Free.mp3
+
+9. Queen - Killer Queen
+   (Album tag: The Ultimate Best Of Queen)
+   Track #5
+   Year: 2011
+   File: Queen - Killer Queen.mp3
+
+10. Queen - Radio Ga Ga
+   (Album tag: The Ultimate Best Of Queen)
+   Track #6
+   Year: 2011
+   File: Queen - Radio Ga Ga.mp3
+
+11. Queen - Somebody To Love
+   (Album tag: The Ultimate Best Of Queen)
+   Track #14
+   Year: 2011
+   File: Queen - Somebody To Love.mp3
+
+12. Queen - The Invisible Man
+   (Album tag: The Ultimate Best Of Queen)
+   Track #15
+   Year: 2011
+   File: Queen - The Invisible Man.mp3
+
+13. Queen - Under Pressure
+   (Album tag: The Ultimate Best Of Queen)
+   Track #4
+   Year: 2011
+   File: Queen - Under Pressure.mp3
+
+14. Queen - We Will Rock You
+   (Album tag: The Ultimate Best Of Queen)
+   Track #13
+   Year: 2011
+   File: Queen - We Will Rock You.mp3
+
+15. Queen - You're My Best Friend
+   (Album tag: The Ultimate Best Of Queen)
+   Track #11
+   Year: 2011
+   File: Queen - You're My Best Friend.mp3
+
+
+
+📀 ALBUM: R.E.M. - In Time
+--------------------------------------------------------------------------------
+Total Songs: 11
+
+1. R.E.M. - All The Way To Reno
+   (Album tag: In Time-The Best Of REM 1988-2)
+   Track #4
+   Year: 2003
+   File: R.E.M. - All The Way To Reno.mp3
+
+2. R.E.M. - Animal
+   (Album tag: In Time-The Best Of REM 1988-2)
+   Track #8
+   Year: 2003
+   File: R.E.M. - Animal.mp3
+
+3. R.E.M. - Bad Day
+   (Album tag: In Time-The Best Of REM 1988-2)
+   Track #2
+   Year: 2003
+   File: R.E.M. - Bad Day.mp3
+
+4. R.E.M. - Daysleeper
+   (Album tag: In Time-The Best Of REM 1988-2)
+   Track #7
+   Year: 2003
+   File: R.E.M. - Daysleeper.mp3
+
+5. R.E.M. - E-Bow The Letter
+   (Album tag: In Time-The Best Of REM 1988-2)
+   Track #6
+   Year: 2003
+   File: R.E.M. - E-Bow The Letter.mp3
+
+6. R.E.M. - Everybody Hurts
+   (Album tag: In Time-The Best Of REM 1988-2)
+   Track #10
+   Year: 2003
+   File: R.E.M. - Everybody Hurts.mp3
+
+7. R.E.M. - Losing My Religion
+   (Album tag: In Time-The Best Of REM 1988-2)
+   Track #5
+   Year: 2003
+   File: R.E.M. - Losing My Religion.mp3
+
+8. R.E.M. - Man On The Moon
+   (Album tag: In Time-The Best Of REM 1988-2)
+   Track #1
+   Year: 2003
+   File: R.E.M. - Man On The Moon.mp3
+
+9. R.E.M. - Nightswimming
+   (Album tag: In Time-The Best Of REM 1988-2)
+   Track #11
+   Year: 2003
+   File: R.E.M. - Nightswimming.mp3
+
+10. R.E.M. - The Sidewinder Sleeps Tonite
+   (Album tag: In Time-The Best Of REM 1988-2)
+   Track #9
+   Year: 2003
+   File: R.E.M. - The Sidewinder Sleeps Tonite.mp3
+
+11. R.E.M. - What's The Frequency, Kenneth?
+   (Album tag: In Time-The Best Of REM 1988-2)
+   Track #3
+   Year: 2003
+   File: R.E.M. - What's The Frequency, Kenneth.mp3
+
+
+
+📀 ALBUM: Radiohead - The Best Of
+--------------------------------------------------------------------------------
+Total Songs: 12
+
+1. Radiohead - Creep
+   (Album tag: The Best Of)
+   Track #4
+   Year: 2008
+   File: Radiohead - Creep.mp3
+
+2. Radiohead - High And Dry
+   (Album tag: The Best Of)
+   Track #6
+   Year: 2008
+   File: Radiohead - High And Dry.mp3
+
+3. Radiohead - Idioteque
+   (Album tag: The Best Of)
+   Track #9
+   Year: 2008
+   File: Radiohead - Idioteque.mp3
+
+4. Radiohead - Just
+   (Album tag: The Best Of)
+   Track #1
+   Year: 2008
+   File: Radiohead - Just.mp3
+
+5. Radiohead - Karma Police
+   (Album tag: The Best Of)
+   Track #3
+   Year: 2008
+   File: Radiohead - Karma Police.mp3
+
+6. Radiohead - Lucky
+   (Album tag: The Best Of)
+   Track #8
+   Year: 2008
+   File: Radiohead - Lucky.mp3
+
+7. Radiohead - My Iron Lung
+   (Album tag: The Best Of)
+   Track #7
+   Year: 2008
+   File: Radiohead - My Iron Lung.mp3
+
+8. Radiohead - No Surprises
+   (Album tag: The Best Of)
+   Track #5
+   Year: 2008
+   File: Radiohead - No Surprises.mp3
+
+9. Radiohead - Paranoid Android
+   (Album tag: The Best Of)
+   Track #2
+   Year: 2008
+   File: Radiohead - Paranoid Android.mp3
+
+10. Radiohead - Pyramid Song
+   (Album tag: The Best Of)
+   Track #11
+   Year: 2008
+   File: Radiohead - Pyramid Song.mp3
+
+11. Radiohead - Street Spirit (Fade Out)
+   (Album tag: The Best Of)
+   Track #12
+   Year: 2008
+   File: Radiohead - Street Spirit (Fade Out).mp3
+
+12. Radiohead - The Bends
+   (Album tag: The Best Of)
+   Track #10
+   Year: 2008
+   File: Radiohead - The Bends.mp3
+
+
+
+📀 ALBUM: Rolling Stones - Best Of
+--------------------------------------------------------------------------------
+Total Songs: 11
+
+1. Rolling Stones - Brown Sugar
+   (Album tag: Best Of)
+   Track #11
+   Year: 1998
+   File: Rolling Stones - Brown Sugar.mp3
+
+2. Rolling Stones - Get Off Of My Cloud
+   (Album tag: Best Of)
+   Track #5
+   Year: 1998
+   File: Rolling Stones - Get Off Of My Cloud.mp3
+
+3. Rolling Stones - Heart Of Stone
+   (Album tag: Best Of)
+   Track #4
+   Year: 1998
+   File: Rolling Stones - Heart Of Stone.mp3
+
+4. Rolling Stones - Honky Tonk Woman
+   (Album tag: Best Of)
+   Track #7
+   Year: 1998
+   File: Rolling Stones - Honky Tonk Woman.mp3
+
+5. Rolling Stones - I Can't Get No - Satisfaction
+   (Album tag: Best Of)
+   Track #1
+   Year: 1998
+   File: Rolling Stones - I Can't Get No - Satisfaction.mp3
+
+6. Rolling Stones - Jumpin' Jack Flash
+   (Album tag: Best Of)
+   Track #8
+   Year: 1998
+   File: Rolling Stones - Jumpin' Jack Flash.mp3
+
+7. Rolling Stones - Mother's Little Helper
+   (Album tag: Best Of)
+   Track #3
+   Year: 1998
+   File: Rolling Stones - Mother's Little Helper.mp3
+
+8. Rolling Stones - Paint It Black
+   (Album tag: Best Of)
+   Track #2
+   Year: 1998
+   File: Rolling Stones - Paint It Black.mp3
+
+9. Rolling Stones - Under My Thumb
+   (Album tag: Best Of)
+   Track #6
+   Year: 1998
+   File: Rolling Stones - Under My Thumb.mp3
+
+10. Rolling Stones - Wild Horses
+   (Album tag: Best Of)
+   Track #9
+   Year: 1998
+   File: Rolling Stones - Wild Horses.mp3
+
+11. Rolling Stones - You Can't Always Get What You Want
+   (Album tag: Best Of)
+   Track #10
+   Year: 1998
+   File: Rolling Stones - You Can't Always Get What You Want.mp3
+
+
+
+📀 ALBUM: Shaggy - The Boombastic Collection Best Of Shaggy (2008) {FLAC} vtwin88cube
+--------------------------------------------------------------------------------
+Total Songs: 18
+
+1. Unknown Artist - Shaggy - Angel
+   File: Shaggy - Angel.flac
+
+2. Unknown Artist - Shaggy - Boombastic
+   File: Shaggy - Boombastic.flac
+
+3. Unknown Artist - Shaggy - Church Heathen
+   File: Shaggy - Church Heathen.flac
+
+4. Unknown Artist - Shaggy - Don't Ask Her That
+   File: Shaggy - Don't Ask Her That.flac
+
+5. Unknown Artist - Shaggy - Feel The Rush
+   File: Shaggy - Feel The Rush.flac
+
+6. Unknown Artist - Shaggy - Gone With Angels
+   File: Shaggy - Gone With Angels.flac
+
+7. Unknown Artist - Shaggy - Hey Sexy Lady
+   File: Shaggy - Hey Sexy Lady.flac
+
+8. Unknown Artist - Shaggy - Hope
+   File: Shaggy - Hope.flac
+
+9. Unknown Artist - Shaggy - In The Summertime
+   File: Shaggy - In The Summertime.flac
+
+10. Unknown Artist - Shaggy - It Wasn't Me
+   File: Shaggy - It Wasn't Me.flac
+
+11. Unknown Artist - Shaggy - Leave It To Me
+   File: Shaggy - Leave It To Me.flac
+
+12. Unknown Artist - Shaggy - Luv Me, Luv Me
+   File: Shaggy - Luv Me, Luv Me.flac
+
+13. Unknown Artist - Shaggy - Oh Carolina
+   File: Shaggy - Oh Carolina.flac
+
+14. Unknown Artist - Shaggy - Ready Fi Di Ride
+   File: Shaggy - Ready Fi Di Ride.flac
+
+15. Unknown Artist - Shaggy - Strength Of A Woman
+   File: Shaggy - Strength Of A Woman.flac
+
+16. Unknown Artist - Shaggy - Those Days
+   File: Shaggy - Those Days.flac
+
+17. Unknown Artist - Shaggy - Wild 2Nite
+   File: Shaggy - Wild 2Nite.flac
+
+18. Unknown Artist - Shaggy - Would You Be
+   File: Shaggy - Would You Be.flac
+
+
+
+📀 ALBUM: Snoop Dogg - The Best Of
+--------------------------------------------------------------------------------
+Total Songs: 10
+
+1. Snoop Dogg - Beautiful
+   (Album tag: The Best Of Snoop Dogg)
+   Track #1
+   Year: 2005
+   File: Snoop Dogg - Beautiful.mp3
+
+2. Snoop Dogg - Bitch Please
+   (Album tag: The Best Of Snoop Dogg)
+   Track #5
+   Year: 2005
+   File: Snoop Dogg - Bitch Please.mp3
+
+3. Snoop Dogg - Gin & Juice II
+   (Album tag: The Best Of Snoop Dogg)
+   Track #9
+   Year: 2005
+   File: Snoop Dogg - Gin & Juice II.mp3
+
+4. Snoop Dogg - Lay Low
+   (Album tag: The Best Of Snoop Dogg)
+   Track #4
+   Year: 2005
+   File: Snoop Dogg - Lay Low.mp3
+
+5. Snoop Dogg - Loosen' Control
+   (Album tag: The Best Of Snoop Dogg)
+   Track #8
+   Year: 2005
+   File: Snoop Dogg - Loosen' Control.mp3
+
+6. Snoop Dogg - Ride On/Caught Up!
+   (Album tag: The Best Of Snoop Dogg)
+   Track #10
+   Year: 2005
+   File: Snoop Dogg - Ride OnCaught Up!.mp3
+
+7. Snoop Dogg - Snoop Dogg (What's My Name, Part 2)
+   (Album tag: The Best Of Snoop Dogg)
+   Track #2
+   Year: 2005
+   File: Snoop Dogg - Snoop Dogg (What's My Name, Part 2).mp3
+
+8. Snoop Dogg - Snoopafella
+   (Album tag: The Best Of Snoop Dogg)
+   Track #7
+   Year: 2005
+   File: Snoop Dogg - Snoopafella.mp3
+
+9. Snoop Dogg - Still A G Thang
+   (Album tag: The Best Of Snoop Dogg)
+   Track #6
+   Year: 2005
+   File: Snoop Dogg - Still A G Thang.mp3
+
+10. Snoop Dogg - Woof!
+   (Album tag: The Best Of Snoop Dogg)
+   Track #3
+   Year: 2005
+   File: Snoop Dogg - Woof!.mp3
+
+
+
+📀 ALBUM: Sting & The Police - The Very Best Of
+--------------------------------------------------------------------------------
+Total Songs: 11
+
+1. Sting - Englishman In New York
+   (Album tag: The Very Best Of Sting & The Police)
+   Track #3
+   Year: 2002
+   File: Sting - Englishman In New York.mp3
+
+2. Sting - Fields Of Gold
+   (Album tag: The Very Best Of Sting & The Police)
+   Track #6
+   Year: 2002
+   File: Sting - Fields Of Gold.mp3
+
+3. The Police - Can't Stand Losing You
+   (Album tag: The Very Best Of Sting & The Police)
+   Track #2
+   Year: 2002
+   File: The Police - Can't Stand Losing You.mp3
+
+4. The Police - De Do Do Do, De Da Da Da
+   (Album tag: The Very Best Of Sting & The Police)
+   Track #8
+   Year: 2002
+   File: The Police - De Do Do Do, De Da Da Da.mp3
+
+5. The Police - Don't Stand So Close To Me
+   (Album tag: The Very Best Of Sting & The Police)
+   Track #9
+   Year: 2002
+   File: The Police - Don't Stand So Close To Me.mp3
+
+6. The Police - Every Breath You Take
+   (Album tag: The Very Best Of Sting & The Police)
+   Track #4
+   Year: 2002
+   File: The Police - Every Breath You Take.mp3
+
+7. The Police - Every Little Thing She Does Is Magic
+   (Album tag: The Very Best Of Sting & The Police)
+   Track #7
+   Year: 2002
+   File: The Police - Every Little Thing She Does Is Magic.mp3
+
+8. The Police - Message In A Bottle
+   (Album tag: The Very Best Of Sting & The Police)
+   Track #1
+   Year: 2002
+   File: The Police - Message In A Bottle.mp3
+
+9. The Police - Roxanne
+   (Album tag: The Very Best Of Sting & The Police)
+   Track #10
+   Year: 2002
+   File: The Police - Roxanne.mp3
+
+10. The Police - So Lonely
+   (Album tag: The Very Best Of Sting & The Police)
+   Track #11
+   Year: 2002
+   File: The Police - So Lonely.mp3
+
+11. The Police - Walking On The Moon
+   (Album tag: The Very Best Of Sting & The Police)
+   Track #5
+   Year: 2002
+   File: The Police - Walking On The Moon.mp3
+
+
+
+📀 ALBUM: The Smiths - Sound Of The  Smiths
+--------------------------------------------------------------------------------
+Total Songs: 12
+
+1. The Smiths - Barbarism Begins At Home (7" Version)
+   (Album tag: The Sound Of The Smiths (The Very Best Of))
+   Track #10
+   Year: 2008
+   File: The Smiths - Barbarism Begins At Home (7 Version).mp3
+
+2. The Smiths - Hand In Glove
+   (Album tag: The Sound Of The Smiths (The Very Best Of))
+   Track #1
+   Year: 2008
+   File: The Smiths - Hand In Glove.mp3
+
+3. The Smiths - Heaven Knows I'm Miserable Now
+   (Album tag: The Sound Of The Smiths (The Very Best Of))
+   Track #5
+   Year: 2008
+   File: The Smiths - Heaven Knows I'm Miserable Now.mp3
+
+4. The Smiths - How Soon Is Now (12" Version)
+   (Album tag: The Sound Of The Smiths (The Very Best Of))
+   Track #7
+   Year: 2008
+   File: The Smiths - How Soon Is Now (12 Version).mp3
+
+5. The Smiths - Nowhere Fast
+   (Album tag: The Sound Of The Smiths (The Very Best Of))
+   Track #8
+   Year: 2008
+   File: The Smiths - Nowhere Fast.mp3
+
+6. The Smiths - Shakespeare's Sister
+   (Album tag: The Sound Of The Smiths (The Very Best Of))
+   Track #9
+   Year: 2008
+   File: The Smiths - Shakespeare's Sister.mp3
+
+7. The Smiths - Still Ill
+   (Album tag: The Sound Of The Smiths (The Very Best Of))
+   Track #4
+   Year: 2008
+   File: The Smiths - Still Ill.mp3
+
+8. The Smiths - That Joke Isn't Funny Anymore
+   (Album tag: The Sound Of The Smiths (The Very Best Of))
+   Track #11
+   Year: 2008
+   File: The Smiths - That Joke Isn't Funny Anymore.mp3
+
+9. The Smiths - The Headmaster Ritual
+   (Album tag: The Sound Of The Smiths (The Very Best Of))
+   Track #12
+   Year: 2008
+   File: The Smiths - The Headmaster Ritual.mp3
+
+10. The Smiths - This Charming Man
+   (Album tag: The Sound Of The Smiths (The Very Best Of))
+   Track #2
+   Year: 2008
+   File: The Smiths - This Charming Man.mp3
+
+11. The Smiths - What Difference Does It Make (Peel Session Version)
+   (Album tag: The Sound Of The Smiths (The Very Best Of))
+   Track #3
+   Year: 2008
+   File: The Smiths - What Difference Does It Make (Peel Session Version).mp3
+
+12. The Smiths - William It Was Really Nothing
+   (Album tag: The Sound Of The Smiths (The Very Best Of))
+   Track #6
+   Year: 2008
+   File: The Smiths - William It Was Really Nothing.mp3
+
+
+
+================================================================================
+SUMMARY
+================================================================================
+Total Albums: 39
+Total Songs: 540

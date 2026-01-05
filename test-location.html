@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Location Test - Jukebox</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <style>
+        .test-container {
+            max-width: 600px;
+            margin: 50px auto;
+            padding: 20px;
+            text-align: center;
+        }
+        
+        .test-section {
+            background: rgba(233, 69, 96, 0.1);
+            border: 2px solid var(--primary);
+            border-radius: 15px;
+            padding: 20px;
+            margin: 20px 0;
+        }
+        
+        .test-results {
+            background: rgba(0, 0, 0, 0.3);
+            border-radius: 10px;
+            padding: 15px;
+            margin: 15px 0;
+            text-align: left;
+            font-family: 'Space Mono', monospace;
+            font-size: 0.9rem;
+        }
+        
+        .success { border-left: 4px solid var(--success); }
+        .error { border-left: 4px solid var(--danger); }
+        .info { border-left: 4px solid var(--accent); }
+    </style>
+</head>
+<body>
+    <div class="test-container">
+        <div class="retro-header">
+            <h1><i class="fas fa-map-marker-alt"></i> LOCATION TEST</h1>
+            <p class="subtitle">Test location verification functionality</p>
+        </div>
+        
+        <div class="test-section">
+            <h3><i class="fas fa-cog"></i> Current Configuration</h3>
+            <div id="configInfo" class="test-results info">
+                Loading configuration...
+            </div>
+        </div>
+        
+        <div class="test-section">
+            <h3><i class="fas fa-crosshairs"></i> Test Location</h3>
+            <button id="testLocationBtn" class="retro-btn">
+                <i class="fas fa-location-arrow"></i> Test My Location
+            </button>
+            <div id="testResults" class="test-results hidden">
+                <!-- Test results will appear here -->
+            </div>
+        </div>
+        
+        <div class="test-section">
+            <h3><i class="fas fa-tools"></i> Tools</h3>
+            <button id="clearConfigBtn" class="retro-btn-secondary">
+                <i class="fas fa-trash"></i> Clear Configuration
+            </button>
+            <button id="setTestConfigBtn" class="retro-btn-secondary">
+                <i class="fas fa-cog"></i> Set Test Configuration
+            </button>
+        </div>
+        
+        <div style="margin-top: 30px;">
+            <a href="index.html" class="retro-btn">
+                <i class="fas fa-arrow-left"></i> Back to Main App
+            </a>
+        </div>
+    </div>
+
+    <script>
+        class LocationTest {
+            constructor() {
+                this.setupEventListeners();
+                this.loadConfiguration();
+            }
+            
+            setupEventListeners() {
+                document.getElementById('testLocationBtn').addEventListener('click', () => this.testLocation());
+                document.getElementById('clearConfigBtn').addEventListener('click', () => this.clearConfiguration());
+                document.getElementById('setTestConfigBtn').addEventListener('click', () => this.setTestConfiguration());
+            }
+            
+            loadConfiguration() {
+                const savedConfig = localStorage.getItem('jukeboxLocationConfig');
+                let config = {
+                    venueName: "8-Bit Bar",
+                    address: "Queensland, Australia",
+                    latitude: -25.2842214,
+                    longitude: 152.8552310,
+                    allowedDistance: 50
+                };
+                
+                if (savedConfig) {
+                    const parsedConfig = JSON.parse(savedConfig);
+                    config = { ...config, ...parsedConfig };
+                }
+                
+                const configDiv = document.getElementById('configInfo');
+                configDiv.innerHTML = `
+                    <strong>Venue Name:</strong> ${config.venueName}<br>
+                    <strong>Address:</strong> ${config.address}<br>
+                    <strong>Latitude:</strong> ${config.latitude}<br>
+                    <strong>Longitude:</strong> ${config.longitude}<br>
+                    <strong>Allowed Distance:</strong> ${config.allowedDistance}m
+                `;
+            }
+            
+            async testLocation() {
+                const resultsDiv = document.getElementById('testResults');
+                resultsDiv.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Getting location...';
+                resultsDiv.classList.remove('hidden');
+                
+                if (!navigator.geolocation) {
+                    resultsDiv.innerHTML = '<div class="error">❌ Geolocation is not supported by this browser.</div>';
+                    return;
+                }
+                
+                const options = {
+                    enableHighAccuracy: true,
+                    timeout: 10000,
+                    maximumAge: 0
+                };
+                
+                navigator.geolocation.getCurrentPosition(
+                    (position) => this.handleLocationSuccess(position),
+                    (error) => this.handleLocationError(error),
+                    options
+                );
+            }
+            
+            handleLocationSuccess(position) {
+                const userLat = position.coords.latitude;
+                const userLon = position.coords.longitude;
+                const accuracy = position.coords.accuracy;
+                
+                // Load config
+                const savedConfig = localStorage.getItem('jukeboxLocationConfig');
+                let config = {
+                    latitude: -25.2842214,
+                    longitude: 152.8552310,
+                    allowedDistance: 50,
+                    venueName: "8-Bit Bar"
+                };
+                
+                if (savedConfig) {
+                    const parsedConfig = JSON.parse(savedConfig);
+                    config = { ...config, ...parsedConfig };
+                }
+                
+                const distance = this.calculateDistance(config.latitude, config.longitude, userLat, userLon);
+                const isAllowed = distance <= config.allowedDistance;
+                
+                const resultsDiv = document.getElementById('testResults');
+                    resultsDiv.innerHTML = `
+                        <div class="${isAllowed ? 'success' : 'error'}">
+                            <h4>${isAllowed ? '✅ LOCATION ALLOWED' : '❌ LOCATION DENIED'}</h4>
+                            ${isAllowed ? 
+                                `<p><strong>📍 Welcome to ${config.venueName}!</strong><br>Location verified successfully.</p>` :
+                                `<p><strong>📍 You need to be at ${config.venueName} to use this jukebox.</strong><br>Please visit the bar to access the music.</p>`
+                            }
+                            
+                            <details style="margin-top: 15px;">
+                                <summary style="cursor: pointer; color: var(--accent);">Technical Details (Click to expand)</summary>
+                                <div style="margin-top: 10px; font-size: 0.9rem;">
+                                    <strong>Your Location:</strong><br>
+                                    • Latitude: ${userLat.toFixed(6)}<br>
+                                    • Longitude: ${userLon.toFixed(6)}<br>
+                                    • Accuracy: ${Math.round(accuracy)}m<br><br>
+                                    
+                                    <strong>Distance from Venue:</strong><br>
+                                    • Distance: ${Math.round(distance)}m<br>
+                                    • Allowed: ${config.allowedDistance}m<br>
+                                    • Status: ${isAllowed ? 'Within range' : 'Outside range'}<br><br>
+                                    
+                                    <strong>Google Maps:</strong><br>
+                                    <a href="https://www.google.com/maps?q=${userLat},${userLon}" target="_blank" style="color: var(--accent);">
+                                        View on Google Maps
+                                    </a>
+                                </div>
+                            </details>
+                        </div>
+                    `;
+            }
+            
+            handleLocationError(error) {
+                const resultsDiv = document.getElementById('testResults');
+                let message = '❌ Location Error: ';
+                
+                switch(error.code) {
+                    case error.PERMISSION_DENIED:
+                        message += 'Permission denied. Please allow location access.';
+                        break;
+                    case error.POSITION_UNAVAILABLE:
+                        message += 'Position unavailable. Check GPS settings.';
+                        break;
+                    case error.TIMEOUT:
+                        message += 'Request timed out. Please try again.';
+                        break;
+                    default:
+                        message += 'Unknown error occurred.';
+                        break;
+                }
+                
+                resultsDiv.innerHTML = `<div class="error">${message}</div>`;
+            }
+            
+            calculateDistance(lat1, lon1, lat2, lon2) {
+                const R = 6371e3; // Earth's radius in meters
+                const φ1 = lat1 * Math.PI / 180;
+                const φ2 = lat2 * Math.PI / 180;
+                const Δφ = (lat2 - lat1) * Math.PI / 180;
+                const Δλ = (lon2 - lon1) * Math.PI / 180;
+
+                const a = Math.sin(Δφ/2) * Math.sin(Δφ/2) +
+                          Math.cos(φ1) * Math.cos(φ2) *
+                          Math.sin(Δλ/2) * Math.sin(Δλ/2);
+                const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+
+                return R * c;
+            }
+            
+            clearConfiguration() {
+                localStorage.removeItem('jukeboxLocationConfig');
+                this.loadConfiguration();
+                alert('Configuration cleared! Using default values.');
+            }
+            
+            setTestConfiguration() {
+                const testConfig = {
+                    venueName: "Test Venue",
+                    address: "Test Address, Test City, Test Country",
+                    latitude: -25.2842214,
+                    longitude: 152.8552310,
+                    allowedDistance: 100
+                };
+                
+                localStorage.setItem('jukeboxLocationConfig', JSON.stringify(testConfig));
+                this.loadConfiguration();
+                alert('Test configuration set!');
+            }
+        }
+        
+        // Initialize when page loads
+        document.addEventListener('DOMContentLoaded', () => {
+            new LocationTest();
+        });
+    </script>
+</body>
+</html>

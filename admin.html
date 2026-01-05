@@ -1,0 +1,492 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jukebox Admin - Location Configuration</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <style>
+        .admin-container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        .config-section {
+            background: rgba(233, 69, 96, 0.1);
+            border: 2px solid var(--primary);
+            border-radius: 15px;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        
+        .config-section h3 {
+            color: var(--primary);
+            margin-bottom: 15px;
+            font-size: 1.3rem;
+        }
+        
+        .form-group {
+            margin-bottom: 15px;
+        }
+        
+        .form-group label {
+            display: block;
+            color: var(--light);
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+        
+        .form-group input {
+            width: 100%;
+            padding: 10px;
+            border: 2px solid var(--primary);
+            border-radius: 8px;
+            background: rgba(0, 0, 0, 0.3);
+            color: var(--light);
+            font-family: 'Space Mono', monospace;
+        }
+        
+        .form-group input:focus {
+            outline: none;
+            border-color: var(--accent);
+            box-shadow: 0 0 10px rgba(0, 212, 255, 0.3);
+        }
+        
+        .help-text {
+            color: var(--gray);
+            font-size: 0.9rem;
+            margin-top: 5px;
+        }
+        
+        .current-location {
+            background: rgba(0, 212, 255, 0.1);
+            border: 2px solid var(--accent);
+            border-radius: 10px;
+            padding: 15px;
+            margin: 15px 0;
+        }
+        
+        .current-location h4 {
+            color: var(--accent);
+            margin-bottom: 10px;
+        }
+        
+        .current-location p {
+            color: var(--light);
+            margin: 5px 0;
+        }
+        
+        .test-location {
+            background: rgba(245, 166, 35, 0.1);
+            border: 2px solid var(--secondary);
+            border-radius: 10px;
+            padding: 15px;
+            margin: 15px 0;
+        }
+        
+        .test-location h4 {
+            color: var(--secondary);
+            margin-bottom: 10px;
+        }
+        
+        .test-results {
+            margin-top: 10px;
+            padding: 10px;
+            border-radius: 8px;
+            background: rgba(0, 0, 0, 0.3);
+        }
+        
+        .success {
+            color: var(--success);
+            border: 1px solid var(--success);
+        }
+        
+        .error {
+            color: var(--danger);
+            border: 1px solid var(--danger);
+        }
+    </style>
+</head>
+<body>
+    <div class="admin-container">
+        <div class="retro-header">
+            <h1><i class="fas fa-cog"></i> JUKEBOX ADMIN</h1>
+            <p class="subtitle">Location Configuration</p>
+        </div>
+        
+        <!-- Current Location Display -->
+        <div class="current-location">
+            <h4><i class="fas fa-map-marker-alt"></i> Current Location Settings</h4>
+            <p><strong>Venue Name:</strong> <span id="currentVenueName">8-Bit Bar</span></p>
+            <p><strong>Address:</strong> <span id="currentAddress">Queensland, Australia</span></p>
+            <p><strong>Latitude:</strong> <span id="currentLatitude">-25.2842214</span></p>
+            <p><strong>Longitude:</strong> <span id="currentLongitude">152.8552310</span></p>
+            <p><strong>Allowed Distance:</strong> <span id="currentDistance">50 meters</span></p>
+        </div>
+        
+        <!-- Albums Folder Configuration -->
+        <div class="config-section">
+            <h3><i class="fas fa-folder"></i> Albums Folder Configuration</h3>
+            <form id="albumsConfigForm">
+                <div class="form-group">
+                    <label for="albumsFolderPath">Albums Folder Path:</label>
+                    <input type="text" id="albumsFolderPath" placeholder="C:\Music\Albums" required>
+                    <div class="help-text">Path to the folder containing album folders. Each album folder should contain cover.jpg or cover.png</div>
+                </div>
+                
+                <div class="form-group">
+                    <label for="coverFileName">Cover File Name:</label>
+                    <input type="text" id="coverFileName" value="cover" required>
+                    <div class="help-text">Name of the cover image file (without extension). Will look for cover.jpg, cover.png, etc.</div>
+                </div>
+                
+                <button type="submit" class="retro-btn">
+                    <i class="fas fa-save"></i> Save Albums Configuration
+                </button>
+            </form>
+        </div>
+        
+        <!-- User Settings Configuration -->
+        <div class="config-section">
+            <h3><i class="fas fa-users"></i> User Settings Configuration</h3>
+            <form id="userConfigForm">
+                <div class="form-group">
+                    <label for="songCooldown">Song Addition Cooldown (seconds):</label>
+                    <input type="number" id="songCooldown" value="3" min="1" max="60" required>
+                    <div class="help-text">How long users must wait between adding songs (in seconds)</div>
+                </div>
+                
+                <button type="submit" class="retro-btn">
+                    <i class="fas fa-save"></i> Save User Settings
+                </button>
+            </form>
+        </div>
+        
+        <!-- Location Configuration -->
+        <div class="config-section">
+            <h3><i class="fas fa-edit"></i> Update Location Settings</h3>
+            <form id="locationConfigForm">
+                <div class="form-group">
+                    <label for="venueName">Venue Name:</label>
+                    <input type="text" id="venueName" value="8-Bit Bar" required>
+                    <div class="help-text">Name of your venue/establishment</div>
+                </div>
+                
+                <div class="form-group">
+                    <label for="venueAddress">Address:</label>
+                    <input type="text" id="venueAddress" value="Queensland, Australia" required>
+                    <div class="help-text">Full address of your venue</div>
+                </div>
+                
+                <div class="form-group">
+                    <label for="latitude">Latitude:</label>
+                    <input type="number" id="latitude" step="any" value="-25.2842214" required>
+                    <div class="help-text">Venue latitude coordinate (e.g., -25.2842214)</div>
+                </div>
+                
+                <div class="form-group">
+                    <label for="longitude">Longitude:</label>
+                    <input type="number" id="longitude" step="any" value="152.8552310" required>
+                    <div class="help-text">Venue longitude coordinate (e.g., 152.8552310)</div>
+                </div>
+                
+                <div class="form-group">
+                    <label for="allowedDistance">Allowed Distance (meters):</label>
+                    <input type="number" id="allowedDistance" value="50" min="1" max="1000" required>
+                    <div class="help-text">Maximum distance from venue in meters (50m = 0.05km)</div>
+                </div>
+                
+                <button type="submit" class="retro-btn">
+                    <i class="fas fa-save"></i> Save Configuration
+                </button>
+            </form>
+        </div>
+        
+        <!-- Test Current Location -->
+        <div class="test-location">
+            <h4><i class="fas fa-crosshairs"></i> Test Your Current Location</h4>
+            <p>Click the button below to test if your current location is within the allowed distance.</p>
+            <button id="testLocationBtn" class="retro-btn">
+                <i class="fas fa-location-arrow"></i> Test My Location
+            </button>
+            <div id="testResults" class="test-results hidden">
+                <!-- Test results will appear here -->
+            </div>
+        </div>
+        
+        <!-- Instructions -->
+        <div class="config-section">
+            <h3><i class="fas fa-info-circle"></i> Instructions</h3>
+            <ol style="color: var(--light); line-height: 1.6;">
+                <li><strong>Get your venue coordinates:</strong> Use Google Maps or similar service to find the exact latitude and longitude of your venue.</li>
+                <li><strong>Set the allowed distance:</strong> This is how close users need to be to access the jukebox (in meters). 50 meters = 0.05km.</li>
+                <li><strong>Test the location:</strong> Use the "Test My Location" button to verify the settings work correctly.</li>
+                <li><strong>Update the main app:</strong> After saving, the main jukebox app will use these new settings.</li>
+            </ol>
+        </div>
+        
+        <!-- Navigation -->
+        <div style="text-align: center; margin-top: 30px;">
+            <a href="index.html" class="retro-btn">
+                <i class="fas fa-arrow-left"></i> Back to Jukebox
+            </a>
+        </div>
+    </div>
+
+    <script>
+        // Admin configuration management
+        class AdminConfig {
+            constructor() {
+                this.config = {
+                    venueName: "8-Bit Bar",
+                    address: "Queensland, Australia",
+                    latitude: -25.2842214,
+                    longitude: 152.8552310,
+                    allowedDistance: 50,
+                    albumsFolderPath: "",
+                    coverFileName: "cover",
+                    songCooldown: 3
+                };
+                
+                this.loadConfig();
+                this.setupEventListeners();
+            }
+            
+            loadConfig() {
+                // Load from localStorage if available
+                const saved = localStorage.getItem('jukeboxLocationConfig');
+                if (saved) {
+                    this.config = { ...this.config, ...JSON.parse(saved) };
+                }
+                
+                // Update form fields
+                document.getElementById('venueName').value = this.config.venueName;
+                document.getElementById('venueAddress').value = this.config.address;
+                document.getElementById('latitude').value = this.config.latitude;
+                document.getElementById('longitude').value = this.config.longitude;
+                document.getElementById('allowedDistance').value = this.config.allowedDistance;
+                document.getElementById('albumsFolderPath').value = this.config.albumsFolderPath || '';
+                document.getElementById('coverFileName').value = this.config.coverFileName || 'cover';
+                document.getElementById('songCooldown').value = this.config.songCooldown || 3;
+                
+                this.updateCurrentLocationDisplay();
+            }
+            
+            saveConfig() {
+                // Get values from form
+                this.config.venueName = document.getElementById('venueName').value;
+                this.config.address = document.getElementById('venueAddress').value;
+                this.config.latitude = parseFloat(document.getElementById('latitude').value);
+                this.config.longitude = parseFloat(document.getElementById('longitude').value);
+                this.config.allowedDistance = parseInt(document.getElementById('allowedDistance').value);
+                
+                // Save to localStorage
+                localStorage.setItem('jukeboxLocationConfig', JSON.stringify(this.config));
+                
+                // Update display
+                this.updateCurrentLocationDisplay();
+                
+                alert('Configuration saved successfully!');
+            }
+            
+            async saveAlbumsConfig() {
+                // Get values from albums form
+                this.config.albumsFolderPath = document.getElementById('albumsFolderPath').value;
+                this.config.coverFileName = document.getElementById('coverFileName').value;
+                
+                // Save to localStorage first
+                localStorage.setItem('jukeboxLocationConfig', JSON.stringify(this.config));
+                
+                // Try to send to server if we're running on HTTP
+                if (window.location.protocol === 'http:' || window.location.protocol === 'https:') {
+                    try {
+                        const response = await fetch('/api/config/albums', {
+                            method: 'POST',
+                            headers: {
+                                'Content-Type': 'application/json',
+                            },
+                            body: JSON.stringify({
+                                albumsFolderPath: this.config.albumsFolderPath,
+                                coverFileName: this.config.coverFileName
+                            })
+                        });
+                        
+                        if (!response.ok) {
+                            throw new Error(`HTTP error! status: ${response.status}`);
+                        }
+                        
+                        const result = await response.json();
+                        console.log('Server response:', result);
+                        
+                        alert('Albums configuration saved successfully! (Server updated)');
+                    } catch (error) {
+                        console.error('Error saving albums config to server:', error);
+                        alert('Albums configuration saved locally, but failed to update server. Please restart the server to apply changes.');
+                    }
+                } else {
+                    // Running from file:// protocol
+                    alert('Albums configuration saved locally. Please restart the server to apply changes.');
+                }
+            }
+            
+            async saveUserConfig() {
+                // Get values from user form
+                this.config.songCooldown = parseInt(document.getElementById('songCooldown').value);
+                
+                // Save to localStorage first
+                localStorage.setItem('jukeboxLocationConfig', JSON.stringify(this.config));
+                
+                // Try to send to server if we're running on HTTP
+                if (window.location.protocol === 'http:' || window.location.protocol === 'https:') {
+                    try {
+                        const response = await fetch('/api/config/user', {
+                            method: 'POST',
+                            headers: {
+                                'Content-Type': 'application/json',
+                            },
+                            body: JSON.stringify({
+                                songCooldown: this.config.songCooldown
+                            })
+                        });
+                        
+                        if (!response.ok) {
+                            throw new Error(`HTTP error! status: ${response.status}`);
+                        }
+                        
+                        const result = await response.json();
+                        console.log('Server response:', result);
+                        
+                        alert('User settings saved successfully! (Server updated)');
+                    } catch (error) {
+                        console.error('Error saving user config to server:', error);
+                        alert('User settings saved locally, but failed to update server. Please restart the server to apply changes.');
+                    }
+                } else {
+                    // Running from file:// protocol
+                    alert('User settings saved locally. Please restart the server to apply changes.');
+                }
+            }
+            
+            updateCurrentLocationDisplay() {
+                document.getElementById('currentVenueName').textContent = this.config.venueName;
+                document.getElementById('currentAddress').textContent = this.config.address;
+                document.getElementById('currentLatitude').textContent = this.config.latitude;
+                document.getElementById('currentLongitude').textContent = this.config.longitude;
+                document.getElementById('currentDistance').textContent = `${this.config.allowedDistance} meters`;
+            }
+            
+            async testLocation() {
+                if (!navigator.geolocation) {
+                    this.showTestResult('Geolocation is not supported by this browser.', 'error');
+                    return;
+                }
+                
+                const options = {
+                    enableHighAccuracy: true,
+                    timeout: 10000,
+                    maximumAge: 0
+                };
+                
+                navigator.geolocation.getCurrentPosition(
+                    (position) => this.handleTestSuccess(position),
+                    (error) => this.handleTestError(error),
+                    options
+                );
+            }
+            
+            handleTestSuccess(position) {
+                const userLat = position.coords.latitude;
+                const userLon = position.coords.longitude;
+                
+                const distance = this.calculateDistance(
+                    this.config.latitude,
+                    this.config.longitude,
+                    userLat,
+                    userLon
+                );
+                
+                const isAllowed = distance <= this.config.allowedDistance;
+                
+                let message = `Your location: ${userLat.toFixed(6)}, ${userLon.toFixed(6)}\n`;
+                message += `Distance from venue: ${Math.round(distance)}m\n`;
+                message += `Allowed distance: ${this.config.allowedDistance}m\n`;
+                message += `Status: ${isAllowed ? '✅ ACCESS GRANTED' : '❌ ACCESS DENIED'}`;
+                
+                this.showTestResult(message, isAllowed ? 'success' : 'error');
+            }
+            
+            handleTestError(error) {
+                let message = 'Unable to get your location. ';
+                
+                switch(error.code) {
+                    case error.PERMISSION_DENIED:
+                        message += 'Please allow location access and try again.';
+                        break;
+                    case error.POSITION_UNAVAILABLE:
+                        message += 'Location information is unavailable.';
+                        break;
+                    case error.TIMEOUT:
+                        message += 'Location request timed out.';
+                        break;
+                    default:
+                        message += 'An unknown error occurred.';
+                        break;
+                }
+                
+                this.showTestResult(message, 'error');
+            }
+            
+            calculateDistance(lat1, lon1, lat2, lon2) {
+                const R = 6371e3; // Earth's radius in meters
+                const φ1 = lat1 * Math.PI / 180;
+                const φ2 = lat2 * Math.PI / 180;
+                const Δφ = (lat2 - lat1) * Math.PI / 180;
+                const Δλ = (lon2 - lon1) * Math.PI / 180;
+
+                const a = Math.sin(Δφ/2) * Math.sin(Δφ/2) +
+                          Math.cos(φ1) * Math.cos(φ2) *
+                          Math.sin(Δλ/2) * Math.sin(Δλ/2);
+                const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+
+                return R * c;
+            }
+            
+            showTestResult(message, type) {
+                const resultsDiv = document.getElementById('testResults');
+                resultsDiv.textContent = message;
+                resultsDiv.className = `test-results ${type}`;
+                resultsDiv.classList.remove('hidden');
+            }
+            
+            setupEventListeners() {
+                document.getElementById('locationConfigForm').addEventListener('submit', (e) => {
+                    e.preventDefault();
+                    this.saveConfig();
+                });
+                
+                document.getElementById('albumsConfigForm').addEventListener('submit', (e) => {
+                    e.preventDefault();
+                    this.saveAlbumsConfig();
+                });
+                
+                document.getElementById('userConfigForm').addEventListener('submit', (e) => {
+                    e.preventDefault();
+                    this.saveUserConfig();
+                });
+                
+                document.getElementById('testLocationBtn').addEventListener('click', () => {
+                    this.testLocation();
+                });
+            }
+        }
+        
+        // Initialize admin when page loads
+        document.addEventListener('DOMContentLoaded', () => {
+            new AdminConfig();
+        });
+    </script>
+</body>
+</html>

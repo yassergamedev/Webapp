@@ -1,0 +1,28 @@
+[Unit]
+Description=Jukebox Master System
+After=network.target sound.target
+Wants=network.target
+
+[Service]
+Type=simple
+User=arcade
+Group=arcade
+WorkingDirectory=/home/arcade/Webapp
+ExecStart=/bin/bash /home/arcade/Webapp/master-startup-systemd.sh
+Restart=always
+RestartSec=10
+StandardOutput=journal
+StandardError=journal
+
+# Environment variables - COMBINED like the working service
+Environment="DISPLAY=:0" "XAUTHORITY=/home/arcade/.Xauthority" "PULSE_RUNTIME_PATH=/run/user/1000/pulse" "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin" "NODE_ENV=production"
+# MongoDB direct connection URI (get from MongoDB Atlas - use "Connect" -> "Connect your application" -> "Standard connection string")
+# Format: mongodb://username:password@host1:port1,host2:port2/database?ssl=true&replicaSet=...
+# Environment="MONGODB_DIRECT_URI=mongodb://8bbjukebox:8bbjukebox123...@..."
+
+# Audio and display permissions
+# Note: User must be a member of audio and video groups (add with: sudo usermod -a -G audio,video arcade)
+# SupplementaryGroups removed to avoid systemd error - user groups are inherited automatically
+
+[Install]
+WantedBy=multi-user.target

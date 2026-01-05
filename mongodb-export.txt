@@ -1,0 +1,1215 @@
+================================================================================
+MONGODB DATA EXPORT
+Generated: 2025-11-18T04:24:35.960Z
+Database: jukebox
+Total Albums: 28
+Total Songs: 315
+================================================================================
+
+
+================================================================================
+ALBUMS
+================================================================================
+
+📀 ALBUM: 24 Vol1
+   Artist: Pophits 00
+   ID: 690ee79fa31a1f21004d7346
+
+📀 ALBUM: 24 Vol2
+   Artist: Pophits 00
+   ID: 690ee79fa31a1f21004d7347
+
+📀 ALBUM: 24 Vol3
+   Artist: Pophits 00
+   ID: 690ee7a0a31a1f21004d7348
+
+📀 ALBUM: 24 Vol4
+   Artist: Pophits 00
+   ID: 690ee7a0a31a1f21004d7349
+
+📀 ALBUM: 24 Vol5
+   Artist: Pophits 00
+   ID: 690ee7a0a31a1f21004d734a
+
+📀 ALBUM: 24 Vol6
+   Artist: Pophits 00
+   ID: 690ee7a0a31a1f21004d734b
+
+📀 ALBUM: 24 Vol7
+   Artist: Pophits 00
+   ID: 690ee7a0a31a1f21004d734c
+
+📀 ALBUM: Best Of
+   Artist: Billy Idol
+   ID: 6902c1f1c8dda1483f595d2e
+
+📀 ALBUM: Best Of Blondie
+   Artist: Blondie
+   ID: 6902c1f2c8dda1483f595d30
+
+📀 ALBUM: Best Of The Best
+   Artist: Metallica
+   ID: 6902c1fcc8dda1483f595d42
+
+📀 ALBUM: Best of
+   Artist: Bruce Springsteen
+   ID: 6902c41fc8dda1483f93c6ea
+
+📀 ALBUM: Bowie Legacy
+   Artist: David Bowie
+   ID: 6902c1f5c8dda1483f595d37
+
+📀 ALBUM: Cross Road
+   Artist: Bon Jovi
+   ID: 6902c1f3c8dda1483f595d32
+
+📀 ALBUM: DC Best Of CD1
+   Artist: AC
+   ID: 690ee79fa31a1f21004d7342
+
+📀 ALBUM: DC Best Of CD2
+   Artist: AC
+   ID: 690ee79fa31a1f21004d7343
+
+📀 ALBUM: Elvis Forever
+   Artist: Elvis Presley
+   ID: 6902c1f6c8dda1483f595d39
+
+📀 ALBUM: Full House
+   Artist: Madness
+   ID: 6902c1fbc8dda1483f595d41
+
+📀 ALBUM: Greatest Hits
+   Artist: Blur
+   ID: 6902c1f3c8dda1483f595d31
+
+📀 ALBUM: In Time
+   Artist: R.E.M.
+   ID: 6902c201c8dda1483f595d47
+
+📀 ALBUM: Sound Of The  Smiths
+   Artist: The Smiths
+   ID: 690ee7a0a31a1f21004d734f
+
+📀 ALBUM: The Best
+   Artist: Nirvana
+   ID: 6902c1fcc8dda1483f595d43
+
+📀 ALBUM: The Best Of
+   Artist: Radiohead
+   ID: 6902c201c8dda1483f595d48
+
+📀 ALBUM: The Best Of Me
+   Artist: Bryan Adams
+   ID: 6902c1f4c8dda1483f595d34
+
+📀 ALBUM: The Boombastic Collection Best Of Shaggy (2008) {FLAC} vtwin88cube
+   Artist: Shaggy
+   ID: 6902c202c8dda1483f595d49
+
+📀 ALBUM: The Ultimate Best Of
+   Artist: Queen
+   ID: 6902c200c8dda1483f595d46
+
+📀 ALBUM: The Very Best
+   Artist: Dire Straits
+   ID: 6902c1f6c8dda1483f595d38
+
+📀 ALBUM: The Very Best Of
+   Artist: Sting & The Police
+   ID: 6902c203c8dda1483f595d4a
+
+📀 ALBUM: Very Best Of
+   Artist: Billy Joel
+   ID: 6902c1f2c8dda1483f595d2f
+
+
+================================================================================
+SONGS (Grouped by Album)
+================================================================================
+
+
+📀 ALBUM: 24 Vol1
+--------------------------------------------------------------------------------
+Total Songs: 15
+
+1. Pophits 00 - About Damn Time
+   ID: 690ee7a4a31a1f21004d737c
+
+2. Pophits 00 - Apple
+   ID: 690ee7a4a31a1f21004d7378
+
+3. Pophits 00 - APT.
+   ID: 690ee7a4a31a1f21004d7380
+
+4. Pophits 00 - Beautiful Things
+   ID: 690ee7a3a31a1f21004d7375
+
+5. Pophits 00 - Crystal (Radio Edit)
+   ID: 690ee7a4a31a1f21004d737e
+
+6. Pophits 00 - High Hopes
+   ID: 690ee7a4a31a1f21004d737f
+
+7. Pophits 00 - It’s a Beautiful Day
+   ID: 690ee7a4a31a1f21004d737d
+
+8. Pophits 00 - Lose Control
+   ID: 690ee7a4a31a1f21004d7381
+
+9. Pophits 00 - Marry You
+   ID: 690ee7a3a31a1f21004d7376
+
+10. Pophits 00 - School Nights
+   ID: 690ee7a4a31a1f21004d7377
+
+11. Pophits 00 - Shape of You
+   ID: 690ee7a4a31a1f21004d737a
+
+12. Pophits 00 - Sweet but Psycho
+   ID: 690ee7a3a31a1f21004d7374
+
+13. Pophits 00 - We Are Young (feat. Janelle Monáe)
+   ID: 690ee7a4a31a1f21004d7382
+
+14. Pophits 00 - Wild Ones (feat. Sia)
+   ID: 690ee7a4a31a1f21004d737b
+
+15. Pophits 00 - Yellow
+   ID: 690ee7a4a31a1f21004d7379
+
+
+📀 ALBUM: 24 Vol2
+--------------------------------------------------------------------------------
+Total Songs: 16
+
+1. Pophits 00 - 10,000 Hours
+   ID: 690ee7a5a31a1f21004d7386
+
+2. Pophits 00 - 2002
+   ID: 690ee7a5a31a1f21004d7383
+
+3. Pophits 00 - Am I Wrong
+   ID: 690ee7a5a31a1f21004d738d
+
+4. Pophits 00 - Billionaire (feat. Bruno Mars)
+   ID: 690ee7a6a31a1f21004d7390
+
+5. Pophits 00 - Broken & Beautiful (From "Uglydolls")
+   ID: 690ee7a5a31a1f21004d738b
+
+6. Pophits 00 - Disco
+   ID: 690ee7a6a31a1f21004d738f
+
+7. Pophits 00 - Gangsta
+   ID: 690ee7a5a31a1f21004d738a
+
+8. Pophits 00 - I Follow Rivers (The Magician Remix)
+   ID: 690ee7a5a31a1f21004d738c
+
+9. Pophits 00 - i hate u, i love u (feat. Olivia O'Brien)
+   ID: 690ee7a6a31a1f21004d7391
+
+10. Pophits 00 - I Won’t Give Up
+   ID: 690ee7a5a31a1f21004d7388
+
+11. Pophits 00 - Infinity
+   ID: 690ee7a5a31a1f21004d7389
+
+12. Pophits 00 - Skinny Love
+   ID: 690ee7a5a31a1f21004d7384
+
+13. Pophits 00 - Stressed Out
+   ID: 690ee7a6a31a1f21004d7392
+
+14. Pophits 00 - Symphony (feat. Zara Larsson)
+   ID: 690ee7a5a31a1f21004d7385
+
+15. Pophits 00 - The Sound of Silence
+   ID: 690ee7a5a31a1f21004d7387
+
+16. Pophits 00 - These Days (feat. Jess Glynne, Macklemore & Dan Caplen)
+   ID: 690ee7a5a31a1f21004d738e
+
+
+📀 ALBUM: 24 Vol3
+--------------------------------------------------------------------------------
+Total Songs: 15
+
+1. Pophits 00 - Are You Bored Yet? (feat. Clairo)
+   ID: 690ee7a7a31a1f21004d73a1
+
+2. Pophits 00 - Freakin' Out on the Interstate
+   ID: 690ee7a6a31a1f21004d7396
+
+3. Pophits 00 - Friends
+   ID: 690ee7a6a31a1f21004d7399
+
+4. Pophits 00 - Ghost Town
+   ID: 690ee7a6a31a1f21004d7394
+
+5. Pophits 00 - I'll Be There
+   ID: 690ee7a7a31a1f21004d739d
+
+6. Pophits 00 - It’s Called: Freefall
+   ID: 690ee7a7a31a1f21004d739f
+
+7. Pophits 00 - It’s You
+   ID: 690ee7a6a31a1f21004d7395
+
+8. Pophits 00 - Jealous (I Ain't with It)
+   ID: 690ee7a6a31a1f21004d7398
+
+9. Pophits 00 - Line Without a Hook
+   ID: 690ee7a7a31a1f21004d73a0
+
+10. Pophits 00 - Oceans Away
+   ID: 690ee7a6a31a1f21004d7393
+
+11. Pophits 00 - Out of My League
+   ID: 690ee7a7a31a1f21004d739a
+
+12. Pophits 00 - Pacify Her
+   ID: 690ee7a7a31a1f21004d739e
+
+13. Pophits 00 - Swim
+   ID: 690ee7a6a31a1f21004d7397
+
+14. Pophits 00 - Tongue Tied
+   ID: 690ee7a7a31a1f21004d739b
+
+15. Pophits 00 - Wasn’t Expecting That
+   ID: 690ee7a7a31a1f21004d739c
+
+
+📀 ALBUM: 24 Vol4
+--------------------------------------------------------------------------------
+Total Songs: 15
+
+1. Pophits 00 - abcdefu
+   ID: 690ee7a8a31a1f21004d73a5
+
+2. Pophits 00 - Cool Kids
+   ID: 690ee7a8a31a1f21004d73a4
+
+3. Pophits 00 - Cupid’s Chokehold / Breakfast in America
+   ID: 690ee7a8a31a1f21004d73a6
+
+4. Pophits 00 - Feel It Still
+   ID: 690ee7a9a31a1f21004d73af
+
+5. Pophits 00 - God Must Hate Me
+   ID: 690ee7a8a31a1f21004d73a3
+
+6. Pophits 00 - Here’s Your Perfect
+   ID: 690ee7a8a31a1f21004d73a9
+
+7. Pophits 00 - la di die (feat. Jaden Hossler)
+   ID: 690ee7a9a31a1f21004d73ad
+
+8. Pophits 00 - Last Request
+   ID: 690ee7a9a31a1f21004d73ae
+
+9. Pophits 00 - no song without you
+   ID: 690ee7a8a31a1f21004d73a7
+
+10. Pophits 00 - Pure Shores
+   ID: 690ee7a8a31a1f21004d73a2
+
+11. Pophits 00 - Smile
+   ID: 690ee7a8a31a1f21004d73ac
+
+12. Pophits 00 - SPACE MAN
+   ID: 690ee7a9a31a1f21004d73b0
+
+13. Pophits 00 - Summer Feelings (feat. Charlie Puth)
+   ID: 690ee7a8a31a1f21004d73ab
+
+14. Pophits 00 - Whatcha Say
+   ID: 690ee7a8a31a1f21004d73aa
+
+15. Pophits 00 - You’re Beautiful
+   ID: 690ee7a8a31a1f21004d73a8
+
+
+📀 ALBUM: 24 Vol5
+--------------------------------------------------------------------------------
+Total Songs: 15
+
+1. Pophits 00 - 21 Reasons (feat. Ella Henderson)
+   ID: 690ee7aaa31a1f21004d73bc
+
+2. Pophits 00 - adore u
+   ID: 690ee7a9a31a1f21004d73b4
+
+3. Pophits 00 - Afraid to Feel
+   ID: 690ee7a9a31a1f21004d73b8
+
+4. Pophits 00 - All That Really Matters
+   ID: 690ee7aaa31a1f21004d73bf
+
+5. Pophits 00 - At My Worst (feat. Kehlani)
+   ID: 690ee7aaa31a1f21004d73be
+
+6. Pophits 00 - B.O.T.A. (Baddest of Them All) (Edit)
+   ID: 690ee7a9a31a1f21004d73b2
+
+7. Pophits 00 - Left and Right
+   ID: 690ee7a9a31a1f21004d73b1
+
+8. Pophits 00 - Lost the Breakup
+   ID: 690ee7aaa31a1f21004d73ba
+
+9. Pophits 00 - Man's World
+   ID: 690ee7aaa31a1f21004d73bb
+
+10. Pophits 00 - MEAN! (feat. Noah Kahan) (Remix)
+   ID: 690ee7aaa31a1f21004d73b9
+
+11. Pophits 00 - Miss You
+   ID: 690ee7aaa31a1f21004d73bd
+
+12. Pophits 00 - Not the 1975
+   ID: 690ee7a9a31a1f21004d73b7
+
+13. Pophits 00 - Strangers
+   ID: 690ee7a9a31a1f21004d73b6
+
+14. Pophits 00 - Victoria’s Secret
+   ID: 690ee7a9a31a1f21004d73b5
+
+15. Pophits 00 - We Didn’t Start the Fire
+   ID: 690ee7a9a31a1f21004d73b3
+
+
+📀 ALBUM: 24 Vol6
+--------------------------------------------------------------------------------
+Total Songs: 16
+
+1. Pophits 00 - Austin
+   ID: 690ee7aba31a1f21004d73c5
+
+2. Pophits 00 - Before You Leave Me
+   ID: 690ee7aaa31a1f21004d73c2
+
+3. Pophits 00 - Breathless
+   ID: 690ee7aba31a1f21004d73cf
+
+4. Pophits 00 - Chase It (Mmm Da Da Da)
+   ID: 690ee7aaa31a1f21004d73c3
+
+5. Pophits 00 - Dance Alone
+   ID: 690ee7aba31a1f21004d73cd
+
+6. Pophits 00 - Everywhere
+   ID: 690ee7aba31a1f21004d73c9
+
+7. Pophits 00 - Hands Clean
+   ID: 690ee7aaa31a1f21004d73c0
+
+8. Pophits 00 - Happier (feat. Clementine Douglas)
+   ID: 690ee7aba31a1f21004d73ce
+
+9. Pophits 00 - Levitating
+   ID: 690ee7aba31a1f21004d73cc
+
+10. Pophits 00 - Me & U
+   ID: 690ee7aaa31a1f21004d73c4
+
+11. Pophits 00 - Samson
+   ID: 690ee7aba31a1f21004d73ca
+
+12. Pophits 00 - Scared to Start
+   ID: 690ee7aba31a1f21004d73c8
+
+13. Pophits 00 - STUPID IN LOVE (feat. HUH YUHNJIN)
+   ID: 690ee7aba31a1f21004d73c7
+
+14. Pophits 00 - True
+   ID: 690ee7aba31a1f21004d73cb
+
+15. Pophits 00 - Turn Me On
+   ID: 690ee7aba31a1f21004d73c6
+
+16. Pophits 00 - Ways To Go (feat. Khalid)
+   ID: 690ee7aaa31a1f21004d73c1
+
+
+📀 ALBUM: 24 Vol7
+--------------------------------------------------------------------------------
+Total Songs: 8
+
+1. Pophits 00 - Dance The Night (From Barbie The Album)
+   ID: 690ee7aca31a1f21004d73d2
+
+2. Pophits 00 - Good Girls Go Bad
+   ID: 690ee7aca31a1f21004d73d0
+
+3. Pophits 00 - Hard to Beat
+   ID: 690ee7aca31a1f21004d73d3
+
+4. Pophits 00 - I’m Good (Blue)
+   ID: 690ee7aca31a1f21004d73d1
+
+5. Pophits 00 - Put That Woman First
+   ID: 690ee7aca31a1f21004d73d5
+
+6. Pophits 00 - Replay
+   ID: 690ee7aca31a1f21004d73d4
+
+7. Pophits 00 - Tempted to Touch
+   ID: 690ee7aca31a1f21004d73d6
+
+8. Pophits 00 - Untouched
+   ID: 690ee7aca31a1f21004d73d7
+
+
+📀 ALBUM: Best Of
+--------------------------------------------------------------------------------
+Total Songs: 24
+
+1. Creedence Clearwater Revival - Bad Moon Rising
+   ID: 6902c1f5c7df3f17413856e6
+
+2. Rolling Stones - Brown Sugar
+   ID: 6902c202c7df3f1741385846
+
+3. Creedence Clearwater Revival - Down On The Corner
+   ID: 6902c1f5c7df3f17413856e8
+
+4. Rolling Stones - Get Off Of My Cloud
+   ID: 6902c202c7df3f1741385840
+
+5. Creedence Clearwater Revival - Good Golly Miss Molly
+   ID: 6902c1f5c7df3f17413856eb
+
+6. Creedence Clearwater Revival - Have You Ever Seen The Rain
+   ID: 6902c1f5c7df3f17413856ef
+
+7. Rolling Stones - Heart Of Stone
+   ID: 6902c202c7df3f174138583f
+
+8. Creedence Clearwater Revival - Hello Mary Lou
+   ID: 6902c1f5c7df3f17413856ed
+
+9. Creedence Clearwater Revival - Hey Tonight
+   ID: 6902c1f5c7df3f17413856ea
+
+10. Rolling Stones - Honky Tonk Woman
+   ID: 6902c202c7df3f1741385842
+
+11. Rolling Stones - I Can't Get No - Satisfaction
+   ID: 6902c202c7df3f174138583c
+
+12. Rolling Stones - Jumpin' Jack Flash
+   ID: 6902c202c7df3f1741385843
+
+13. Creedence Clearwater Revival - Lodi
+   ID: 6902c1f5c7df3f17413856e5
+
+14. Creedence Clearwater Revival - Lookin' Out My Back Door
+   ID: 6902c1f5c7df3f17413856ee
+
+15. Rolling Stones - Mother's Little Helper
+   ID: 6902c202c7df3f174138583e
+
+16. Creedence Clearwater Revival - Ooby Dooby
+   ID: 6902c1f5c7df3f17413856e7
+
+17. Rolling Stones - Paint It Black
+   ID: 6902c202c7df3f174138583d
+
+18. Creedence Clearwater Revival - Proud Mary
+   ID: 6902c1f5c7df3f17413856e4
+
+19. Creedence Clearwater Revival - Sweet Hitch-Hiker
+   ID: 6902c1f5c7df3f17413856ec
+
+20. Creedence Clearwater Revival - Travellin' Band
+   ID: 6902c1f5c7df3f17413856e9
+
+21. Rolling Stones - Under My Thumb
+   ID: 6902c202c7df3f1741385841
+
+22. Creedence Clearwater Revival - Who'll Stop The Rain
+   ID: 6902c1f5c7df3f17413856e3
+
+23. Rolling Stones - Wild Horses
+   ID: 6902c202c7df3f1741385844
+
+24. Rolling Stones - You Can't Always Get What You Want
+   ID: 6902c202c7df3f1741385845
+
+
+📀 ALBUM: Best Of Blondie
+--------------------------------------------------------------------------------
+Total Songs: 10
+
+1. Blondie - Atomic
+   ID: 6902c1f2c7df3f17413856a4
+
+2. Blondie - Atomic '98 (Tall Paul Remix)
+   ID: 6902c1f3c7df3f17413856ad
+
+3. Blondie - Call Me (Theme From 'American Gigolo')
+   ID: 6902c1f2c7df3f17413856a7
+
+4. Blondie - Denis
+   ID: 6902c1f2c7df3f17413856a9
+
+5. Blondie - Fade Away & Radiate
+   ID: 6902c1f3c7df3f17413856ac
+
+6. Blondie - Hanging On The Telephone
+   ID: 6902c1f2c7df3f17413856aa
+
+7. Blondie - Heart Of Glass
+   ID: 6902c1f2c7df3f17413856a5
+
+8. Blondie - One Way Or Another
+   ID: 6902c1f2c7df3f17413856ab
+
+9. Blondie - Sunday Girl
+   ID: 6902c1f2c7df3f17413856a6
+
+10. Blondie - The Tide Is High
+   ID: 6902c1f2c7df3f17413856a8
+
+
+📀 ALBUM: Best of
+--------------------------------------------------------------------------------
+Total Songs: 14
+
+1. Bruce Springsteen - 4th of July, Asbury Park (Sandy)
+   ID: 690ee7a3a31a1f21004d7372
+
+2. Bruce Springsteen - Atlantic City
+   ID: 6902c41ffeed6455f459d7e2
+
+3. Bruce Springsteen - Badlands
+   ID: 6902c41ffeed6455f459d7de
+
+4. Bruce Springsteen - Born in the U.S.A.
+   ID: 6902c420feed6455f459d7e5
+
+5. Bruce Springsteen - Born to Run
+   ID: 6902c41ffeed6455f459d7dd
+
+6. Bruce Springsteen - Dancing In the Dark
+   ID: 6902c420feed6455f459d7e4
+
+7. Bruce Springsteen - Glory Days
+   ID: 6902c41ffeed6455f459d7e3
+
+8. Bruce Springsteen - Growin' Up
+   ID: 6902c41ffeed6455f459d7da
+
+9. Bruce Springsteen - Human Touch
+   ID: 6902c420feed6455f459d7e6
+
+10. Bruce Springsteen - Hungry Heart
+   ID: 6902c41ffeed6455f459d7e1
+
+11. Bruce Springsteen - Prove It All Night
+   ID: 6902c41ffeed6455f459d7df
+
+12. Bruce Springsteen - Rosalita (Come Out Tonight)
+   ID: 6902c41ffeed6455f459d7db
+
+13. Bruce Springsteen - Streets of Philadelphia
+   ID: 6902c420feed6455f459d7e7
+
+14. Bruce Springsteen - The River
+   ID: 6902c41ffeed6455f459d7e0
+
+
+📀 ALBUM: Bowie Legacy
+--------------------------------------------------------------------------------
+Total Songs: 15
+
+1. David Bowie - Ashes to Ashes (Single Version [Remastered])
+   ID: 6902c1f6c7df3f1741385703
+
+2. David Bowie - Blue Jean (Remastered)
+   ID: 6902c1f6c7df3f1741385707
+
+3. David Bowie - China Girl (Single Version [Remastered])
+   ID: 6902c1f6c7df3f1741385706
+
+4. David Bowie - Dancing in the Street (Remastered)
+   ID: 6902c1f6c7df3f1741385708
+
+5. David Bowie - Fame (Remastered)
+   ID: 6902c1f6c7df3f17413856ff
+
+6. David Bowie - Fashion (Single Version [Remastered])
+   ID: 6902c1f6c7df3f1741385702
+
+7. David Bowie - Golden Years (Single Version [Remastered])
+   ID: 6902c1f6c7df3f1741385700
+
+8. David Bowie - Heroes (Single Version [Remastered])
+   ID: 6902c1f6c7df3f1741385701
+
+9. David Bowie - Lazarus (Radio Edit)
+   ID: 6902c1f6c7df3f1741385709
+
+10. David Bowie - Let's Dance (Single Version [Remastered])
+   ID: 6902c1f6c7df3f1741385705
+
+11. David Bowie - Life On Mars? (2016 Mix)
+   ID: 690ee7a3a31a1f21004d7373
+
+12. David Bowie - Rebel Rebel (Remastered)
+   ID: 6902c1f6c7df3f17413856fe
+
+13. David Bowie - Space Oddity (Remastered)
+   ID: 6902c1f5c7df3f17413856fb
+
+14. David Bowie - Under Pressure (Remastered)
+   ID: 6902c1f6c7df3f1741385704
+
+15. David Bowie - Ziggy Stardust (Remastered)
+   ID: 6902c1f6c7df3f17413856fd
+
+
+📀 ALBUM: DC Best Of CD1
+--------------------------------------------------------------------------------
+Total Songs: 17
+
+1. AC - Baby, Please Don't Go
+   ID: 690ee7a1a31a1f21004d735a
+
+2. AC - Baptism By Fire
+   ID: 690ee7a1a31a1f21004d7357
+
+3. AC - Beating Around The Bush
+   ID: 690ee7a1a31a1f21004d7354
+
+4. AC - Brain Shake
+   ID: 690ee7a1a31a1f21004d7359
+
+5. AC - Hells Bells
+   ID: 690ee7a1a31a1f21004d735b
+
+6. AC - It's A Long Way To The Top (If You Wanna Rock 'N' Roll)
+   ID: 690ee7a1a31a1f21004d735c
+
+7. AC - Kicked In The Teeth
+   ID: 690ee7a1a31a1f21004d735d
+
+8. AC - Live Wire
+   ID: 690ee7a0a31a1f21004d7351
+
+9. AC - Love Song
+   ID: 690ee7a1a31a1f21004d7356
+
+10. AC - Rocker
+   ID: 690ee7a1a31a1f21004d7355
+
+11. AC - School Days
+   ID: 690ee7a1a31a1f21004d7358
+
+12. AC - Shoot To Thrill
+   ID: 690ee7a2a31a1f21004d735f
+
+13. AC - Stiff Upper Lip
+   ID: 690ee7a1a31a1f21004d735e
+
+14. AC - That's The Way I Wanna Rock 'N' Roll
+   ID: 690ee7a2a31a1f21004d7360
+
+15. AC - The Furor
+   ID: 690ee7a0a31a1f21004d7352
+
+16. AC - The Razors Edge
+   ID: 690ee7a1a31a1f21004d7353
+
+17. AC - Thunderstruck
+   ID: 690ee7a0a31a1f21004d7350
+
+
+📀 ALBUM: DC Best Of CD2
+--------------------------------------------------------------------------------
+Total Songs: 17
+
+1. AC - Big Gun
+   ID: 690ee7a2a31a1f21004d7361
+
+2. AC - Can I Sit Next To You Girl
+   ID: 690ee7a3a31a1f21004d736e
+
+3. AC - Can't Stand Still
+   ID: 690ee7a3a31a1f21004d7371
+
+4. AC - Fire Your Guns
+   ID: 690ee7a3a31a1f21004d7370
+
+5. AC - Heatseeker
+   ID: 690ee7a3a31a1f21004d736b
+
+6. AC - Highway To Hell
+   ID: 690ee7a3a31a1f21004d736c
+
+7. AC - Landslide
+   ID: 690ee7a2a31a1f21004d7365
+
+8. AC - Riff Raff
+   ID: 690ee7a3a31a1f21004d736d
+
+9. AC - Safe In New York City
+   ID: 690ee7a3a31a1f21004d736f
+
+10. AC - Shake A Leg
+   ID: 690ee7a2a31a1f21004d7369
+
+11. AC - She's Got Balls
+   ID: 690ee7a2a31a1f21004d7362
+
+12. AC - This Means War
+   ID: 690ee7a2a31a1f21004d736a
+
+13. AC - Touch Too Much
+   ID: 690ee7a2a31a1f21004d7364
+
+14. AC - Walk All Over You
+   ID: 690ee7a2a31a1f21004d7363
+
+15. AC - Whole Lotta Rosie
+   ID: 690ee7a2a31a1f21004d7368
+
+16. AC - You Ain't Got A Hold On Me
+   ID: 690ee7a2a31a1f21004d7366
+
+17. AC - You Shook Me All Night Long
+   ID: 690ee7a2a31a1f21004d7367
+
+
+📀 ALBUM: Full House
+--------------------------------------------------------------------------------
+Total Songs: 14
+
+1. Madness - (Waiting For The) Ghost Train
+   ID: 6902c1fcc7df3f174138579e
+
+2. Madness - Baggy Trousers
+   ID: 6902c1fcc7df3f1741385794
+
+3. Madness - Driving In My Car
+   ID: 6902c1fcc7df3f1741385799
+
+4. Madness - Embarrassment
+   ID: 6902c1fcc7df3f1741385795
+
+5. Madness - Grey Day
+   ID: 6902c1fcc7df3f1741385796
+
+6. Madness - House of Fun
+   ID: 6902c1fcc7df3f1741385798
+
+7. Madness - It Must Be Love
+   ID: 6902c1fcc7df3f1741385797
+
+8. Madness - Madness
+   ID: 6902c1fcc7df3f1741385793
+
+9. Madness - Michael Caine
+   ID: 6902c1fcc7df3f174138579d
+
+10. Madness - My Girl
+   ID: 6902c1fbc7df3f1741385792
+
+11. Madness - One Step Beyond
+   ID: 6902c1fbc7df3f1741385791
+
+12. Madness - Our House
+   ID: 6902c1fcc7df3f174138579a
+
+13. Madness - Tomorrow's (Just Another Day)
+   ID: 6902c1fcc7df3f174138579b
+
+14. Madness - Wings of a Dove
+   ID: 6902c1fcc7df3f174138579c
+
+
+📀 ALBUM: Greatest Hits
+--------------------------------------------------------------------------------
+Total Songs: 13
+
+1. Blur - Beetlebum
+   ID: 6902c1f3c7df3f17413856ae
+
+2. Blur - Charmless Man
+   ID: 6902c1f3c7df3f17413856b8
+
+3. Blur - Coffee & TV
+   ID: 6902c1f3c7df3f17413856b2
+
+4. Blur - Country House
+   ID: 6902c1f3c7df3f17413856ba
+
+5. Blur - End Of A Century
+   ID: 6902c1f3c7df3f17413856b4
+
+6. Blur - Girls & Boys
+   ID: 6902c1f3c7df3f17413856b7
+
+7. Blur - No Distance Left To Run
+   ID: 6902c1f3c7df3f17413856b5
+
+8. Blur - Parklife
+   ID: 6902c1f3c7df3f17413856b3
+
+9. Blur - She's So High
+   ID: 6902c1f3c7df3f17413856b9
+
+10. Blur - Song 2
+   ID: 6902c1f3c7df3f17413856af
+
+11. Blur - Tender
+   ID: 6902c1f3c7df3f17413856b6
+
+12. Blur - The Universal
+   ID: 6902c1f3c7df3f17413856b1
+
+13. Blur - There's No Other Way
+   ID: 6902c1f3c7df3f17413856b0
+
+
+📀 ALBUM: In Time
+--------------------------------------------------------------------------------
+Total Songs: 11
+
+1. R.E.M. - All The Way To Reno
+   ID: 6902c201c7df3f1741385828
+
+2. R.E.M. - Animal
+   ID: 6902c201c7df3f174138582c
+
+3. R.E.M. - Bad Day
+   ID: 6902c201c7df3f1741385826
+
+4. R.E.M. - Daysleeper
+   ID: 6902c201c7df3f174138582b
+
+5. R.E.M. - E-Bow The Letter
+   ID: 6902c201c7df3f174138582a
+
+6. R.E.M. - Everybody Hurts
+   ID: 6902c201c7df3f174138582e
+
+7. R.E.M. - Losing My Religion
+   ID: 6902c201c7df3f1741385829
+
+8. R.E.M. - Man On The Moon
+   ID: 6902c201c7df3f1741385825
+
+9. R.E.M. - Nightswimming
+   ID: 6902c201c7df3f174138582f
+
+10. R.E.M. - The Sidewinder Sleeps Tonite
+   ID: 6902c201c7df3f174138582d
+
+11. R.E.M. - What's The Frequency, Kenneth?
+   ID: 690ee7aca31a1f21004d73d8
+
+
+📀 ALBUM: Sound Of The  Smiths
+--------------------------------------------------------------------------------
+Total Songs: 12
+
+1. The Smiths - Barbarism Begins At Home (7" Version)
+   ID: 690ee7ada31a1f21004d73e3
+
+2. The Smiths - Hand In Glove
+   ID: 690ee7aca31a1f21004d73da
+
+3. The Smiths - Heaven Knows I'm Miserable Now
+   ID: 690ee7ada31a1f21004d73de
+
+4. The Smiths - How Soon Is Now (12" Version)
+   ID: 690ee7ada31a1f21004d73e0
+
+5. The Smiths - Nowhere Fast
+   ID: 690ee7ada31a1f21004d73e1
+
+6. The Smiths - Shakespeare's Sister
+   ID: 690ee7ada31a1f21004d73e2
+
+7. The Smiths - Still Ill
+   ID: 690ee7ada31a1f21004d73dd
+
+8. The Smiths - That Joke Isn't Funny Anymore
+   ID: 690ee7ada31a1f21004d73e4
+
+9. The Smiths - The Headmaster Ritual
+   ID: 690ee7ada31a1f21004d73e5
+
+10. The Smiths - This Charming Man
+   ID: 690ee7aca31a1f21004d73db
+
+11. The Smiths - What Difference Does It Make (Peel Session Version)
+   ID: 690ee7ada31a1f21004d73dc
+
+12. The Smiths - William It Was Really Nothing
+   ID: 690ee7ada31a1f21004d73df
+
+
+📀 ALBUM: The Best
+--------------------------------------------------------------------------------
+Total Songs: 9
+
+1. Nirvana - About A Girl
+   ID: 6902c1fcc7df3f17413857aa
+
+2. Nirvana - Been A Son
+   ID: 6902c1fcc7df3f17413857ab
+
+3. Nirvana - Come As You Are
+   ID: 6902c1fdc7df3f17413857ae
+
+4. Nirvana - Heart-Shaped Box
+   ID: 6902c1fdc7df3f17413857b0
+
+5. Nirvana - Lithium
+   ID: 6902c1fdc7df3f17413857af
+
+6. Nirvana - Rape Me
+   ID: 6902c1fdc7df3f17413857b1
+
+7. Nirvana - Sliver
+   ID: 6902c1fcc7df3f17413857ac
+
+8. Nirvana - Smells Like Teen Spirit
+   ID: 6902c1fcc7df3f17413857ad
+
+9. Nirvana - You Know You're Right
+   ID: 6902c1fcc7df3f17413857a9
+
+
+📀 ALBUM: The Best Of
+--------------------------------------------------------------------------------
+Total Songs: 22
+
+1. Snoop Dogg - Beautiful
+   ID: 6902c203c7df3f1741385859
+
+2. Snoop Dogg - Bitch Please
+   ID: 6902c203c7df3f174138585d
+
+3. Radiohead - Creep
+   ID: 6902c201c7df3f1741385833
+
+4. Snoop Dogg - Gin & Juice II
+   ID: 6902c203c7df3f1741385861
+
+5. Radiohead - High And Dry
+   ID: 6902c201c7df3f1741385835
+
+6. Radiohead - Idioteque
+   ID: 6902c201c7df3f1741385838
+
+7. Radiohead - Just
+   ID: 6902c201c7df3f1741385830
+
+8. Radiohead - Karma Police
+   ID: 6902c201c7df3f1741385832
+
+9. Snoop Dogg - Lay Low
+   ID: 6902c203c7df3f174138585c
+
+10. Snoop Dogg - Loosen' Control
+   ID: 6902c203c7df3f1741385860
+
+11. Radiohead - Lucky
+   ID: 6902c201c7df3f1741385837
+
+12. Radiohead - My Iron Lung
+   ID: 6902c201c7df3f1741385836
+
+13. Radiohead - No Surprises
+   ID: 6902c201c7df3f1741385834
+
+14. Radiohead - Paranoid Android
+   ID: 6902c201c7df3f1741385831
+
+15. Radiohead - Pyramid Song
+   ID: 6902c201c7df3f174138583a
+
+16. Snoop Dogg - Ride On/Caught Up!
+   ID: 690ee7aca31a1f21004d73d9
+
+17. Snoop Dogg - Snoop Dogg (What's My Name, Part 2)
+   ID: 6902c203c7df3f174138585a
+
+18. Snoop Dogg - Snoopafella
+   ID: 6902c203c7df3f174138585f
+
+19. Snoop Dogg - Still A G Thang
+   ID: 6902c203c7df3f174138585e
+
+20. Radiohead - Street Spirit (Fade Out)
+   ID: 6902c201c7df3f174138583b
+
+21. Radiohead - The Bends
+   ID: 6902c201c7df3f1741385839
+
+22. Snoop Dogg - Woof!
+   ID: 6902c203c7df3f174138585b
+
+
+📀 ALBUM: The Ultimate Best Of
+--------------------------------------------------------------------------------
+Total Songs: 15
+
+1. Queen - A Kind Of Magic
+   ID: 6902c200c7df3f1741385816
+
+2. Queen - Another One Bites The Dust
+   ID: 6902c200c7df3f1741385818
+
+3. Queen - Bicycle Race
+   ID: 6902c200c7df3f174138581e
+
+4. Queen - Bohemian Rhapsody
+   ID: 6902c200c7df3f1741385817
+
+5. Queen - Don't Stop Me Now
+   ID: 6902c201c7df3f1741385821
+
+6. Queen - Fat Bottomed Girls
+   ID: 6902c200c7df3f174138581c
+
+7. Queen - I Want It All
+   ID: 6902c200c7df3f174138581d
+
+8. Queen - I Want To Break Free
+   ID: 6902c201c7df3f174138581f
+
+9. Queen - Killer Queen
+   ID: 6902c200c7df3f174138581a
+
+10. Queen - Radio Ga Ga
+   ID: 6902c200c7df3f174138581b
+
+11. Queen - Somebody To Love
+   ID: 6902c201c7df3f1741385823
+
+12. Queen - The Invisible Man
+   ID: 6902c201c7df3f1741385824
+
+13. Queen - Under Pressure
+   ID: 6902c200c7df3f1741385819
+
+14. Queen - We Will Rock You
+   ID: 6902c201c7df3f1741385822
+
+15. Queen - You're My Best Friend
+   ID: 6902c201c7df3f1741385820
+
+
+📀 ALBUM: The Very Best Of
+--------------------------------------------------------------------------------
+Total Songs: 11
+
+1. The Police - Can't Stand Losing You
+   ID: 6902c203c7df3f1741385864
+
+2. The Police - De Do Do Do, De Da Da Da
+   ID: 6902c203c7df3f174138586a
+
+3. The Police - Don't Stand So Close To Me
+   ID: 6902c203c7df3f174138586b
+
+4. Sting - Englishman In New York
+   ID: 6902c203c7df3f1741385865
+
+5. The Police - Every Breath You Take
+   ID: 6902c203c7df3f1741385866
+
+6. The Police - Every Little Thing She Does Is Magic
+   ID: 6902c203c7df3f1741385869
+
+7. Sting - Fields Of Gold
+   ID: 6902c203c7df3f1741385868
+
+8. The Police - Message In A Bottle
+   ID: 6902c203c7df3f1741385863
+
+9. The Police - Roxanne
+   ID: 6902c203c7df3f174138586c
+
+10. The Police - So Lonely
+   ID: 6902c204c7df3f174138586d
+
+11. The Police - Walking On The Moon
+   ID: 6902c203c7df3f1741385867
+
+
+📀 ALBUM: Very Best Of
+--------------------------------------------------------------------------------
+Total Songs: 11
+
+1. Crowded House - Better Be Home Soon
+   ID: 6902c1f5c7df3f17413856fa
+
+2. Crowded House - Don't Dream It's Over
+   ID: 6902c1f5c7df3f17413856f4
+
+3. Crowded House - Fall At Your Feet
+   ID: 6902c1f5c7df3f17413856f2
+
+4. Crowded House - Four Seasons In One Day
+   ID: 6902c1f5c7df3f17413856f8
+
+5. Crowded House - Instinct
+   ID: 6902c1f5c7df3f17413856f7
+
+6. Crowded House - Into Temptation
+   ID: 6902c1f5c7df3f17413856f5
+
+7. Crowded House - Locked Out
+   ID: 6902c1f5c7df3f17413856f3
+
+8. Crowded House - Pineapple Head
+   ID: 6902c1f5c7df3f17413856f6
+
+9. Crowded House - Something So Strong
+   ID: 6902c1f5c7df3f17413856f9
+
+10. Crowded House - Weather With You
+   ID: 6902c1f5c7df3f17413856f0
+
+11. Crowded House - World Where You Live
+   ID: 6902c1f5c7df3f17413856f1
+
+
+================================================================================
+SUMMARY STATISTICS
+================================================================================
+Total Albums: 28
+Total Songs: 315
+
+Albums by song count:
+  Best Of: 24 song(s)
+  The Best Of: 22 song(s)
+  DC Best Of CD1: 17 song(s)
+  DC Best Of CD2: 17 song(s)
+  24 Vol2: 16 song(s)
+  24 Vol6: 16 song(s)
+  24 Vol1: 15 song(s)
+  24 Vol3: 15 song(s)
+  24 Vol4: 15 song(s)
+  24 Vol5: 15 song(s)
+  Bowie Legacy: 15 song(s)
+  The Ultimate Best Of: 15 song(s)
+  Best of: 14 song(s)
+  Full House: 14 song(s)
+  Greatest Hits: 13 song(s)
+  Sound Of The  Smiths: 12 song(s)
+  In Time: 11 song(s)
+  The Very Best Of: 11 song(s)
+  Very Best Of: 11 song(s)
+  Best Of Blondie: 10 song(s)
+  The Best: 9 song(s)
+  24 Vol7: 8 song(s)

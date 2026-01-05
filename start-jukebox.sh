@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Jukebox Server Startup Script
-# For deployment on hub at 192.168.50.100
+# For deployment on hub at 192.168.50.5
 
 echo "🎵 Starting Jukebox Server..."
-echo "📍 Hub IP: 192.168.50.100"
+echo "📍 Hub IP: 192.168.50.5"
 echo "🌐 Domain: jukebox.8bitbar.com.au"
 echo "🔌 Port: 80"
 echo ""
@@ -34,6 +34,7 @@ export MONGODB_URI="mongodb+srv://8bbjukebox:8bbjukebox123...@8bbjukebox.w1btiwn
 # Start the server
 echo "🚀 Starting server on port 80..."
 echo "🌐 Access via: http://jukebox.8bitbar.com.au"
+echo "🏠 Local access: http://192.168.50.5"
 echo "📡 API endpoints: http://jukebox.8bitbar.com.au/api/*"
 echo ""
 echo "Press Ctrl+C to stop the server"

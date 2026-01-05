@@ -1,0 +1,89 @@
+Webapp Style Guide (derived from styles.css)
+===========================================
+
+Color Palette
+-------------
+Primary: #e94560 (neon pink/red accent)
+Secondary: #f5a623 (warm amber)
+Accent: #00d4ff (cyan glow)
+Dark base: gradients between #1a1a2e, #16213e, #0f3460, #0f0f1e
+Light text: #ffffff
+Gray text: #6c757d
+Utility colors: success #28a745, warning #ffc107, danger #dc3545
+
+Typography
+----------
+Headings: 'Orbitron', monospace (700 weight)
+Body copy: 'Space Mono', monospace
+Text styling favors uppercase, tight letter-spacing, neon glows, and text shadows.
+
+Global Layout
+-------------
+Body uses a 135° gradient background and full‑viewport height.
+`#mainScreen` centers the app within 900px, with neon border, rounded corners,
+   and column layout (fixed top section + flexible bottom section).
+Glassmorphism elements (blur, transparency) appear in search areas and modals.
+
+Tabs & Views
+------------
+Tabs (.view-tabs / .view-tab) use gradients, border glows, and transitions.
+Active tabs feature a primary→pink gradient and drop shadow.
+Content views (.content-view) switch between albums, songs, and detail panels.
+
+Cards & Lists
+-------------
+Album cards (.album-card) and song items (.song-item) share gradient backgrounds,
+   neon border hovers, and slide/translate hover animations.
+Search results and playlist entries use subtle glowing borders and movement.
+
+Search Interface
+----------------
+Search container uses glassy gradients, inner/outer glows, focus animations,
+   and animated icons (iconPulse keyframes).
+Clear buttons are circular gradient pills with hover spin/scale.
+
+Now Playing & Queue
+-------------------
+Now playing bar combines a vinyl animation (spin keyframes) with neon text.
+Queue items and playlist chips rely on flex/scroll snapping and glow states
+   (default, playing, pending).
+
+Modals & Forms
+--------------
+Backdrop blur modals with slide-in animation.
+Inputs are bordered by primary color, glow on focus, and use icon adornments.
+Buttons (.retro-btn variants) use neon gradients, uppercase text, and hover motion.
+
+Animations
+----------
+Keyframes defined: searchGlow, iconPulse, spin, slideIn, shake.
+Hover states typically adjust translate/scale, drop shadows, and gradient overlays.
+
+Responsive Behavior
+-------------------
+Multiple @media queries for 768px and 480px breakpoints:
+ - Stack sections vertically, adjust padding, shrink grids, and relax sticky elements.
+ - Album detail view removes cover image on very small screens.
+ - Playlist container switches from grid to scrollable flex chips.
+
+Utility & Screen Classes
+------------------------
+.hidden toggles visibility; .screen ensures full-height page sections.
+Sticky playlist header on desktop, disabled when album detail overlay is active.
+Album detail view uses grid layout overrides at file end for better stacking.
+
+Usage
+-----
+This guide summarizes the stylistic intent. For exact selectors and values, refer
+to `styles.css`, which mirrors these descriptions verbatim.
+
+
+
+
+
+
+
+
+
+
+

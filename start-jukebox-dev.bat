@@ -1,23 +1,12 @@
 @echo off
-REM Jukebox Server Startup Script for Windows
+REM Jukebox Server Startup Script for Windows (Development/Testing)
 REM For deployment on hub at 192.168.50.5
 
-echo 🎵 Starting Jukebox Server...
+echo 🎵 Starting Jukebox Server (Development Mode)...
 echo 📍 Hub IP: 192.168.50.5
 echo 🌐 Domain: jukebox.8bitbar.com.au
-echo 🔌 Port: 80
+echo 🔌 Port: 3000 (Development - no admin required)
 echo.
-
-REM Check if running as administrator
-net session >nul 2>&1
-if errorlevel 1 (
-    echo ⚠️  WARNING: Not running as administrator
-    echo    Port 80 requires administrator privileges
-    echo    Either run as administrator or use start-jukebox-dev.bat for testing
-    echo.
-    echo    Press any key to continue anyway, or Ctrl+C to cancel...
-    pause >nul
-)
 
 REM Check if Node.js is installed
 node --version >nul 2>&1
@@ -39,17 +28,22 @@ REM Install dependencies if node_modules doesn't exist
 if not exist "node_modules" (
     echo 📦 Installing dependencies...
     npm install
+    if errorlevel 1 (
+        echo ❌ Failed to install dependencies
+        pause
+        exit /b 1
+    )
 )
 
 REM Set environment variables
-set PORT=80
+set PORT=3000
 set MONGODB_URI=mongodb+srv://8bbjukebox:8bbjukebox123...@8bbjukebox.w1btiwn.mongodb.net/?retryWrites=true&w=majority&appName=8bbJukebox
 
 REM Start the server
-echo 🚀 Starting server on port 80...
-echo 🌐 Access via: http://jukebox.8bitbar.com.au
-echo 🏠 Local access: http://192.168.50.5
-echo 📡 API endpoints: http://jukebox.8bitbar.com.au/api/*
+echo 🚀 Starting server on port 3000...
+echo 🌐 Access via: http://jukebox.8bitbar.com.au:3000
+echo 🏠 Local access: http://192.168.50.5:3000
+echo 📡 API endpoints: http://jukebox.8bitbar.com.au:3000/api/*
 echo.
 echo Press Ctrl+C to stop the server
 echo.
@@ -57,9 +51,6 @@ echo.
 node api-server.js
 if errorlevel 1 (
     echo ❌ Server failed to start. Check the error messages above.
-    echo    Common issues:
-    echo    - Port 80 already in use
-    echo    - Not running as administrator
-    echo    - MongoDB connection failed
     pause
 )
+

@@ -3,15 +3,15 @@
 ## Network Configuration
 
 ### Your Setup:
-- **Hub IP:** `192.168.50.100`
-- **Port Forward:** Port 80 → Hub (192.168.50.100:80)
+- **Hub IP:** `192.168.50.5`
+- **Port Forward:** Port 80 → Hub (192.168.50.5:80)
 - **Domain:** `jukebox.8bitbar.com.au` → Your WAN IP
 - **Public Access:** `http://jukebox.8bitbar.com.au`
 
 ## Deployment Steps
 
 ### 1. Copy Files to Hub
-Copy these files to your hub at `192.168.50.100`:
+Copy these files to your hub at `192.168.50.5`:
 - `api-server.js` (main server file)
 - `index.html` (frontend)
 - `styles.css` (frontend styles)
@@ -45,7 +45,7 @@ PORT=80 node api-server.js
 ```
 
 ### 4. Test Access
-- **Local:** `http://192.168.50.100`
+- **Local:** `http://192.168.50.5`
 - **Public:** `http://jukebox.8bitbar.com.au`
 - **API Health:** `http://jukebox.8bitbar.com.au/api/health`
 
@@ -57,7 +57,7 @@ PORT=80 node api-server.js
 
 ### Firewall Rules
 Make sure port 80 is open on your router and hub:
-- **Router:** Port forward 80 → 192.168.50.100:80
+- **Router:** Port forward 80 → 192.168.50.5:80
 - **Hub:** Allow incoming connections on port 80
 
 ## Features Available
@@ -89,7 +89,7 @@ Make sure port 80 is open on your router and hub:
 ### Can't Access from Internet:
 1. Verify port forwarding on router
 2. Check domain DNS settings
-3. Test local access first: `http://192.168.50.100`
+3. Test local access first: `http://192.168.50.5`
 
 ### MongoDB Connection Issues:
 1. Check internet connection on hub

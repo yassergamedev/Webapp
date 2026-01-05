@@ -1,0 +1,24 @@
+[Unit]
+Description=Jukebox Slave System
+After=network.target sound.target
+Wants=network.target
+
+[Service]
+Type=simple
+User=arcade
+Group=arcade
+WorkingDirectory=/home/arcade/Webapp
+ExecStart=/bin/bash /home/arcade/Webapp/slave-startup-systemd.sh
+Restart=on-failure
+RestartSec=10
+StandardOutput=journal
+StandardError=journal
+
+# Environment variables - COMBINED like the working master service
+Environment="DISPLAY=:0" "XAUTHORITY=/home/arcade/.Xauthority" "PULSE_RUNTIME_PATH=/run/user/1000/pulse" "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin" "NODE_ENV=production"
+
+# Audio and display permissions (needed for input handling)
+SupplementaryGroups=audio video pulse pulse-access input
+
+[Install]
+WantedBy=multi-user.target
